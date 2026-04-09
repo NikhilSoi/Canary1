@@ -1,0 +1,464 @@
+{
+  "body": "OfS",
+  "document": "Conditions of Registration",
+  "version_date": "",
+  "market": "UK",
+  "level": "HE",
+  "source_pdf": "ofs-condition-e8.pdf",
+  "condition_count": 14,
+  "conditions": [
+    {
+      "condition_id": "E8",
+      "title": "Prevention of fraud and inappropriate use of public funds",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E8.2",
+          "text": "The provider must have in place comprehensive arrangements in relation to the higher education it plans to provide if registered (including, but not limited to, processes, policies, training and the deployment of staff and financial resources) that could reasonably be considered as being adequate and effective for the purposes of detecting, preventing and stopping any form of conduct (including a failure to act) that could potentially amount to a relevant fraud offence or the inappropriate use of relevant public funds.",
+          "threshold": "Comprehensive anti-fraud arrangements that are adequate and effective for detecting, preventing and stopping fraud and inappropriate use of public funds",
+          "risk_indicators": [
+            "Absence of key policies such as conflicts of interest, whistleblowing, or anti-bribery policies",
+            "Lack of dedicated staff responsible for fraud oversight and prevention",
+            "No evidence of regular fraud awareness training for staff",
+            "Missing or inadequate risk registers relating to fraud and financial misconduct"
+          ]
+        },
+        {
+          "ref": "E8.4",
+          "text": "The provider must have a satisfactory track record in relation to receiving and/or accessing public funds.",
+          "threshold": "Satisfactory track record with no convictions for fraud prevention failures, fund revocations, or similar issues within past 60 months",
+          "risk_indicators": [
+            "Previous convictions under section 199 of the Economic Crime and Corporate Transparency Act 2023",
+            "Public funding access revoked or required repayment due to fraud or inappropriate use",
+            "Connected entities with history of fraud convictions or funding penalties",
+            "Ongoing investigations by funding bodies or regulatory authorities regarding financial misconduct"
+          ]
+        }
+      ],
+      "notes": "This condition applies to all forms of higher education provision including arrangements where a provider only grants awards for students registered elsewhere. 'Arrangements' specifically includes conflicts of interest policy, internal controls, risk registers, whistleblowing policy, anti-bribery policy, staff training, oversight structures, and other necessary measures. Track record assessment covers 60 months prior to registration application date."
+    },
+    {
+      "condition_id": "E8",
+      "title": "Conflicts of Interest Policy",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E8.1",
+          "text": "\"conflicts of interest policy\" has the meaning given in",
+          "threshold": "Institution must have a defined conflicts of interest policy with specified meaning",
+          "risk_indicators": [
+            "Absence of a formally documented conflicts of interest policy",
+            "Policy exists but lacks clear definition or scope",
+            "Policy definitions are vague or inconsistent with regulatory requirements",
+            "Staff or governors are unaware of the policy's existence or requirements"
+          ]
+        }
+      ],
+      "notes": "This appears to be a partial definition or reference to a conflicts of interest policy requirement. The full meaning and scope would typically be defined elsewhere in the regulatory framework."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Requirements relating to arrangements",
+      "category": "Finance",
+      "criteria": [
+        {
+          "ref": "E7.1",
+          "text": "Requirements relating to arrangements",
+          "threshold": "Must establish and maintain appropriate arrangements as specified in the condition",
+          "risk_indicators": [
+            "Lack of documented policies and procedures for handling public funds",
+            "Absence of internal controls for monitoring compliance with funding terms and conditions",
+            "No clear governance structure for oversight of public fund management",
+            "Missing or inadequate fraud prevention measures"
+          ]
+        }
+      ],
+      "notes": "This condition includes detailed definitions for: exceptional circumstances (compelling circumstances demonstrating satisfactory track record with public funds); inappropriate use (non-compliance with funding terms, obtaining funding when ineligible); public authority (as defined in Human Rights Act 1998); relevant fraud offence (various offences under Theft Act 1968, Fraud Act 2006, and common law conspiracy to defraud); relevant person (Chancellor, Secretaries of State, OfS, UKRI, Student Loans Company, Research England, local authorities, other statutory funding bodies); and relevant public funds (money from relevant persons, including student loan funding and inter-provider payments). Applies to all providers seeking registration as an initial condition under section 5 of HERA."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Delivery Arrangements for Planned Higher Education Provision",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "Condition E8.2 applies to the arrangements relating to the delivery of higher education that the provider plans to offer when it is registered.",
+          "threshold": "Provider must have appropriate delivery arrangements in place for all planned higher education provision upon registration",
+          "risk_indicators": [
+            "Incomplete or vague delivery plans for proposed courses",
+            "Lack of adequate resources or infrastructure to support planned delivery methods",
+            "Absence of clear policies for different modes of delivery (face-to-face, distance learning, blended)",
+            "Inadequate staffing arrangements to deliver planned provision"
+          ]
+        }
+      ],
+      "notes": "The reference to higher education provided 'in any manner or form' includes any higher education course (whether or not that course is recognised for OfS funding purposes, or any other purpose), at any level, and with any volume of learning. This means, for example, that postgraduate research courses, the study of modules or courses leading to micro credentials, and apprenticeships are included within the scope of this condition. It also includes courses provided face-to-face, by distance learning, or by a combination of delivery approaches."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Higher education provided by, or on behalf of, a provider",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "This includes higher education provided to all the students who are registered with a registered provider, taught by a registered provider or studying for an award of a registered provider (or where these services are provided on a registered provider's behalf).",
+          "threshold": "Ensure all higher education delivery is covered regardless of registration, teaching or award arrangements",
+          "risk_indicators": [
+            "Students receiving higher education services that fall outside the provider's oversight framework",
+            "Unclear accountability structures for students taught through third-party arrangements",
+            "Different quality standards applied to students based on their registration or teaching arrangements",
+            "Gaps in monitoring of educational services provided on the provider's behalf"
+          ]
+        },
+        {
+          "ref": "E8.2.2",
+          "text": "This includes UK-based and non-UK-based students, and courses delivered through partnership arrangements both within the UK and internationally.",
+          "threshold": "Apply consistent standards across all geographic locations and partnership arrangements",
+          "risk_indicators": [
+            "Lower quality standards or monitoring for international partnerships compared to UK delivery",
+            "Non-UK students receiving different levels of educational support or oversight",
+            "Partnership agreements that lack adequate quality assurance provisions",
+            "Inconsistent application of academic standards across different geographical locations"
+          ]
+        },
+        {
+          "ref": "E8.2.3",
+          "text": "The reference to 'including, but not limited to, circumstances where a provider would be responsible only for granting awards for students registered with another provider' means that a provider is required to comply with the provisions",
+          "threshold": "Maintain compliance responsibilities even when only granting awards to students registered elsewhere",
+          "risk_indicators": [
+            "Award-granting providers failing to verify the quality of education received by students registered elsewhere",
+            "Insufficient due diligence on the educational standards of other providers whose students receive awards",
+            "Lack of clear processes for ensuring award standards are maintained across different registration arrangements",
+            "Inadequate monitoring of academic achievement for students not directly taught by the award-granting provider"
+          ]
+        }
+      ],
+      "notes": "Condition E8.2 establishes the broad scope of higher education provision that falls under regulatory oversight, emphasizing that providers remain responsible for quality regardless of delivery arrangements, geographic location, or partnership structures. The condition ensures comprehensive coverage of all students associated with a registered provider through registration, teaching, or award arrangements."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Provider role determination for awarding body status",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "where it would be the awarding body for a course, whether or not that provider would have any other role in the design or delivery of that course",
+          "threshold": "Clear determination of awarding body status for courses regardless of other provider roles",
+          "risk_indicators": [
+            "Ambiguity about which entity has awarding body responsibility",
+            "Confusion between teaching delivery and awarding responsibilities",
+            "Unclear documentation of provider roles in course delivery",
+            "Conflicting claims about awarding body status between partners"
+          ]
+        },
+        {
+          "ref": "E8.2.2",
+          "text": "Where a provider would not be the awarding body for a course",
+          "threshold": "Clear identification when provider is not the awarding body",
+          "risk_indicators": [
+            "Provider claiming awarding powers they do not possess",
+            "Students unclear about who will award their qualification",
+            "Marketing materials suggesting awarding authority without proper status",
+            "Inadequate disclosure of actual awarding body to students"
+          ]
+        }
+      ],
+      "notes": "This condition relates to the clear determination and communication of awarding body status, ensuring providers accurately represent their role in course delivery and qualification awarding."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Course delivery scope for partnerships and awarding body arrangements",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "Condition E8.2 applies to a course the provider itself would deliver, or which would be delivered on its behalf, regardless of the identity of the awarding body, whether or not that awarding body is registered with the OfS, or the nature of any partnership agreement.",
+          "threshold": "Compliance with E8.2 requirements for all courses delivered by the provider or on its behalf",
+          "risk_indicators": [
+            "Provider fails to apply E8.2 requirements to courses delivered through partnerships",
+            "Different standards applied based on awarding body registration status with OfS",
+            "Inconsistent application of requirements across different partnership arrangements",
+            "Provider assumes E8.2 requirements only apply to OfS-registered awarding bodies"
+          ]
+        }
+      ],
+      "notes": "This condition clarifies that E8.2 requirements apply universally to all course delivery arrangements, including those with non-OfS registered awarding bodies such as Pearson, regardless of partnership structures or awarding body identity."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Course delivery responsibility for qualifications awarded by another provider",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "A provider applying for registration that is planning to deliver, or allow another provider to deliver, courses leading to a qualification awarded by another higher education provider, whether that awarding provider is located in England or elsewhere, is responsible for compliance with this condition in relation to those courses.",
+          "threshold": "Demonstrate responsibility for compliance when delivering courses for qualifications awarded by other providers",
+          "risk_indicators": [
+            "Unclear arrangements or agreements with awarding providers regarding compliance responsibilities",
+            "Lack of monitoring systems for courses delivered on behalf of other awarding providers",
+            "Evidence of non-compliance in courses where qualification is awarded by another provider",
+            "Insufficient documentation of responsibility frameworks for multi-provider arrangements"
+          ]
+        }
+      ],
+      "notes": "This condition establishes that providers are responsible for compliance even when delivering courses leading to qualifications awarded by other higher education providers, regardless of the awarding provider's location. The provisions may result in more than one provider being responsible for compliance in multi-provider arrangements."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Condition E8.2 in relation to the same course",
+      "category": "Access",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "Condition E8.2 in relation to the same course",
+          "threshold": "Compliance with condition E8.2 requirements for the specified course",
+          "risk_indicators": [
+            "Failure to meet access and participation plan targets for the course",
+            "Insufficient evidence of widening participation activities",
+            "Non-compliance with student outcome measures",
+            "Inadequate monitoring of access condition requirements"
+          ]
+        }
+      ],
+      "notes": "This appears to be a reference to condition E8.2 as it applies to a specific course. Full context and detailed requirements would typically be found in the complete condition E8.2 documentation."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Condition E8.2 and E8.3",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "The provider must have arrangements in place as defined in E8.3",
+          "threshold": "Implementation of all required arrangements specified in E8.3",
+          "risk_indicators": [
+            "Absence of documented policies and procedures",
+            "Unclear or outdated governance arrangements",
+            "Lack of evidence of arrangement implementation",
+            "Non-compliance with specific E8.3 requirements"
+          ]
+        },
+        {
+          "ref": "E8.3.1",
+          "text": "E8.3 defines the arrangements that a provider must have in place for the purposes of E8.2, which includes specific arrangements as well as any other arrangements needed to comply with E8.2",
+          "threshold": "Clear definition and establishment of all necessary arrangements",
+          "risk_indicators": [
+            "Incomplete arrangement definitions",
+            "Missing conflicts of interest policy",
+            "Inadequate governance framework documentation",
+            "Failure to identify all required arrangements"
+          ]
+        }
+      ],
+      "notes": "The arrangements listed in E8.3 include a conflicts of interest policy as defined in initial conditions. Document appears incomplete with reference to additional arrangement definitions."
+    },
+    {
+      "condition_id": "E8",
+      "title": "Arrangements to prevent and detect fraud and inappropriate use of public funds",
+      "category": "Finance",
+      "criteria": [
+        {
+          "ref": "E8.1",
+          "text": "internal control processes relating to the detection, prevention and stopping of the forms of conduct set out in E8.2: structured policies, procedures, and monitoring mechanisms implemented to prevent unauthorised activities and detect indicators of fraudulent behaviour",
+          "threshold": "Structured policies, procedures, and monitoring mechanisms must be implemented to prevent unauthorised activities and detect indicators of fraudulent behaviour",
+          "risk_indicators": [
+            "Absence of documented fraud detection policies or procedures",
+            "No monitoring mechanisms in place to detect suspicious activities",
+            "Staff unaware of internal control processes for fraud prevention",
+            "Incidents of unauthorised activities going undetected for extended periods"
+          ]
+        },
+        {
+          "ref": "E8.2",
+          "text": "a risk register (or equivalent document or documents) for the purpose of managing risks relating to the forms of conduct set out in E8.2: a structured document or system used to identify, assess, and manage risks within the provider, detailing each risk's likelihood, potential impact, assigned ownership, mitigation measures, and current status to support informed decision-making and compliance",
+          "threshold": "A structured risk register must be maintained that identifies, assesses, and manages fraud-related risks with detailed likelihood, impact, ownership, and mitigation measures",
+          "risk_indicators": [
+            "No risk register or equivalent document exists for fraud-related risks",
+            "Risk register lacks detail on likelihood, impact, or mitigation measures",
+            "Fraud-related risks not identified or assessed in business model",
+            "Risk register not regularly updated or reviewed"
+          ]
+        },
+        {
+          "ref": "E8.3",
+          "text": "a whistleblowing policy: a policy that allows individuals to confidentially report concerns about misconduct, unethical behaviour, or regulatory breaches, while ensuring protection against retaliation and outlining investigation procedures",
+          "threshold": "A whistleblowing policy must be in place that ensures confidential reporting, protection against retaliation, and clear investigation procedures",
+          "risk_indicators": [
+            "No whistleblowing policy exists or policy is not accessible to staff and students",
+            "Reports of retaliation against individuals who raised concerns",
+            "Lack of confidential reporting mechanisms",
+            "Investigation procedures are unclear or not followed"
+          ]
+        },
+        {
+          "ref": "E8.4",
+          "text": "an anti-bribery policy: a policy that outlines the provider's approach to preventing, identifying and addressing bribery",
+          "threshold": "An anti-bribery policy must outline the provider's comprehensive approach to preventing, identifying and addressing bribery",
+          "risk_indicators": [
+            "No anti-bribery policy in place or policy lacks detail on prevention measures",
+            "Staff unaware of what constitutes bribery or how to report it",
+            "Unclear procedures for addressing bribery allegations",
+            "Evidence of inappropriate gifts or payments involving staff"
+          ]
+        },
+        {
+          "ref": "E8.5",
+          "text": "training for staff relating to the awareness, detection, prevention and stopping of fraud: compulsory training to ensure staff have the knowledge, skills and awareness needed to identify, prevent and report fraudulent activity",
+          "threshold": "Compulsory fraud awareness training must be provided to ensure staff can identify, prevent and report fraudulent activity",
+          "risk_indicators": [
+            "No fraud awareness training provided to staff or training is not compulsory",
+            "Training not tailored to staff roles and responsibilities",
+            "Training not regularly reviewed and updated",
+            "Staff demonstrate lack of knowledge about fraud detection and reporting"
+          ]
+        },
+        {
+          "ref": "E8.6",
+          "text": "deployment of staff with responsibility for overseeing the policies, processes, training and other arrangements put in place for the purposes set out in E8.2, and structures for oversight of those staff and: the deployment of staff with defined responsibilities for the arrangements listed in E8.3 for the purposes set out in E8.2 to ensure that internal controls are effectively applied and risks are actively managed",
+          "threshold": "Staff must be deployed with defined responsibilities for overseeing fraud prevention arrangements, with appropriate oversight structures in place",
+          "risk_indicators": [
+            "No designated staff responsible for fraud prevention oversight",
+            "Unclear responsibilities or accountability for fraud prevention arrangements",
+            "Lack of oversight structures for staff managing fraud prevention",
+            "Staff responsible for fraud prevention lack necessary authority or resources"
+          ]
+        },
+        {
+          "ref": "E8.7",
+          "text": "any other arrangements necessary for the purposes of complying with E8.2: this may include, but is not limited to, internal and external audit functions and integration with broader governance systems",
+          "threshold": "Additional arrangements necessary for compliance must be in place, including internal/external audit functions and integration with governance systems",
+          "risk_indicators": [
+            "Absence of internal audit function or inadequate external audit arrangements",
+            "Fraud prevention arrangements not integrated with broader governance systems",
+            "Gaps in arrangements that leave provider vulnerable to fraud risks",
+            "Arrangements operate in isolation without coherent integration"
+          ]
+        },
+        {
+          "ref": "E8.8",
+          "text": "In order for a provider to comply with E8.2, it must have comprehensive arrangements in place that could reasonably be considered to be adequate and effective for the purposes of the condition",
+          "threshold": "Comprehensive arrangements must be in place that are adequate and effective for preventing fraud and inappropriate use of public funds",
+          "risk_indicators": [
+            "Written policies exist but operational arrangements are not implemented",
+            "Arrangements are preventative but lack proactive detection capabilities",
+            "Arrangements conflict with one another or fail to align",
+            "Arrangements are not appropriate to the provider's context or adequately resourced"
+          ]
+        }
+      ],
+      "notes": "Comprehensive arrangements must be broad in scope, covering various fraud scenarios and inappropriate use of public funds. Arrangements must be adequate (delivering stated objectives, sufficient scope, appropriately resourced) and effective (preventative and responsive, regularly reviewed, with appropriate oversight). Providers must assess their own context and risks to determine appropriate arrangements. Examples include robust registration processes, quality monitoring, data validation controls, transparent financial procedures, and designated compliance officers where appropriate."
+    },
+    {
+      "condition_id": "E8.4",
+      "title": "Satisfactory track record in relation to receiving and/or accessing public funds",
+      "category": "Finance",
+      "criteria": [
+        {
+          "ref": "E8.4.1",
+          "text": "The provider must have a satisfactory track record in relation to receiving and/or accessing public funds. This requirement is not restricted to convictions or decisions relating to higher education provision or to education and training.",
+          "threshold": "Demonstrated satisfactory history of managing public funds without significant breaches or convictions",
+          "risk_indicators": [
+            "Previous convictions for fraud offences involving public funds",
+            "Final decisions by government bodies to cease funding payments",
+            "Required repayments of previously received public funds",
+            "Suspension or revocation of access to Student Loans Company funding"
+          ]
+        }
+      ],
+      "notes": "Receiving public funds includes payments from Student Loans Company for tuition fees, maintenance payments, or OfS funding. Accessing public funds includes receiving tuition fee payments through lead providers. Final decisions exclude provisional decisions or temporary suspensions. Direct and indirect revocations of funding access are both considered. Repayments may be direct or through offset against future payments."
+    },
+    {
+      "condition_id": "E8",
+      "title": "Comprehensive, adequate and effective arrangements for preventing fraud and inappropriate use of public funds",
+      "category": "Finance",
+      "criteria": [
+        {
+          "ref": "E8.1",
+          "text": "A provider must submit a full and complete account of any exceptional circumstances it wishes the OfS to consider if any circumstances set out in paragraph E8.4 apply to the provider.",
+          "threshold": "Full disclosure and documentation of exceptional circumstances",
+          "risk_indicators": [
+            "Provider fails to disclose known issues with public fund management",
+            "Incomplete or delayed submission of exceptional circumstances documentation",
+            "Evidence of withholding material information about funding irregularities",
+            "Pattern of late or amended submissions regarding financial circumstances"
+          ]
+        },
+        {
+          "ref": "E8.2",
+          "text": "A provider must have comprehensive, adequate, and effective arrangements for preventing fraud or the inappropriate use of public funds.",
+          "threshold": "Demonstrable systems and controls to prevent fraud and misuse of public funding",
+          "risk_indicators": [
+            "Absence of documented fraud prevention policies and procedures",
+            "Weak internal controls over financial management and reporting",
+            "Lack of segregation of duties in financial processes",
+            "No regular monitoring or audit of public fund usage"
+          ]
+        },
+        {
+          "ref": "E8.3",
+          "text": "Inappropriate use is defined to include but is not limited to: Non-compliance with legally binding terms and conditions that specify or restrict how funding can be used; Obtaining or continuing to receive funding in circumstances where any conditions or criteria that determine a recipient's eligibility to receive the funding are not satisfied.",
+          "threshold": "Compliance with all funding terms, conditions and eligibility criteria",
+          "risk_indicators": [
+            "Use of restricted funding for unauthorized purposes",
+            "Submission of incorrect student data leading to overpayment",
+            "Continuing to claim funding despite changed eligibility status",
+            "Material differences between forecast and actual student numbers beyond normal tolerance"
+          ]
+        }
+      ],
+      "notes": "This condition covers arrangements for preventing fraud and inappropriate use of public funds. The OfS will not consider intention to prevent fraud as an exceptional circumstance after a final decision has been made. Relevant public funds include any funding paid in relation to students taught by the provider, whether paid directly or indirectly. Assessment considers governing body documents, business plans, and submitted arrangements for preventing fraud."
+    },
+    {
+      "condition_id": "E8",
+      "title": "Financial viability and sustainability",
+      "category": "Finance",
+      "criteria": [
+        {
+          "ref": "E8.1",
+          "text": "When assessing a provider's arrangements for the purposes of E8.2, the OfS will consider whether the provider has policies and processes in place to adequately and effectively manage risks relating to fraud and the inappropriate use of public funding identified within its business plan.",
+          "threshold": "Provider must have adequate and effective policies and processes to manage fraud and inappropriate use of public funding risks",
+          "risk_indicators": [
+            "Business plan identifies high-risk activities (third-party agents, partnerships) without corresponding risk management frameworks",
+            "Absence of documented fraud prevention policies or procedures",
+            "Previous history of financial irregularities or public funding misuse",
+            "Weak internal controls around financial processes and oversight"
+          ]
+        },
+        {
+          "ref": "E8.2",
+          "text": "In assessing whether a provider has comprehensive, adequate and effective arrangements for detecting, preventing or stopping fraud or the inappropriate use of public funds, the OfS's judgement will apply to the arrangements the provider will have in place if it is registered.",
+          "threshold": "Provider must demonstrate comprehensive, adequate and effective arrangements for detecting, preventing or stopping fraud or inappropriate use of public funds",
+          "risk_indicators": [
+            "Inadequate fraud detection systems or monitoring procedures",
+            "Limited segregation of duties in financial operations",
+            "Poor oversight of subcontractual arrangements or partnerships involving public funds",
+            "Failure to report or investigate suspected fraud incidents"
+          ]
+        },
+        {
+          "ref": "E8.3",
+          "text": "The OfS will draw on any relevant evidence or intelligence available to it, including information obtained through its own regulatory activity, third party notifications, or publicly available information, including action taken by other regulators, or media reporting.",
+          "threshold": "Provider must not have adverse evidence of fraud or inappropriate use of public funds from regulatory, third party, or public sources",
+          "risk_indicators": [
+            "Adverse media reports about financial misconduct or fraud",
+            "Regulatory action by other bodies relating to financial irregularities",
+            "Third-party complaints or whistleblower reports about financial practices",
+            "Public records showing financial penalties or sanctions"
+          ]
+        },
+        {
+          "ref": "E8.4",
+          "text": "A provider will be required to submit a declaration as part of its application for registration confirming whether any of the circumstances in E8.4.a apply. A provider must ensure that the information submitted in relation to this requirement is accurate and complete.",
+          "threshold": "Provider must submit accurate and complete declarations regarding circumstances that may affect financial integrity",
+          "risk_indicators": [
+            "Incomplete or missing declarations in registration application",
+            "Inconsistencies between declared information and available evidence",
+            "Late amendments to declarations after submission",
+            "Reluctance to provide additional information when requested"
+          ]
+        }
+      ],
+      "notes": "The OfS assessment considers arrangements that will be in place if registered, but may be informed by previous conduct relating to inappropriate use of public funds or fraud offences. This applies to providers with previous experience in higher education, further education, or other education/training delivery. The OfS may undertake further investigation where concerns exist based on available information."
+    }
+  ]
+}

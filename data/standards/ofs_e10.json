@@ -1,0 +1,405 @@
+{
+  "body": "OfS",
+  "document": "Conditions of Registration",
+  "version_date": "",
+  "market": "UK",
+  "level": "HE",
+  "source_pdf": "ofs-condition-e10.pdf",
+  "condition_count": 11,
+  "conditions": [
+    {
+      "condition_id": "E10",
+      "title": "Subcontracting",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "E10.5",
+          "text": "The provider must ensure that any risks to the interests of students and/or taxpayers posed by its existing and future relevant subcontractual arrangements are effectively identified and addressed, including, but not limited to, by complying with: a. the requirements in E10.6 to E10.8 in respect of a single subcontracting information source; and b. the requirements in E10.9 to E10.11 in respect of operation in accordance with that single subcontracting information source.",
+          "threshold": "Effective identification and management of all risks to students and taxpayers from subcontractual arrangements",
+          "risk_indicators": [
+            "Student complaints about quality or delivery of subcontracted courses",
+            "Failure to maintain required documentation or information sources",
+            "Financial irregularities or disputes with subcontractors",
+            "Evidence of inadequate oversight of partner providers"
+          ]
+        },
+        {
+          "ref": "E10.6",
+          "text": "The provider must maintain a single subcontracting information source which sets out policies, procedures and other provisions relating to its existing and future relevant subcontractual arrangements. That single subcontracting information source (and any revisions made to it from time to time) must comply at all times with the minimum content requirements and the content principles.",
+          "threshold": "Maintenance of compliant single subcontracting information source meeting all minimum requirements",
+          "risk_indicators": [
+            "Absence of required documentation or information source",
+            "Information source does not meet OfS minimum content requirements",
+            "Multiple conflicting documents relating to subcontracting arrangements",
+            "Failure to update information source following changes"
+          ]
+        },
+        {
+          "ref": "E10.7",
+          "text": "Where changes are made to the single subcontracting information source referred to in E10.6, the provider must retain the pre-existing version of that information for a minimum period of five years following changes being made to it.",
+          "threshold": "Retention of previous versions of subcontracting information for minimum five years",
+          "risk_indicators": [
+            "Unable to produce historical versions of subcontracting documentation when requested",
+            "Poor document version control or record-keeping systems",
+            "Evidence of deliberate destruction of previous documentation",
+            "Gaps in documentary audit trail for subcontracting arrangements"
+          ]
+        },
+        {
+          "ref": "E10.9",
+          "text": "Except as set out in E10.10, the provider must operate in accordance with the single subcontracting information source referred to in E10.6. This includes (but is not limited to) ensuring that, where the provider enters into any new contracts (or variations to existing contracts) at any point while the requirements in E10.5 to E10.11 apply to the provider (see E10.1), the terms and conditions of those contracts enable it to operate in accordance with the single subcontracting information source.",
+          "threshold": "Full operational compliance with stated subcontracting policies and procedures",
+          "risk_indicators": [
+            "Discrepancies between stated policies and actual operational practices",
+            "New contracts that conflict with or undermine subcontracting information source",
+            "Staff unaware of or not following established subcontracting procedures",
+            "Evidence of systematic non-compliance with own subcontracting policies"
+          ]
+        },
+        {
+          "ref": "E10.11",
+          "text": "The provider must have the capacity and resources necessary to operate in accordance with the single subcontracting information source referred to in E10.6.",
+          "threshold": "Adequate capacity and resources to fulfill all subcontracting obligations and oversight duties",
+          "risk_indicators": [
+            "Insufficient staffing levels or expertise to manage subcontractual arrangements",
+            "Financial constraints affecting ability to fulfill contractual obligations",
+            "Repeated failures in subcontractor oversight or quality assurance",
+            "Evidence of overstretched resources compromising subcontracting management"
+          ]
+        }
+      ],
+      "notes": "This condition applies when providers have 100+ students on relevant subcontractual courses or reasonably expect to reach this threshold. Key definitions include 'relevant subcontractual arrangement' (where 50% or less of course delivery is by the provider's own staff) and specific exemptions for certain types of partner providers. Requirements include maintaining compliant documentation, operating according to stated policies, and having adequate capacity and resources for effective subcontracting management."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Subcontractual courses with 100 or more students",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E10.1",
+          "text": "condition E10 will apply one calendar year before the start of the academic year in which the provider expects to have 100 or more students registered on relevant subcontractual courses",
+          "threshold": "Apply condition E10 requirements one calendar year before reaching 100+ students on subcontractual courses",
+          "risk_indicators": [
+            "Provider fails to forecast student numbers on subcontractual courses sufficiently in advance",
+            "Provider enters into delivery partnerships at short notice without proper planning",
+            "Student recruitment significantly exceeds expectations without triggering E10 compliance",
+            "Provider lacks systems to monitor and predict subcontractual course enrollment numbers"
+          ]
+        }
+      ],
+      "notes": "The OfS expects providers to identify whether they will have 100 or more students on relevant subcontractual courses at least one year in advance. This allows time for contract agreements, admission criteria setting, and student recruitment. For existing relationships, forecasts may be set several years ahead. Special considerations apply where providers agree delivery partnerships at short notice or recruit more students than expected."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Student Protection Plan Requirements for Providers with 100+ Students",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "E10.1",
+          "text": "A provider must reasonably conclude when there is a material likelihood that it would have 100 or more students in the relevant academic year",
+          "threshold": "Reasonable assessment and identification of material likelihood of reaching 100+ student threshold",
+          "risk_indicators": [
+            "Provider consistently under-forecasts student numbers without adjustment",
+            "Recruitment significantly exceeds projections without prior risk assessment",
+            "Lack of documented forecasting processes or trend monitoring",
+            "No evidence of threshold planning despite approaching 100 students"
+          ]
+        },
+        {
+          "ref": "E10.2",
+          "text": "A provider forecasting numbers close to 100 should consider how they will ensure they can meet the requirements of this condition if recruitment is higher than expected",
+          "threshold": "Proactive planning for potential over-recruitment scenarios when approaching 100 students",
+          "risk_indicators": [
+            "No contingency planning for recruitment exceeding forecasts",
+            "Inadequate capacity planning for student protection requirements",
+            "Failure to assess over-recruitment risks in business planning",
+            "No documented processes for managing unexpected enrollment growth"
+          ]
+        },
+        {
+          "ref": "E10.3",
+          "text": "The OfS may assess whether a provider should reasonably have expected to cross the 100-student threshold by considering forecasting processes, contracts, monitoring of emerging trends and risk identification",
+          "threshold": "Demonstrable reasonable forecasting and risk management processes that would identify threshold breach likelihood",
+          "risk_indicators": [
+            "Poor or absent forecasting methodologies and documentation",
+            "Failure to monitor enrollment trends and emerging risks",
+            "Inadequate contract management affecting student number projections",
+            "Acting in commercial interests rather than student/taxpayer interests when forecasting"
+          ]
+        }
+      ],
+      "notes": "This condition applies from the point a provider reasonably should have concluded there was material likelihood of reaching 100+ students. The OfS expects providers approaching this threshold to plan proactively and may investigate circumstances where providers unexpectedly cross the threshold to assess if they should reasonably have anticipated this outcome."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Parse error — review manually",
+      "category": "Unknown",
+      "criteria": [],
+      "notes": "condition E10 will continue to apply until the\nend of that academic year.\n13. "
+    },
+    {
+      "condition_id": "E10",
+      "title": "Subcontracting arrangements",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E10.5",
+          "text": "A lead provider must ensure that any risks to the interests of students and/or taxpayers posed by its existing and future relevant subcontractual arrangements are effectively identified and addressed.",
+          "threshold": "Effectively identify and address all risks to students and taxpayers from subcontractual arrangements",
+          "risk_indicators": [
+            "Students receiving lower quality academic experience from delivery partners compared to lead provider students",
+            "Inadequate controls for collection and submission of student data leading to incorrect funding payments",
+            "Academic misconduct not being properly identified or addressed by delivery partners",
+            "Students unaware that their course is delivered through subcontractual partnership or that lead provider retains portion of tuition fee"
+          ]
+        },
+        {
+          "ref": "E10.6",
+          "text": "A provider must determine the policies, procedures and other provisions that will identify and address risks to the interests of students and taxpayers posed by its relevant subcontractual arrangements.",
+          "threshold": "Develop and maintain comprehensive Subcontracting Information Source (SIS) with minimum content requirements",
+          "risk_indicators": [
+            "SIS not developed or implemented by 30 June 2026 deadline",
+            "SIS lacks minimum content requirements or fails to address provider-specific risks",
+            "Historical versions of SIS not retained for minimum five years",
+            "SIS not maintained or updated when subcontractual arrangements change"
+          ]
+        }
+      ],
+      "notes": "The OfS may vary the 100-student thresholds and may amend the definition of 'relevant subcontractual arrangements' in future. Providers must have SIS in place by 30 June 2026, except for new contracts entered on/after 31 March 2026 which require SIS before contract execution. The condition includes non-exhaustive requirements and OfS may take regulatory action even if specific requirements are met but overarching obligation is not satisfied."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Subcontractual arrangements - policies and procedures",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "E10.1",
+          "text": "The SIS must include the provider's policies and procedures as to how it verifies information or data held by its partner about students on subcontracted courses, including providing for verification via onsite inspections.",
+          "threshold": "Policies and procedures for data verification including mandatory onsite inspections must be documented",
+          "risk_indicators": [
+            "Absence of documented verification policies in the SIS",
+            "No evidence of onsite inspection procedures or schedules",
+            "Reliance solely on partner-provided information without independent verification",
+            "Lack of specific verification mechanisms beyond basic reporting"
+          ]
+        },
+        {
+          "ref": "E10.2",
+          "text": "The scope of onsite testing should be appropriate for the teaching delivery methods, and be sufficient to mitigate the risks to students and taxpayers identified by a provider.",
+          "threshold": "Onsite testing scope must be tailored to delivery methods and address identified risks",
+          "risk_indicators": [
+            "Generic onsite testing approach not tailored to specific delivery methods",
+            "Limited scope of testing that fails to cover key risk areas",
+            "No evidence of risk-based testing approach",
+            "Inadequate testing frequency relative to identified risks"
+          ]
+        },
+        {
+          "ref": "E10.3",
+          "text": "The SIS should also explain how it will protect the interests of students if a partner's delivery fails.",
+          "threshold": "Clear student protection measures for partner delivery failure must be documented",
+          "risk_indicators": [
+            "No documented contingency plans for partner failure",
+            "Unclear or inadequate student protection arrangements",
+            "Student protection plan does not cover subcontracted provision",
+            "No evidence of alternative delivery arrangements or compensation mechanisms"
+          ]
+        }
+      ],
+      "notes": "Verification methods must go beyond relying on partner-provided information. For physical campus delivery, onsite testing includes in-person visits to observe teaching and facilities. For online delivery, testing involves accessing the online learning environment. Student data verification may require visits to data storage locations but typically excludes third-party data centres."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Student Information Source for Subcontracting",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "E10.9",
+          "text": "Where measures for protecting the interests of students if a delivery partner fails are already included in the Student Protection Plan or key documents as set out in initial condition of registration C5, the provider must clearly set out in its SIS: a. How the SPP (or key documents) will be implemented specifically for students taught at each of its subcontractual partners. For example, this may include plans for the lead provider to take over course delivery directly, or to transfer students to a suitable alternative course delivered by another provider. b. Any additional or tailored arrangements that would apply in such scenarios.",
+          "threshold": "Clear implementation plans for student protection measures must be documented for each subcontractual partner",
+          "risk_indicators": [
+            "Generic or vague student protection measures that don't specify implementation for individual delivery partners",
+            "Absence of detailed plans for course delivery takeover or student transfer arrangements",
+            "Missing tailored arrangements for different types of subcontractual partnerships"
+          ]
+        },
+        {
+          "ref": "E10.10",
+          "text": "When setting out how it will protect the interests of students in the event of poor performance by a delivery partner, a lead provider should take a broad interpretation of 'poor performance', beyond performance that may be expressed in contractual KPIs or other formal metrics. In this context 'poor performance' should be defined sufficiently broadly to include performance by a delivery partner that introduces risk to students and/or taxpayers. A provider should consider risks to students and taxpayers and explain how it would: a. Identify when such risks are crystallising or are likely to do so, and ensure that performance monitoring and metrics can identify these issues with a delivery partner's performance. b. Intervene where necessary to protect the interests of students and taxpayers, including setting out the tests it would use to identify situations in which the lead provider needs to escalate a concern and the range of remedial actions that could be taken. c. Escalate concerns and take action where necessary, including the steps the provider will take if a delivery partner fails to act or takes insufficient action to address concerns.",
+          "threshold": "Comprehensive performance monitoring system with clear identification, intervention and escalation procedures for delivery partner risks",
+          "risk_indicators": [
+            "Narrow definition of poor performance limited to contractual metrics only",
+            "Lack of early warning systems for identifying emerging risks to students or taxpayers",
+            "Unclear escalation procedures or remedial action frameworks",
+            "Inadequate performance monitoring that fails to capture broader risks beyond formal KPIs"
+          ]
+        },
+        {
+          "ref": "E10.11",
+          "text": "A provider must explain in its SIS how it keeps its policies and procedures under regular review and how it adapts them in response to changes, including to the scale or nature of its subcontractual provision. The SIS will contain the policies, procedures and other provisions required to effectively identify and address risks to the interests of students and taxpayers posed by its relevant subcontractual arrangements.",
+          "threshold": "Regular review and adaptation mechanisms for subcontracting policies must be documented and operational",
+          "risk_indicators": [
+            "Static policies that have not been reviewed or updated over extended periods",
+            "Failure to adapt procedures when introducing new subcontractual arrangements",
+            "Inadequate response to changes in scale of subcontracted student numbers",
+            "Missing documentation of review processes and adaptation mechanisms"
+          ]
+        }
+      ],
+      "notes": "The SIS (Student Information Source) must effectively identify and address risks to students and taxpayers from subcontractual arrangements. 'Key documents' are defined as the provider's terms and conditions, other documents with contractual effect, notices, policies relating to circumstances for course changes, refund and compensation policies, and complaints processes. The primary purpose is ensuring effective risk identification and management that can adapt to evolving circumstances."
+    },
+    {
+      "condition_id": "E10.9",
+      "title": "Operating in accordance with SIS for subcontractual arrangements",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E10.9.1",
+          "text": "A provider must operate in accordance with its SIS, ensuring that any risks to the interests of students and/or taxpayers posed by its relevant subcontractual arrangements are effectively identified and addressed, in line with the overarching requirement.",
+          "threshold": "Effective identification and addressing of risks from subcontractual arrangements while operating in accordance with SIS",
+          "risk_indicators": [
+            "Subcontractual arrangements not reflected in or considered within the SIS framework",
+            "Lack of monitoring systems for delivery partner compliance with SIS requirements",
+            "Absence of staff deployment or governance oversight for subcontracted delivery",
+            "Risk assessment processes that fail to identify student or taxpayer risks from partnerships"
+          ]
+        },
+        {
+          "ref": "E10.9.2",
+          "text": "Any new contracts (or variations to existing contracts) must allow the provider to operate in accordance with its SIS. The OfS would expect to see the provisions in a provider's SIS reflected in its new contracts (or variations to existing contracts) with delivery partners.",
+          "threshold": "New contracts and variations enable SIS compliance and reflect SIS provisions",
+          "risk_indicators": [
+            "New partnership contracts that lack SIS compliance mechanisms",
+            "Contract variations that weaken the provider's ability to enforce SIS requirements",
+            "Delivery partner agreements with terms that conflict with SIS provisions",
+            "Absence of contractual provisions enabling SIS monitoring and enforcement"
+          ]
+        },
+        {
+          "ref": "E10.9.3",
+          "text": "For existing contracts only, a provider must take all reasonable steps to ensure that the terms and conditions of its existing contracts enable it to operate in accordance with the SIS, including taking all reasonable steps to renegotiate contract terms, using contract clauses for regulatory changes, and using earliest contract break points where financially viable.",
+          "threshold": "All reasonable steps taken to align existing contracts with SIS requirements",
+          "risk_indicators": [
+            "No evidence of attempts to renegotiate problematic existing contracts",
+            "Failure to utilize available contract change mechanisms for regulatory compliance",
+            "Unreasonable delays in addressing contract break opportunities",
+            "Lack of documentation showing reasonable steps taken to achieve SIS compliance"
+          ]
+        },
+        {
+          "ref": "E10.9.4",
+          "text": "If after exhausting all reasonable steps a provider still cannot operate in accordance with the SIS, it must submit a reportable event and consider ways to mitigate risks to students, for example by using contract provisions to limit student numbers.",
+          "threshold": "Submission of reportable events when SIS compliance cannot be achieved despite reasonable efforts, with student risk mitigation measures",
+          "risk_indicators": [
+            "Continued non-compliance with SIS without reportable event submission",
+            "Failure to implement student risk mitigation measures when SIS compliance is not possible",
+            "Absence of reasonable steps documentation when claiming compliance cannot be achieved",
+            "Ongoing delivery through non-compliant contracts without OfS notification"
+          ]
+        }
+      ],
+      "notes": "'Existing contracts' are defined in the condition. 'All reasonable steps' includes renegotiation efforts, using contract change clauses, utilizing break points, and may include paying financial penalties depending on circumstances and provider financial position. The OfS may review contracts and contact delivery partners when reportable events are submitted."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Information on how the OfS would assess whether a provider is operating in accordance with its SIS",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "E10.1",
+          "text": "Information on how the OfS would assess whether a provider is operating in accordance with its SIS is included in the assessment section below (see paragraph 52 onwards).",
+          "threshold": "Provider must operate in accordance with its Student Information Set (SIS)",
+          "risk_indicators": [
+            "Discrepancies between information published in SIS and actual provision or outcomes",
+            "Failure to update SIS information when material changes occur to courses or services",
+            "Student complaints indicating misleading or inaccurate information in marketing materials",
+            "Significant variances between promised and delivered learning opportunities or support services"
+          ]
+        }
+      ],
+      "notes": "This condition refers to assessment criteria detailed in paragraph 52 onwards of the source document. SIS refers to Student Information Set - standardized information that providers must publish about their courses and services."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Capacity and resources to operate in accordance with the SIS",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E10.1",
+          "text": "A provider must have the capacity and resources necessary to operate in accordance with the SIS.",
+          "threshold": "Demonstrated capacity and resources to implement and maintain subcontractual arrangements oversight systems",
+          "risk_indicators": [
+            "Third party notifications about delivery partner misconduct or misrepresentation",
+            "Repeated incidents at the same delivery partner without strengthened controls",
+            "Complaints or audit findings trending upward without corresponding oversight adjustments",
+            "Delivery partners charging excessive fees or breaching consumer protection law"
+          ]
+        },
+        {
+          "ref": "E10.2",
+          "text": "A provider must ensure that any risks to the interests of students and/or taxpayers posed by its relevant subcontractual arrangements are effectively identified and addressed.",
+          "threshold": "Effective identification and addressing of risks across all subcontractual arrangements",
+          "risk_indicators": [
+            "Systemic failures in risk management processes across multiple delivery partners",
+            "Large-scale issues arising without prior identification or reporting",
+            "Same issues recurring repeatedly without remedial action",
+            "Failure to adjust oversight arrangements despite changing risk profiles"
+          ]
+        }
+      ],
+      "notes": "Each provider is responsible for determining its approach to meeting this requirement. The OfS expects that oversight arrangements in a provider's SIS would reflect the risk associated with each subcontractual arrangement. Factors relevant to assessing risks include: number of students, range of courses or delivery modes, speed of expansion, audit findings, and complaints associated with provision. The OfS may take enforcement action based on the overarching obligation itself, even where other specific steps have been taken."
+    },
+    {
+      "condition_id": "E10",
+      "title": "Subcontracting information source",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E10.1",
+          "text": "The provider must maintain a subcontracting information source (SIS) that complies with content principles and specific tests as set out in the regulatory framework.",
+          "threshold": "Current and historical versions of SIS must be producible and comply with content principles",
+          "risk_indicators": [
+            "Provider cannot produce current or historical versions of its SIS when requested",
+            "SIS does not include required minimum content such as whistleblowing procedures for subcontractual arrangements",
+            "SIS content fails to meet specific tests for oversight mechanisms and policies",
+            "Generic policies lacking specific provisions for subcontracted delivery are used instead of tailored approaches"
+          ]
+        },
+        {
+          "ref": "E10.2",
+          "text": "The SIS must include specific information set out in 'Subcontracting information source minimum content requirements', including information on how the provider deals with whistleblowing about activity under its relevant subcontractual arrangements.",
+          "threshold": "All required minimum content must be included in the SIS",
+          "risk_indicators": [
+            "SIS missing required sections on whistleblowing procedures",
+            "Oversight mechanisms described in SIS would not enable compliance with overarching obligations",
+            "Policies and procedures lack integration with contract management processes",
+            "Documentation inconsistent with stated strategic rationale for subcontracting"
+          ]
+        },
+        {
+          "ref": "E10.3",
+          "text": "The provider must operate in accordance with its SIS, ensuring that provisions are reflected in contracts with delivery partners and that existing contracts support compliance with the SIS.",
+          "threshold": "Practical operation must align with SIS provisions and contracts must support SIS compliance",
+          "risk_indicators": [
+            "Provider unable to retrieve student data from delivery partners within timeframes specified in SIS",
+            "New contracts do not reflect provisions in the provider's SIS",
+            "Existing contracts do not support compliance with SIS requirements",
+            "Evidence of failure to take reasonable steps to align existing contracts with SIS"
+          ]
+        },
+        {
+          "ref": "E10.4",
+          "text": "The provider must have the capacity and resources necessary to operate in accordance with the SIS, with appropriate staffing and expertise to implement processes effectively.",
+          "threshold": "Sufficient capacity and resources must be demonstrated relative to scale and nature of subcontractual arrangements",
+          "risk_indicators": [
+            "Inadequate staffing levels relative to scale of subcontractual arrangements described in SIS",
+            "Team members lack skills and experience needed for qualitative reviews of non-traditional applicants",
+            "Manual processes requiring large-scale reviews are inadequately resourced",
+            "Controls set out in SIS are disproportionate to provider's actual capacity to implement them"
+          ]
+        }
+      ],
+      "notes": "This condition focuses on subcontracting arrangements and requires providers to maintain comprehensive information sources, operate in accordance with documented processes, and demonstrate adequate capacity. The OfS may consider regulatory intelligence and evidence of practical implementation when assessing compliance. Particular attention is given to oversight mechanisms, contract alignment, and resource adequacy for non-traditional admissions processes in subcontracted delivery."
+    }
+  ]
+}

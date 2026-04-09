@@ -36,7 +36,7 @@ except ImportError:
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-STANDARDS_PATH = Path("./data/standards/ofs.json")
+STANDARDS_DIR = Path("./data/standards")
 app = FastAPI(title="Canary API", version="0.1.0")
 
 app.add_middleware(
@@ -73,10 +73,17 @@ class AssessmentResponse(BaseModel):
 # ── Standards loader ──────────────────────────────────────────────────────────
 
 def load_standards() -> dict:
-    if not STANDARDS_PATH.exists():
-        raise FileNotFoundError(f"Standards file not found at {STANDARDS_PATH}")
-    with open(STANDARDS_PATH, "r") as f:
-        return json.load(f)
+    all_conditions = []
+    for f in STANDARDS_DIR.glob("*.json"):
+        data = json.load(open(f))
+        all_conditions.extend(data.get("conditions", []))
+    return {
+        "body": "OfS",
+        "document": "Full UK Regulatory Framework",
+        "version_date": "2024",
+        "conditions": all_conditions,
+        "condition_count": len(all_conditions)
+    }
 
 
 # ── Assessment prompt ─────────────────────────────────────────────────────────

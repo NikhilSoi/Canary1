@@ -1,0 +1,1090 @@
+{
+  "body": "OfS",
+  "document": "Conditions of Registration",
+  "version_date": "",
+  "market": "UK",
+  "level": "HE",
+  "source_pdf": "ofs-condition-e9.pdf",
+  "condition_count": 28,
+  "conditions": [
+    {
+      "condition_id": "E9",
+      "title": "condition E9",
+      "category": "Finance",
+      "criteria": [
+        {
+          "ref": "E9.1",
+          "text": "'business objectives and targets' has the meaning given in",
+          "threshold": "Proper definition and understanding of business objectives and targets",
+          "risk_indicators": [
+            "Undefined or unclear business objectives and targets",
+            "Inconsistent interpretation of business objectives across the institution",
+            "Missing reference to the specified definition source",
+            "Failure to align activities with stated business objectives and targets"
+          ]
+        }
+      ],
+      "notes": "This condition appears to be incomplete as it references a definition that is not provided in the extracted text."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Business Plan Requirements",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.1",
+          "text": "business plan means a business plan as required under Part 2 of",
+          "threshold": "Maintain compliant business plan meeting Part 2 requirements",
+          "risk_indicators": [
+            "Business plan is incomplete or missing required Part 2 elements",
+            "Business plan has not been updated within required timeframes",
+            "Financial projections in business plan are unrealistic or unsupported",
+            "Business plan lacks adequate risk assessment or mitigation strategies"
+          ]
+        }
+      ],
+      "notes": "This appears to be a partial extract defining business plan requirements. The full text references Part 2 requirements but the complete condition text is not provided in the document extract."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Definitions and interpretations",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.1",
+          "text": "'company director' means any individual that a company would be required to include in its register of its directors under section 162(1) of the Companies Act 2006",
+          "threshold": "Clear understanding and application of company director definition as per Companies Act 2006",
+          "risk_indicators": [
+            "Failure to properly identify individuals who should be registered as directors",
+            "Incomplete or inaccurate director registers maintained",
+            "Individuals acting as directors without proper registration or recognition",
+            "Confusion about who constitutes a company director under legal requirements"
+          ]
+        },
+        {
+          "ref": "E7.2",
+          "text": "'company secretary' means any individual that a company would be required to include in its register of its secretaries under section 275(1) of the Companies Act 2006",
+          "threshold": "Clear understanding and application of company secretary definition as per Companies Act 2006",
+          "risk_indicators": [
+            "Failure to properly identify individuals who should be registered as company secretaries",
+            "Incomplete or inaccurate secretary registers maintained",
+            "Individuals acting as company secretaries without proper registration",
+            "Misunderstanding of legal requirements for company secretary roles"
+          ]
+        },
+        {
+          "ref": "E7.3",
+          "text": "'exceptional circumstances' means compelling circumstances which demonstrate, in the OfS's judgement, that the individual is nevertheless fit and proper for the purposes of E9.4",
+          "threshold": "Understanding that exceptional circumstances require OfS judgement on fitness and propriety",
+          "risk_indicators": [
+            "Inappropriate reliance on exceptional circumstances provisions without OfS consultation",
+            "Failure to present compelling evidence when claiming exceptional circumstances",
+            "Misapplication of exceptional circumstances criteria",
+            "Inadequate documentation of circumstances claimed to be exceptional"
+          ]
+        },
+        {
+          "ref": "E7.4",
+          "text": "'fraud and public money arrangements' means the arrangements as required under",
+          "threshold": "Understanding of fraud and public money arrangements requirements",
+          "risk_indicators": [
+            "Incomplete understanding of fraud prevention arrangements",
+            "Inadequate public money handling procedures",
+            "Missing or deficient fraud detection systems",
+            "Poor compliance with public funding accountability requirements"
+          ]
+        }
+      ],
+      "notes": "This condition provides key definitions for terms used throughout the OfS conditions of registration, particularly relating to corporate governance roles and exceptional circumstances provisions. The definition for 'fraud and public money arrangements' appears incomplete in the provided text."
+    },
+    {
+      "condition_id": "E8.2",
+      "title": "Condition E8.2 Definitions",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E8.2.1",
+          "text": "'governing body' has the meaning given by section 85 of the Higher Education and Research Act 2017",
+          "threshold": "Provider must have a governing body as defined in the Higher Education and Research Act 2017",
+          "risk_indicators": [
+            "Governing body structure does not comply with statutory definition",
+            "No formal governing body established",
+            "Governing body lacks required legal status or composition"
+          ]
+        },
+        {
+          "ref": "E8.2.2",
+          "text": "'inappropriate use' means, in respect of relevant public funds, any of the following: i. not complying with legally binding terms and conditions that specify or restrict how funding can be used; ii. obtaining, or continuing to receive, funding in circumstances where any conditions or criteria that determine an individual or organisation's eligibility to receive the funding are not satisfied",
+          "threshold": "Provider must use public funds only in compliance with legally binding terms and conditions and eligibility criteria",
+          "risk_indicators": [
+            "Public funds used outside of specified terms and conditions",
+            "Evidence of continuing to receive funding when eligibility criteria no longer met",
+            "Financial audit findings showing non-compliance with funding restrictions",
+            "Failure to maintain required eligibility status for funding streams"
+          ]
+        },
+        {
+          "ref": "E8.2.3",
+          "text": "'independent member' means an external member of the provider's governing body who is independent of the provider",
+          "threshold": "Provider must have independent members on governing body who are external and independent",
+          "risk_indicators": [
+            "Governing body members have undisclosed conflicts of interest",
+            "External members have financial or personal ties to the provider",
+            "Lack of truly independent oversight on governing body"
+          ]
+        },
+        {
+          "ref": "E8.2.4",
+          "text": "'involved in', in relation to an individual's involvement in an organisation, means that the individual held significant managerial responsibility or influence at the time when the issues giving rise to the relevant matter occurred",
+          "threshold": "Clear definition of when an individual is considered involved in an organisation for regulatory purposes",
+          "risk_indicators": [
+            "Disputes over individual responsibility for organisational issues",
+            "Unclear managerial accountability structures",
+            "Attempts to avoid responsibility through unclear role definitions"
+          ]
+        }
+      ],
+      "notes": "This condition provides key definitions for regulatory terms including governing body, inappropriate use of public funds, independent members, and involvement in organisations. The document appears incomplete as it cuts off mid-definition for 'relevant fraud offence'."
+    },
+    {
+      "condition_id": "E8",
+      "title": "Condition E8",
+      "category": "Finance",
+      "criteria": [
+        {
+          "ref": "E8.1",
+          "text": "'relevant individuals' means all of the following: i. any member of the provider's governing body; ii. the individual proposed as the accountable officer for the purposes of ongoing condition of registration E3; iii. the individual(s) proposed to hold overarching responsibility for the management of the provider's financial affairs; iv. any company director of the provider; v. any company secretary of the provider; vi. any individual who holds more than 25 per cent of the shares in the provider; vii. where the provider has a parent undertaking, any individual who holds more than 25 per cent of the shares in that parent undertaking; and viii. any individual who would have significant overarching responsibility for ensuring that the provider complies with the ongoing conditions of registration (if registered)",
+          "threshold": "Clear identification and classification of all relevant individuals with governance, financial, or compliance responsibilities",
+          "risk_indicators": [
+            "Failure to identify key individuals in governance or financial management roles",
+            "Unclear accountability structures or overlapping responsibilities",
+            "Significant shareholdings not properly disclosed or tracked",
+            "Lack of clarity about who holds compliance responsibility"
+          ]
+        },
+        {
+          "ref": "E8.2",
+          "text": "'relevant person or body' means: i. any court or tribunal; ii. the Chancellor of the Exchequer; iii. any Secretary of State or Minister; iv. the OfS; v. UKRI; vi. Research England; vii. Education and Skills Funding Agency; viii. a local authority; ix. the Student Loans Company Limited; x. any professional body; and xi. any other public body",
+          "threshold": "Proper recognition and engagement with all specified regulatory and funding bodies",
+          "risk_indicators": [
+            "Non-compliance with requirements from regulatory bodies",
+            "Failure to respond to communications from funding agencies",
+            "Missing or delayed reporting to professional bodies",
+            "Lack of awareness of obligations to multiple public bodies"
+          ]
+        },
+        {
+          "ref": "E8.3",
+          "text": "'relevant public funds' means any sums of money obtained or otherwise derived from a relevant person or body, including but not limited to, the following: i. funding provided to a registered higher education provider by the Student Loans Company Limited on behalf of a student; ii. any form of payment made by a registered higher education provider ('the relevant provider') to another registered higher education provider or unregistered English higher education provider in connection with the provision of higher education to students who are the beneficiaries of funding provided to the relevant provider by the Student Loans Company Limited",
+          "threshold": "Accurate identification, tracking and management of all public funding sources",
+          "risk_indicators": [
+            "Misclassification of funding sources or streams",
+            "Inadequate tracking of student loan funding flows",
+            "Improper handling of inter-provider funding arrangements",
+            "Failure to maintain clear audit trails for public funds"
+          ]
+        }
+      ],
+      "notes": "This condition provides key definitions for relevant individuals, persons or bodies, and public funds that are referenced throughout other conditions of registration. These definitions establish the scope of regulatory oversight and accountability requirements."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Significant managerial responsibility or influence",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.1",
+          "text": "'significant managerial responsibility or influence' includes, but is not limited to, serving on a board or governing body, having voting rights, or employment in a senior management position.",
+          "threshold": "Clear definition and identification of roles with significant managerial responsibility or influence",
+          "risk_indicators": [
+            "Unclear or inconsistent definitions of senior management roles",
+            "Board members or senior staff with undisclosed voting rights or influence",
+            "Management structures that obscure lines of responsibility",
+            "Key decision-makers operating without formal recognition of their influence"
+          ]
+        }
+      ],
+      "notes": "Applies to all providers seeking registration as an initial condition. Legal basis: section 5 of HERA. This condition provides definitional clarity for what constitutes significant managerial responsibility or influence within higher education providers."
+    },
+    {
+      "condition_id": "E9",
+      "title": "Knowledge and expertise",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.1",
+          "text": "The governing body of the provider must have knowledge and expertise that is appropriate to enable effective oversight of the provider.",
+          "threshold": "Governing body must possess appropriate knowledge and expertise for effective oversight",
+          "risk_indicators": [
+            "Governing body members lack relevant educational, financial, or sector-specific qualifications",
+            "Absence of members with higher education experience on the governing body",
+            "Board decisions show poor understanding of regulatory requirements or sector practices",
+            "Lack of continuing professional development or training for governing body members"
+          ]
+        }
+      ],
+      "notes": "This condition ensures that the governing body has the necessary collective knowledge and expertise to provide effective oversight of the higher education provider's operations and strategic direction."
+    },
+    {
+      "condition_id": "E9.1",
+      "title": "Key individuals must meet minimum knowledge and expertise requirements",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.1.1",
+          "text": "Key individuals must meet minimum knowledge and expertise requirements. The minimum requirements differ depending on the individual's role and responsibilities.",
+          "threshold": "All key individuals (Chair, accountable officer, Finance Senior Manager, Independent Member) must demonstrate appropriate knowledge and expertise for their specific roles",
+          "risk_indicators": [
+            "Key individuals lack relevant qualifications or experience for their designated roles",
+            "Finance Senior Manager cannot demonstrate understanding of provider's financial arrangements",
+            "Chair or Independent Member lacks governance experience in higher education or similar sector",
+            "Individual holding multiple roles fails to meet knowledge requirements for any of those roles"
+          ]
+        },
+        {
+          "ref": "E9.1.2",
+          "text": "The Finance Senior Manager must have necessary knowledge and expertise to exercise overarching financial oversight and strategic financial decision making. The individual is not required to have the practical financial skills to, for example, prepare the provider's financial statements. The individual with overarching responsibility for the management of the provider's financial affairs would be expected to understand the provider's financial arrangements, and to provide assurance that they are adequate.",
+          "threshold": "Finance Senior Manager must demonstrate capability for financial oversight and strategic decision-making, with understanding of provider's financial arrangements",
+          "risk_indicators": [
+            "Finance Senior Manager cannot articulate understanding of provider's financial position",
+            "Lack of evidence of strategic financial decision-making experience",
+            "Unable to provide assurance on adequacy of financial arrangements",
+            "No clear assignment of financial oversight responsibility to senior leadership team member"
+          ]
+        },
+        {
+          "ref": "E9.1.3",
+          "text": "Where one individual holds multiple roles, the OfS will assess them against the knowledge and expertise requirements for both roles. In these cases, we will normally assess that individual against the knowledge and expertise requirements relevant to each role.",
+          "threshold": "Individuals with multiple key roles must meet knowledge and expertise requirements for each role they hold",
+          "risk_indicators": [
+            "Multi-role individual demonstrates competence in only some of their assigned roles",
+            "Lack of evidence showing capability across all held positions",
+            "Time constraints preventing effective execution of multiple roles",
+            "Conflicting responsibilities between roles not properly managed"
+          ]
+        }
+      ],
+      "notes": "This condition applies to Chair (chair of governing body), accountable officer (for condition E3), Finance Senior Manager (overarching responsibility for financial affairs), and Independent Member (for Approved fee cap category providers). Terms include people currently in roles if provider intends to retain them. Finance Senior Manager typically holds roles like Director of Finance or CFO, but in smaller providers may be accountable officer or other senior staff member."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Key individuals and governance arrangements",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.1",
+          "text": "The relevant independent member must demonstrate sufficient knowledge and expertise to fulfil the role.",
+          "threshold": "Independent governing body member demonstrates requisite knowledge and expertise",
+          "risk_indicators": [
+            "Independent member lacks relevant educational sector experience",
+            "No evidence of professional development or training for governance role",
+            "Independent member unable to demonstrate understanding of higher education regulatory requirements",
+            "Absence of documented expertise assessment for independent member appointment"
+          ]
+        },
+        {
+          "ref": "E7.2",
+          "text": "Where a provider has more than one independent member of its governing body, only one must meet the relevant knowledge and expertise requirements.",
+          "threshold": "At least one independent member meets knowledge and expertise requirements",
+          "risk_indicators": [
+            "All independent members lack sufficient expertise",
+            "Provider unable to identify which independent member meets requirements",
+            "No clear nomination process for designating the qualified independent member",
+            "Confusion over which independent member fulfills the expertise requirement"
+          ]
+        }
+      ],
+      "notes": "This requirement does not apply to a provider applying for registration in the Approved category. The OfS expects key individuals will normally be appointed before completion of the application assessment period, as ongoing E conditions require an accountable officer, chair, and independent member to be in place at registration. The OfS may interview key individuals during the assessment process and may pause assessment if appointments change during the application period."
+    },
+    {
+      "condition_id": "E9.3",
+      "title": "Definitions of 'sufficient awareness' and 'sound understanding'",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.3.1",
+          "text": "The requirement for an individual to have 'sufficient awareness' of a subject sets a minimum threshold for the level of knowledge they should have. Sufficient awareness is limited to broad, high-level knowledge of requirements, plans, policies, or other listed matters rather than in-depth knowledge of the relevant subject matter. It would not need to include knowledge of the practical, operational steps necessary to ensure compliance or deliver plans.",
+          "threshold": "Broad, high-level knowledge of requirements, plans, policies without need for operational detail",
+          "risk_indicators": [
+            "Key personnel unable to articulate basic institutional policies or regulatory requirements",
+            "Governing body members showing lack of awareness of major OfS conditions",
+            "Senior staff demonstrating confusion about high-level strategic objectives",
+            "Evidence of personnel making decisions without understanding relevant regulatory context"
+          ]
+        },
+        {
+          "ref": "E9.3.2",
+          "text": "The requirement for an individual to have 'a sound understanding' of a subject sets a higher threshold. In this case, the individual should have a more in-depth knowledge. It would include the broad, high-level knowledge described above, as well as a more detailed knowledge of the most important elements of a requirement, plan, policy or other listed matter. It would include, where relevant, some understanding of the practical, operational steps that the provider has in place to meet a requirement, or ensure a policy or process is consistently followed.",
+          "threshold": "In-depth knowledge including detailed understanding of important elements and operational steps for compliance",
+          "risk_indicators": [
+            "Accountable officers unable to explain compliance processes or assurance mechanisms",
+            "Finance Senior Managers lacking detailed knowledge of financial regulatory requirements",
+            "Key personnel unable to demonstrate understanding of practical implementation steps",
+            "Evidence of poor decision-making due to insufficient understanding of operational implications"
+          ]
+        },
+        {
+          "ref": "E9.3.3",
+          "text": "Both the chair of the governing body and the accountable officer should have sufficient awareness of all the OfS's regulatory requirements and associated guidance. Other individuals are only expected to be aware of the parts of the OfS's requirements which are relevant to their role. The Finance Senior Manager is required to have sound understanding only of the OfS's requirements relating to financial matters.",
+          "threshold": "Role-appropriate knowledge levels with chair and accountable officer having sufficient awareness of all OfS requirements",
+          "risk_indicators": [
+            "Chair of governing body unable to demonstrate awareness of key OfS conditions",
+            "Accountable officer lacking knowledge of regulatory requirements outside their immediate expertise",
+            "Finance Senior Manager showing insufficient understanding of financial regulatory matters",
+            "Role-holders demonstrating knowledge gaps in areas directly relevant to their responsibilities"
+          ]
+        }
+      ],
+      "notes": "This condition provides detailed definitions and examples of the knowledge thresholds required for different roles within higher education providers. It establishes two levels of required knowledge: 'sufficient awareness' (broad, high-level knowledge) and 'sound understanding' (more detailed, in-depth knowledge including operational aspects). The condition specifies that chairs of governing bodies and accountable officers must have sufficient awareness of all OfS requirements, while other individuals need only be aware of requirements relevant to their specific roles."
+    },
+    {
+      "condition_id": "E3",
+      "title": "Key individuals requirements",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E3.1",
+          "text": "Key individuals are required to demonstrate sufficient awareness or sound understanding of the provider's set of governing documents, business plan and fraud and public money arrangements as defined for the purposes of conditions E7 and E8.",
+          "threshold": "Key individuals must demonstrate knowledge of governing documents, business plan, and fraud/public money arrangements per E7 and E8 requirements",
+          "risk_indicators": [
+            "Key individuals unable to explain core governance documents or their content",
+            "Lack of familiarity with the provider's business plan or strategic direction",
+            "Insufficient understanding of fraud prevention measures and public money handling procedures",
+            "Inability to reference specific requirements from conditions E7 and E8"
+          ]
+        },
+        {
+          "ref": "E3.2",
+          "text": "Key individuals are required to demonstrate knowledge (either sufficient awareness or sound understanding) of how the higher education system in England functions and the context of the sector in which their provider plans to operate.",
+          "threshold": "Key individuals must show fundamental understanding of HE system operation and sector context relevant to provider activities",
+          "risk_indicators": [
+            "Significant misunderstandings about higher education sector operation",
+            "Material factual inaccuracies about HE system functioning",
+            "Unable to identify comparable providers or realistic competitors",
+            "Lack of awareness of key HE rules, processes, and funding mechanisms"
+          ]
+        },
+        {
+          "ref": "E3.3",
+          "text": "The chair must demonstrate the knowledge and expertise necessary to provide effective leadership of the governing body, including previous experience of organisational governance, sufficient seniority and confidence from business leadership experience, and knowledge of the provider's business activities.",
+          "threshold": "Chair must have governance experience and expertise to effectively lead governing body decision-making",
+          "risk_indicators": [
+            "Lack of previous governing body or committee chairing experience",
+            "Insufficient business leadership experience or seniority",
+            "Unable to effectively chair discussions or facilitate decision-making",
+            "Limited knowledge of provider's business activities and external environment"
+          ]
+        },
+        {
+          "ref": "E3.4",
+          "text": "The accountable officer must demonstrate sound understanding of the higher education system and have the knowledge and expertise necessary to provide effective leadership and management of the provider, including previous business or non-profit leadership experience.",
+          "threshold": "Accountable officer must have sound HE system understanding and leadership expertise to effectively manage provider operations",
+          "risk_indicators": [
+            "Cannot articulate how provider's offer differs from competitors in detail",
+            "Inadequate awareness of student/course funding eligibility and processes",
+            "Lack of previous business or non-profit leadership experience",
+            "Unable to demonstrate effective organizational management capability"
+          ]
+        },
+        {
+          "ref": "E3.5",
+          "text": "The independent member must have knowledge and expertise to enable scrutiny and challenge of the provider and governing body activities, including experience holding senior management accountable and knowledge of good governance principles.",
+          "threshold": "Independent member must have expertise to scrutinize and challenge provider activities and governance",
+          "risk_indicators": [
+            "Lack of experience holding senior management accountable",
+            "Insufficient confidence or seniority to challenge opinions and question information",
+            "Limited knowledge of good governance principles",
+            "Unable to make material contributions to discussions and decision-making"
+          ]
+        },
+        {
+          "ref": "E3.6",
+          "text": "Accountable officers must have sufficient awareness of public authorities and government bodies the provider interacts with, including their roles, financial and reporting requirements, and associated costs.",
+          "threshold": "Accountable officer must understand roles and requirements of relevant public authorities",
+          "risk_indicators": [
+            "Unaware of Office of Independent Adjudicator role regarding student complaints",
+            "Lack of understanding of Student Loans Company role in student finance distribution",
+            "Insufficient knowledge of UKVI and Home Office roles for student sponsor licence holders",
+            "Cannot identify financial, reporting, or resource requirements imposed by public bodies"
+          ]
+        }
+      ],
+      "notes": "This condition focuses on the knowledge and expertise requirements for key individuals (chair, accountable officer, and independent members). Requirements are tailored to the specific role and responsibilities of each position. The threshold of knowledge required varies, with accountable officers requiring 'sound understanding' of the HE system while others need 'sufficient awareness.' Knowledge requirements are limited to aspects relevant to the provider's planned activities."
+    },
+    {
+      "condition_id": "E9.4",
+      "title": "Fit and proper person test assessment guidance",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.4.1",
+          "text": "If one or more matters listed in E9.5 apply to an individual, this will normally weigh against them when determining whether they satisfy the fit and proper test in E9.4.",
+          "threshold": "Demonstration that matters in E9.5 are appropriately weighted in fit and proper assessments",
+          "risk_indicators": [
+            "Individuals with E9.5 matters appointed without proper assessment documentation",
+            "Board minutes showing E9.5 matters were not considered in appointment decisions",
+            "Absence of formal fit and proper person assessment processes"
+          ]
+        },
+        {
+          "ref": "E9.4.2",
+          "text": "If a provider declares any indicative matters, the OfS will consider any relevant information submitted by the provider when assessing the matters listed in E9.5, (in addition to other relevant information).",
+          "threshold": "Provision of comprehensive information when declaring E9.5 matters",
+          "risk_indicators": [
+            "Incomplete or inadequate explanations provided for declared E9.5 matters",
+            "Failure to submit relevant contextual information about declared matters",
+            "Late or missing declarations of E9.5 matters"
+          ]
+        },
+        {
+          "ref": "E9.4.3",
+          "text": "In considering the matters listed in E9.5, the OfS will normally place more weight on matters that are: Recent, Serious, Repeated or sustained, or Indicative of dishonesty, negligence, financial mismanagement, or unwillingness or inability to comply with legal or regulatory requirements.",
+          "threshold": "Understanding that recent, serious, repeated, or dishonesty-related matters carry greater weight",
+          "risk_indicators": [
+            "Appointment of individuals with recent serious financial misconduct",
+            "Pattern of repeated regulatory breaches by key personnel",
+            "Evidence of dishonesty or negligence in recent roles by governing body members",
+            "Individuals with sustained compliance failures in positions of authority"
+          ]
+        },
+        {
+          "ref": "E9.4.4",
+          "text": "The OfS may judge that an individual is not a fit and proper person for reasons that are not explicitly listed in E9.5 when assessing whether a relevant individual is fit and proper for the purposes of E9.4.",
+          "threshold": "Recognition that fit and proper assessment extends beyond E9.5 list",
+          "risk_indicators": [
+            "Appointment of individuals with undisclosed reputational issues affecting the sector",
+            "Key personnel with conflicts of interest that compromise institutional integrity",
+            "Governing body members with demonstrated inability to fulfill fiduciary duties"
+          ]
+        }
+      ],
+      "notes": "This guidance covers the assessment framework for fit and proper person tests under E9.4. Relevant submitted information may include the nature, context, and relevance of matters to the individual's role. Overseas adverse findings are treated equivalently to UK findings. Matters falling under both E9.5 and E9.7 are treated as E9.7 matters. The OfS considers factors in combination when making determinations."
+    },
+    {
+      "condition_id": "E9.5a",
+      "title": "Fit and proper person - adverse civil proceedings findings",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5a.1",
+          "text": "The OfS is likely to consider that an individual is not a fit and proper person if they have been subject to an adverse finding in civil proceedings, either in the UK or overseas and those findings relate to the individual operating in a business or professional capacity.",
+          "threshold": "No adverse civil proceedings findings in business or professional capacity",
+          "risk_indicators": [
+            "Individual has been subject to adverse civil court judgments",
+            "Civil proceedings findings relate to business or professional misconduct",
+            "Overseas civil proceedings have resulted in adverse findings against the individual",
+            "Court records show pattern of civil litigation involving the individual"
+          ]
+        },
+        {
+          "ref": "E9.5a.2",
+          "text": "These proceedings must be serious and relevant to the role that the individual performs, or would perform, at the provider. 'Serious' means they could affect whether the provider is suitable to access and receive public funds, maintain public trust and confidence in the higher education sector or protect the interests of students (for example, an adverse finding in a civil fraud case).",
+          "threshold": "Any serious and relevant civil proceedings findings disqualify fitness",
+          "risk_indicators": [
+            "Civil proceedings involve fraud, financial misconduct or breach of fiduciary duty",
+            "Adverse findings could impact provider's eligibility for public funding",
+            "Civil case outcomes raise concerns about protecting student interests",
+            "Proceedings relate directly to higher education or public sector activities"
+          ]
+        },
+        {
+          "ref": "E9.5a.3",
+          "text": "The OfS will place more weight on adverse findings in civil proceedings relating to financial misconduct, fraud or related matters.",
+          "threshold": "Heightened scrutiny for financial misconduct findings",
+          "risk_indicators": [
+            "Individual has adverse findings in financial fraud cases",
+            "Civil proceedings involve misappropriation of funds or assets",
+            "Court has found individual liable for financial misconduct",
+            "Pattern of civil cases involving financial irregularities"
+          ]
+        },
+        {
+          "ref": "E9.5a.4",
+          "text": "If the adverse finding is not serious or relevant to the role that the individual performs, or will perform, at the provider (for example, if it relates to a civil planning dispute with a neighbour), the OfS is less likely to place weight on this matter.",
+          "threshold": "Non-serious or irrelevant findings carry minimal weight",
+          "risk_indicators": [
+            "Individual has minor civil disputes unrelated to professional capacity",
+            "Civil proceedings are personal rather than business-related",
+            "Adverse findings have no bearing on higher education activities",
+            "Pattern of trivial civil litigation that could indicate character issues"
+          ]
+        }
+      ],
+      "notes": "This condition addresses when adverse civil proceedings findings would disqualify an individual as a fit and proper person. The OfS focuses on proceedings that are both serious (could affect public funding eligibility, public trust, or student protection) and relevant to the individual's role at the provider. Financial misconduct and fraud carry particular weight in the assessment."
+    },
+    {
+      "condition_id": "E9.5b",
+      "title": "Fit and proper person - adverse findings in disciplinary proceedings",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5b.1",
+          "text": "The OfS is likely to consider that an individual is not a fit and proper person if they have been subject to any adverse findings in disciplinary proceedings by any relevant person or body (regardless of whether those proceedings occurred in the UK or overseas).",
+          "threshold": "No adverse findings in disciplinary proceedings by relevant persons or bodies",
+          "risk_indicators": [
+            "Individual has been fined, suspended, expelled or sanctioned by a regulator or professional body",
+            "Adverse findings recorded against individual in court or tribunal proceedings",
+            "Disciplinary action taken against individual by any public body or professional organization",
+            "Individual subject to ongoing disciplinary proceedings by relevant authorities"
+          ]
+        },
+        {
+          "ref": "E9.5b.2",
+          "text": "If an individual is currently the subject of disciplinary proceedings by any relevant person or body, the OfS would place less weight on this matter than an adverse finding. The OfS may decide to delay any registration decision until such time as the disciplinary proceedings are concluded.",
+          "threshold": "Ongoing disciplinary proceedings resolved or appropriately managed during registration process",
+          "risk_indicators": [
+            "Individual currently facing active disciplinary proceedings by relevant bodies",
+            "Unresolved regulatory investigations or professional misconduct cases",
+            "Pending court or tribunal proceedings involving the individual",
+            "Delayed disclosure of ongoing disciplinary matters to the OfS"
+          ]
+        }
+      ],
+      "notes": "'Relevant person or body' is defined as any court or tribunal, the Chancellor of the Exchequer, any Secretary of State or Minister, the OfS, UKRI, Research England, Education and Skills Funding Agency, a local authority, Student Loans Company, any professional body, or any other public body. 'Public body' includes any person who has some functions of a public nature (for example, statutory functions), but does not cover a person exercising functions in connection with parliamentary proceedings. Examples of disciplinary proceedings include but are not limited to fines, suspensions, expulsions or other sanctions imposed by a regulator or professional body."
+    },
+    {
+      "condition_id": "E9.5c-d",
+      "title": "Fit and proper persons: adverse findings considerations",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5c-d.1",
+          "text": "The OfS may consider adverse findings by a relevant person or body (in any jurisdiction) against an individual or an organisation with which they are, or have been, involved and which is connected to the education sector in its judgement about whether that individual is a fit and proper person.",
+          "threshold": "Consideration of all relevant adverse findings against individuals or connected organisations",
+          "risk_indicators": [
+            "Regulatory findings against senior staff by awarding bodies or sector regulators",
+            "Adverse judgements in other jurisdictions involving education sector activities",
+            "Findings of misconduct at organisations where individuals held leadership roles"
+          ]
+        },
+        {
+          "ref": "E9.5c-d.2",
+          "text": "The OfS will place more weight on adverse findings that concern a relevant individual's involvement in the higher education sector. This might mean, for example, where an individual has a finding of malpractice against them by a registered qualification-awarding body.",
+          "threshold": "Higher education sector findings carry greater weight in assessment",
+          "risk_indicators": [
+            "Malpractice findings by qualification-awarding bodies against senior staff",
+            "Academic misconduct findings in higher education contexts",
+            "Previous regulatory action against individuals in HE roles"
+          ]
+        },
+        {
+          "ref": "E9.5c-d.3",
+          "text": "The OfS will consider adverse findings which relate to organisations where an individual held significant managerial responsibility or influence at the time when the issues giving rise to the relevant matter occurred. 'Significant managerial responsibility or influence' is defined to include (but is not limited to) serving on a board or governing body, having voting rights, or employment in a senior management position. The OfS will consider the individual's role at the organisation and the extent (if any) of their own personal involvement in the issues giving rise to the adverse finding.",
+          "threshold": "Assessment of individual responsibility and influence during time of adverse findings",
+          "risk_indicators": [
+            "Adverse findings at organisations where current senior staff held board positions",
+            "Regulatory action against organisations where current executives had voting rights",
+            "Misconduct findings during periods when current leadership held senior management roles"
+          ]
+        },
+        {
+          "ref": "E9.5c-d.4",
+          "text": "Adverse findings related to the inappropriate use of relevant public funds are likely to be highly relevant to whether the OfS considers an individual to be a fit and proper person. The OfS is likely to find that an individual is not fit and proper even if the finding is old.",
+          "threshold": "High relevance of public funding misuse regardless of timing",
+          "risk_indicators": [
+            "Historical findings of public funding misuse by senior personnel",
+            "Audit findings regarding inappropriate use of education funding",
+            "Regulatory action for mismanagement of public grants or subsidies"
+          ]
+        },
+        {
+          "ref": "E9.5c-d.5",
+          "text": "If an individual has been found to have committed fraud offences at any time, it is highly likely that the OfS will not consider that the individual is a fit and proper person.",
+          "threshold": "Fraud convictions render individuals highly likely to be unfit",
+          "risk_indicators": [
+            "Criminal convictions for fraud by senior staff or board members",
+            "Civil findings of fraudulent conduct against key personnel",
+            "Undisclosed fraud findings during recruitment or appointment processes"
+          ]
+        }
+      ],
+      "notes": "This condition relates to how the OfS assesses whether individuals are fit and proper persons based on adverse findings. 'Significant managerial responsibility or influence' includes serving on boards, having voting rights, or senior management employment. The OfS considers the individual's role and personal involvement in issues leading to adverse findings. Public funding misuse and fraud findings are considered highly relevant regardless of age."
+    },
+    {
+      "condition_id": "E9.5e",
+      "title": "Investigation into inappropriate use of public funds",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5e.1",
+          "text": "If an individual, or an organisation in which they are or have been involved, is currently the subject of an investigation by any relevant person or body in relation to the inappropriate use of relevant public funds, the OfS would place less weight than a formal (adverse) finding arising from an investigation.",
+          "threshold": "Ongoing investigations into inappropriate use of public funds carry less weight than formal adverse findings",
+          "risk_indicators": [
+            "Key personnel or related organisations under investigation by regulatory bodies for misuse of public funds",
+            "Pending investigations into financial impropriety involving institution leadership or connected entities",
+            "Regulatory bodies conducting active inquiries into inappropriate handling of public money",
+            "Unresolved allegations of public fund misuse against senior staff or associated organisations"
+          ]
+        },
+        {
+          "ref": "E9.5e.2",
+          "text": "The OfS may delay any registration decision until the investigation is concluded.",
+          "threshold": "OfS reserves right to postpone registration decisions pending completion of investigations",
+          "risk_indicators": [
+            "Registration application placed on hold due to ongoing investigations",
+            "OfS requests additional time to assess applications pending investigation outcomes",
+            "Formal notification from OfS of delayed decision-making process",
+            "Extended processing times beyond normal registration timelines due to pending investigations"
+          ]
+        }
+      ],
+      "notes": "This condition addresses how ongoing investigations into inappropriate use of public funds by individuals or organisations connected to the institution affect OfS registration decisions. Such investigations carry less weight than formal adverse findings but may result in delayed registration decisions."
+    },
+    {
+      "condition_id": "E9.5f",
+      "title": "Fit and proper person requirements - Refusal, revocation, withdrawal or termination of registration",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5f.1",
+          "text": "The OfS is likely to consider an individual not to be fit and proper in situations where a refusal, revocation, withdrawal or termination of registration, authorisation, membership, or licence has occurred for reasons relevant to OfS regulation. Reasons relevant to OfS regulation may include but not be limited to: a. Refusal, revocation, withdrawal or termination due to dishonesty, lack of willingness or ability to comply with regulatory requirements, mismanagement of public funds, or financial mismanagement. b. Refusal, revocation, withdrawal or termination to practice in a business connected to the education sector.",
+          "threshold": "Individuals must not have history of refusal, revocation, withdrawal or termination for reasons relevant to OfS regulation",
+          "risk_indicators": [
+            "Individual has previous regulatory sanctions from professional or statutory bodies",
+            "Evidence of dishonesty or mismanagement of public funds in previous roles",
+            "Termination of registration or licence in education-related business",
+            "History of non-compliance with regulatory requirements in relevant sectors"
+          ]
+        },
+        {
+          "ref": "E9.5f.2",
+          "text": "The OfS will consider findings that relate to organisations at which an individual held significant managerial responsibility or influence at the time when the issues giving rise to the relevant matter occurred. 'Significant managerial responsibility or influence' is defined to include, but not be limited to, serving on a board or governing body, having voting rights, or employment in a senior management position.",
+          "threshold": "Assessment considers individual's significant managerial responsibility or influence at organisations with adverse findings",
+          "risk_indicators": [
+            "Individual held board or senior management positions at organisations with regulatory failures",
+            "Person had voting rights or governance role during periods of non-compliance",
+            "Evidence of managerial responsibility during financial mismanagement incidents",
+            "Senior role at institution during period leading to regulatory sanctions"
+          ]
+        },
+        {
+          "ref": "E9.5f.3",
+          "text": "The OfS will consider the individual's role at the organisation and the extent (if any) of their personal involvement in the issues giving rise to the adverse finding. Where their own involvement at the organisation is not connected to the issues giving rise to the adverse finding, the OfS will take this into account.",
+          "threshold": "Assessment considers extent of personal involvement in issues leading to adverse findings",
+          "risk_indicators": [
+            "Direct personal involvement in decisions leading to regulatory breaches",
+            "Individual was responsible for areas where compliance failures occurred",
+            "Evidence of knowledge of issues but failure to address them appropriately",
+            "Personal decision-making authority over matters that resulted in adverse findings"
+          ]
+        }
+      ],
+      "notes": "Reasons which are not relevant to OfS regulation include reasons of health and failure to comply with continuing professional development requirements. The definition of 'involved in' refers to individuals who held significant managerial responsibility or influence, including serving on boards or governing bodies, having voting rights, or employment in senior management positions."
+    },
+    {
+      "condition_id": "E9.5g",
+      "title": "Fit and proper persons assessment - fraud offences",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5g.1",
+          "text": "In completing its assessment of whether an individual is fit and proper, the OfS will place more weight on situations where an individual is or has been 'involved in' an organisation found guilty of an offence under section 199 of the Economic Crime and Corporate and Transparency Act 2023 (failure to prevent fraud) or any relevant fraud offence, or a similar offence in an overseas jurisdiction. 'Involved in' in this context means in situations where the individual held significant managerial responsibility or influence at the time when the issues giving rise to the relevant offence occurred.",
+          "threshold": "Individuals with significant managerial responsibility in organisations with fraud convictions subject to enhanced scrutiny",
+          "risk_indicators": [
+            "Individual previously held board or senior management positions at organisations convicted of fraud offences",
+            "Individual had voting rights or served on governing body during period when fraud occurred",
+            "Individual worked in finance or compliance roles at organisations later convicted of fraud-related offences",
+            "Individual held senior positions at organisations subject to overseas fraud convictions"
+          ]
+        },
+        {
+          "ref": "E9.5g.2",
+          "text": "The OfS will consider the individual's role at the organisation and the extent (if any) of their personal involvement in the issues giving rise to the adverse finding. For example, where an individual held a senior role within the finance or compliance team of the organisation at the time when matters leading to the conviction took place, the OfS is likely to place more weight on this matter and find that the individual is not a fit and proper person. Whereas, if the individual held a role unrelated to the issues, the OfS is likely to place less weight on this matter.",
+          "threshold": "Assessment weighted according to individual's role relevance and personal involvement in matters leading to conviction",
+          "risk_indicators": [
+            "Individual held senior finance or compliance roles during period when fraudulent activities occurred",
+            "Individual had direct responsibility for areas where fraud took place",
+            "Evidence of personal involvement or knowledge of issues that led to organisation's conviction",
+            "Individual's role was central to the business functions where fraud occurred"
+          ]
+        }
+      ],
+      "notes": "'Significant managerial responsibility or influence' includes serving on a board or governing body, having voting rights, or employment in a senior management position. The OfS applies a risk-based approach, weighing the individual's specific role and involvement in relation to the fraud-related issues."
+    },
+    {
+      "condition_id": "E9.5h",
+      "title": "Fit and proper person assessment - organisational tax offences",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5h.1",
+          "text": "Organisations can commit criminal offences in relation to tax matters. For example, in the Criminal Finances Act 2017, two corporate criminal offences were introduced in relation to the facilitation of UK and non-UK tax evasion.",
+          "threshold": "Recognition that organisations can be criminally liable for tax-related offences including facilitation of tax evasion",
+          "risk_indicators": [
+            "Historical criminal convictions for tax evasion facilitation",
+            "Ongoing investigations by HMRC into tax compliance",
+            "Weak internal controls around tax reporting and compliance",
+            "Complex offshore structures without clear business rationale"
+          ]
+        },
+        {
+          "ref": "E9.5h.2",
+          "text": "The OfS will place more weight, in its assessment of whether an individual is a fit and proper person, on situations where the individual held significant managerial responsibility or influence within an organisation at the time when issues giving rise to the organisation being found guilty of an offence in relation to tax matters occurred.",
+          "threshold": "Enhanced scrutiny for individuals with significant managerial responsibility during periods when tax offences occurred",
+          "risk_indicators": [
+            "Senior executives from organisations with tax conviction histories",
+            "Individuals who held C-suite or board positions during tax compliance failures",
+            "Finance directors or CFOs from organisations with tax penalties",
+            "Failure to disclose previous organisational tax issues during appointment processes"
+          ]
+        },
+        {
+          "ref": "E9.5h.3",
+          "text": "The OfS will consider the individual's role at the organisation and the extent (if any) of their personal involvement in the issues giving rise to the organisation being found guilty of an offence in relation to tax matters. For example, where the individual held a senior role in the finance department or was responsible for signing off the organisation's financial statements at the time the matters that led to the criminal conviction took place, the OfS is likely to place considerable weight on this factor and find the individual is not a fit and proper person. Whereas, if the individual held a role such as Head of Human Resources and had no oversight of the matters that led to the criminal conviction, the OfS is less likely to place more weight on this matter.",
+          "threshold": "Assessment based on individual's specific role, responsibilities and personal involvement in tax matters that led to organisational conviction",
+          "risk_indicators": [
+            "Finance department heads from organisations with tax convictions",
+            "Individuals who signed financial statements during periods of tax non-compliance",
+            "Direct involvement in tax strategy or compliance decisions at convicted organisations",
+            "Failure to implement adequate oversight despite having tax-related responsibilities"
+          ]
+        }
+      ],
+      "notes": "'Significant managerial responsibility or influence' is defined in the condition. The OfS applies a proportionate approach based on the individual's specific role and level of involvement in tax matters, with enhanced scrutiny for those in finance-related positions or with oversight responsibilities."
+    },
+    {
+      "condition_id": "E9.5i",
+      "title": "Assessment criteria for individuals with previous involvement in organizational insolvency, liquidation or administration",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5i.1",
+          "text": "The OfS will place more weight on situations where the individual held significant managerial responsibility or influence within an organisation at the time when issues giving rise to the organisation going into insolvency, liquidation or administration (in any jurisdiction) occurred.",
+          "threshold": "Assessment of individual's level of managerial responsibility or influence during financial failure events",
+          "risk_indicators": [
+            "Individual held board or governing body position during organizational financial collapse",
+            "Person had voting rights or senior management role when insolvency issues arose",
+            "Individual was in position of significant influence at time of liquidation or administration",
+            "Evidence of direct involvement in decisions leading to organizational financial failure"
+          ]
+        },
+        {
+          "ref": "E9.5i.2",
+          "text": "The OfS will consider the individual's role at the organisation and the extent (if any) of their personal involvement in the issues leading to the organisation's insolvency, liquidation or administration. The OfS is likely to place less weight on the matter where the relevant individual was in a position unrelated to the issues that caused the organisation's financial failure.",
+          "threshold": "Evaluation of individual's personal involvement and role relevance in organizational financial failure",
+          "risk_indicators": [
+            "Individual's role was directly related to decisions causing financial failure",
+            "Person had decision-making authority over areas that led to insolvency",
+            "Evidence of personal involvement in financial mismanagement or poor governance",
+            "Individual's position enabled them to prevent but failed to address financial issues"
+          ]
+        },
+        {
+          "ref": "E9.5i.3",
+          "text": "In completing its assessment of whether an individual is fit and proper, the OfS will place more weight on situations where the organisation that went into insolvency, liquidation or administration was a higher education provider or organisation that delivered higher education and where the impact of going into insolvency, liquidation or administration harmed students' interests (or would have done so but for the involvement of external public funding assistance).",
+          "threshold": "Higher weighting for failures in higher education context that harmed student interests",
+          "risk_indicators": [
+            "Previous involvement in higher education provider that went into insolvency",
+            "Students were harmed or would have been harmed by the organizational failure",
+            "Higher education delivery was disrupted by insolvency or administration",
+            "External public funding was required to protect student interests from organizational failure"
+          ]
+        },
+        {
+          "ref": "E9.5i.4",
+          "text": "Where an individual was a director of the organisation that went into liquidation, the OfS will consider whether the individual was subsequently disqualified as a director under regulation E7D2.k.",
+          "threshold": "Assessment of director disqualification following organizational liquidation",
+          "risk_indicators": [
+            "Individual was formally disqualified as a director following liquidation",
+            "Director disqualification proceedings were initiated against the individual",
+            "Evidence of conduct leading to or contributing to director disqualification",
+            "Individual failed to meet statutory duties as director during liquidation process"
+          ]
+        }
+      ],
+      "notes": "'Significant managerial responsibility or influence' is defined to include (but is not limited to) serving on a board or governing body, having voting rights, or employment in a senior management position. Reference is made to regulation E7D2.k regarding director disqualification."
+    },
+    {
+      "condition_id": "E9.5j",
+      "title": "Fit and proper persons - dismissal or resignation considerations",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5j.1",
+          "text": "The OfS is likely to place more weight on dismissal or resignation (where an individual was asked to resign and did resign) from a role while operating in a business or professional capacity, and while holding significant managerial responsibility and influence, particularly where this relates to fraudulent behaviour, theft, financial mismanagement, gross misconduct, harassment and/or sexual misconduct, or academic misconduct.",
+          "threshold": "Dismissals or resignations involving significant managerial roles and misconduct will receive heightened scrutiny in fit and proper assessments",
+          "risk_indicators": [
+            "Senior staff dismissed or forced to resign due to fraudulent behaviour, theft, or financial mismanagement",
+            "Evidence of gross misconduct, harassment, or sexual misconduct by individuals in significant managerial positions",
+            "Academic misconduct involving senior academic or administrative staff",
+            "Pattern of unexplained departures of senior staff following internal investigations"
+          ]
+        },
+        {
+          "ref": "E9.5j.2",
+          "text": "An individual is less likely to be judged not to be fit and proper for the purposes of E9.4 if their resignation or dismissal was for reasons irrelevant to the regulation of the OfS, for example due to ill health or a company re-organisation.",
+          "threshold": "Dismissals or resignations for reasons unrelated to conduct or regulatory concerns will receive less weight in assessments",
+          "risk_indicators": [
+            "Failure to distinguish between misconduct-related departures and legitimate organizational changes",
+            "Inadequate documentation of reasons for senior staff departures",
+            "Misrepresentation of misconduct-related departures as organizational restructuring",
+            "Lack of proper due diligence on circumstances surrounding staff departures"
+          ]
+        }
+      ],
+      "notes": "This condition provides guidance on how the OfS weighs different types of dismissals and resignations when assessing whether individuals are fit and proper persons under condition E9.4. It emphasizes that misconduct-related departures, particularly those involving senior staff, will receive greater scrutiny than departures for legitimate business reasons."
+    },
+    {
+      "condition_id": "E9.5k",
+      "title": "Company Director Disqualification Considerations",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5k.1",
+          "text": "The OfS may place weight on the fact that an individual has previously been disqualified as a company director under the Company Directors Disqualification Act 1986 or an equivalent overseas regime, despite such disqualification having ended.",
+          "threshold": "Past director disqualifications are considered in fitness assessments even after expiry",
+          "risk_indicators": [
+            "Key individuals with historical company director disqualifications under the 1986 Act",
+            "Individuals with equivalent overseas director disqualification history",
+            "Previous disqualifications for serious misconduct that remain relevant to current role",
+            "Lack of evidence of professional rehabilitation since disqualification period"
+          ]
+        },
+        {
+          "ref": "E9.5k.2",
+          "text": "The OfS will consider disqualifications under the Company Directors Disqualification Act 1986 regardless of whether these were effected by court order or undertaking.",
+          "threshold": "All forms of director disqualification are equally considered",
+          "risk_indicators": [
+            "Court-ordered director disqualifications not disclosed or considered",
+            "Voluntary undertaking disqualifications treated as less significant",
+            "Failure to assess both formal court orders and voluntary undertakings equally",
+            "Incomplete disclosure of all types of director disqualification history"
+          ]
+        },
+        {
+          "ref": "E9.5k.3",
+          "text": "Where an individual was disqualified as a company director at any point during the provider's application to register with the OfS (and the OfS's consideration of that application), the OfS will apply the test set out in E9.6. The individual will be deemed not to be a fit and proper person for the purposes of E9.4, unless there are exceptional circumstances as defined in the condition.",
+          "threshold": "Director disqualification during OfS application process creates presumption of unfitness unless exceptional circumstances apply",
+          "risk_indicators": [
+            "Key individuals disqualified as company directors during active OfS registration application",
+            "Director disqualifications occurring during OfS consideration period not reported",
+            "Presumption of unfitness applied without adequate assessment of exceptional circumstances",
+            "Failure to demonstrate exceptional circumstances to overcome unfitness presumption"
+          ]
+        }
+      ],
+      "notes": "This condition relates to how the OfS considers previous company director disqualifications when assessing the fitness of key individuals. The assessment considers the seriousness and relevance of past disqualifications, professional conduct since disqualification, and applies enhanced scrutiny for disqualifications occurring during the registration process. References paragraph 33b for serious disqualification criteria and conditions E9.4 and E9.6 for related fitness tests."
+    },
+    {
+      "condition_id": "E9.5l",
+      "title": "Condition E9.5l",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.5l.1",
+          "text": "The OfS may place more weight on the fact that an individual has previously been disqualified from being a charity trustee or trustee for a charity under section 178(1) of the Charities Act 2011 or an equivalent overseas regime, despite such disqualification having ended. When considering such matters the OfS will consider whether the reasons for such disqualification were serious and/or relevant to the role now being held, or to be held, by the relevant individual at the provider. The OfS will also consider the professional actions of the individual since the relevant disqualification as a charity trustee or trustee for a charity.",
+          "threshold": "OfS consideration of ended charity trustee disqualifications based on seriousness, relevance to current role, and subsequent professional conduct",
+          "risk_indicators": [
+            "Individual in governance position has history of charity trustee disqualification for serious misconduct",
+            "Previous disqualification directly relates to financial mismanagement or governance failures",
+            "No evidence of professional rehabilitation since disqualification period ended",
+            "Provider fails to disclose known historical charity trustee disqualifications"
+          ]
+        },
+        {
+          "ref": "E9.5l.2",
+          "text": "Where an individual was disqualified from being a charity trustee or trustee for a charity at any point during the provider's application to register with the OfS (and the OfS's consideration of that application), the OfS will apply the test set out in E9.6. The individual will be deemed not to be a fit and proper person for the purposes of E9.4, unless there are exceptional circumstances as defined in the condition.",
+          "threshold": "Individual disqualified as charity trustee during OfS registration process automatically deemed not fit and proper unless exceptional circumstances apply",
+          "risk_indicators": [
+            "Individual appointed to governance role while subject to active charity trustee disqualification",
+            "Provider proceeds with appointment despite knowledge of ongoing disqualification",
+            "No exceptional circumstances documentation provided to justify appointment",
+            "Disqualification occurs during active OfS registration consideration period"
+          ]
+        }
+      ],
+      "notes": "This condition addresses how the OfS considers individuals with charity trustee disqualifications when assessing fitness and propriety. References E9.4 (fit and proper person test) and E9.6 (specific test criteria). Distinguishes between ended and active disqualifications during registration process."
+    },
+    {
+      "condition_id": "E9.6",
+      "title": "Disqualification from company directorship or charity trusteeship",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.6.1",
+          "text": "If an individual is disqualified from acting as a company director, charity trustee or trustee for a charity at any point during the course of the provider's application to register with the OfS (and the OfS's consideration of that application), the OfS will judge that the individual is not fit and proper for the purposes of E9.4, unless there are exceptional circumstances.",
+          "threshold": "No individuals in key positions are disqualified from company directorship or charity trusteeship during application period",
+          "risk_indicators": [
+            "Key personnel have active disqualifications from company directorship recorded with Companies House",
+            "Senior staff or governors are disqualified from charity trusteeship with the Charity Commission",
+            "Leadership team members have comparable disqualifications in overseas jurisdictions",
+            "Disqualification periods overlap with registration application timeline"
+          ]
+        },
+        {
+          "ref": "E9.6.2",
+          "text": "This would be the case regardless of whether the period of the disqualification expires during the period of the registration application.",
+          "threshold": "Disqualifications are considered regardless of expiry timing during application",
+          "risk_indicators": [
+            "Disqualifications are set to expire during application process but are still active",
+            "Provider assumes expired disqualifications during application period are acceptable",
+            "Timeline misalignment between disqualification end dates and application periods"
+          ]
+        },
+        {
+          "ref": "E9.6.3",
+          "text": "The OfS will consider disqualifications under the Company Directors Disqualification Act 1986 regardless of whether these were effected by court order or undertaking.",
+          "threshold": "All forms of disqualification under Company Directors Disqualification Act 1986 are considered",
+          "risk_indicators": [
+            "Key personnel have disqualifications by undertaking rather than court order",
+            "Provider distinguishes between types of disqualification inappropriately",
+            "Voluntary undertakings to be disqualified are not declared as relevant disqualifications"
+          ]
+        },
+        {
+          "ref": "E9.6.4",
+          "text": "Where a comparable disqualification that falls under this regulation has taken place outside of the UK in an equivalent regime, it will be treated by the OfS in the same way as if such a disqualification had taken place within the UK.",
+          "threshold": "Overseas disqualifications in equivalent regimes are treated as UK disqualifications",
+          "risk_indicators": [
+            "Key personnel have overseas disqualifications that are not declared or considered equivalent",
+            "International background checks are inadequate for senior appointments",
+            "Provider fails to identify equivalent overseas regulatory regimes and their disqualifications"
+          ]
+        }
+      ],
+      "notes": "This condition applies during the provider's application to register with the OfS and the OfS's consideration of that application. The OfS will judge individuals not to be fit and proper unless there are exceptional circumstances. The regulation covers disqualifications by both court order and undertaking, and includes equivalent overseas disqualifications."
+    },
+    {
+      "condition_id": "E9.8",
+      "title": "Policies and processes for individuals unable to perform duties due to mental or physical health",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.8.1",
+          "text": "The OfS requires policies and processes to be in place to ensure that individuals are able, by reason of their mental or physical health, to properly perform the tasks of their office or position. This should include policies and processes to provide reasonable adjustments or other support for those individuals where required under equality law.",
+          "threshold": "Policies and processes established to address mental/physical health impacts on role performance, including reasonable adjustments under equality law",
+          "risk_indicators": [
+            "No documented policies for addressing health-related performance issues",
+            "Absence of reasonable adjustment procedures for staff with disabilities",
+            "Key positions left vacant or unfilled due to health issues without delegation arrangements",
+            "Evidence of discrimination against individuals with mental or physical health conditions"
+          ]
+        },
+        {
+          "ref": "E9.8.2",
+          "text": "The OfS expects a provider to develop and implement these policies in a manner which is compliant with equality law, for example, by ensuring that reasonable adjustments or other support is offered to individuals where required under equality law.",
+          "threshold": "Policies developed and implemented in compliance with equality law requirements",
+          "risk_indicators": [
+            "Policies that fail to comply with Equality Act 2010 requirements",
+            "No evidence of reasonable adjustments being offered or implemented",
+            "Complaints or legal challenges regarding equality law compliance",
+            "Staff reporting inadequate support for health-related needs"
+          ]
+        }
+      ],
+      "notes": "Providers should determine appropriate policies for their organisation, which may include: means of determining inability to perform role and raising concerns; clear delegation authority; delegation processes and identification of suitable delegates; time periods after which authority must be delegated."
+    },
+    {
+      "condition_id": "E9.9",
+      "title": "Condition E9.9",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.9.1",
+          "text": "A provider must have appropriate policies and processes in place to assess whether its relevant individuals are fit and proper persons.",
+          "threshold": "Demonstrate existence of robust policies and processes for assessing fitness and propriety of relevant individuals",
+          "risk_indicators": [
+            "Absence of documented policies for assessing fitness and propriety of key personnel",
+            "Failure to conduct background checks or due diligence on relevant individuals",
+            "Lack of processes for ongoing monitoring of relevant individuals' conduct",
+            "Missing or inadequate self-declaration requirements for relevant individuals"
+          ]
+        },
+        {
+          "ref": "E9.9.2",
+          "text": "The provider must undertake appropriate checks on its relevant individuals to ensure they meet the fit and proper persons requirements.",
+          "threshold": "Complete appropriate checks including criminal records, references, regulatory searches, and other due diligence",
+          "risk_indicators": [
+            "Failure to conduct DBS or equivalent criminal record checks",
+            "Not checking Companies House disqualified directors register",
+            "Absence of reference checks from previous organisations",
+            "Failure to conduct insolvency register or credit reference checks where appropriate"
+          ]
+        },
+        {
+          "ref": "E9.9.3",
+          "text": "The provider must have supporting policies and processes including codes of conduct and mechanisms for reporting concerns relating to anti-bribery and fraud.",
+          "threshold": "Implement comprehensive governance policies including conduct codes and whistleblowing mechanisms",
+          "risk_indicators": [
+            "Absence of codes of conduct for relevant individuals",
+            "Lack of anti-bribery and fraud policies",
+            "No mechanisms for reporting concerns about conduct",
+            "Missing processes for dealing with breaches of conduct codes"
+          ]
+        }
+      ],
+      "notes": "This condition requires providers to have robust systems for assessing and monitoring the fitness and propriety of relevant individuals. Providers must submit information to the OfS about their policies, processes, and check results during registration. The OfS may conduct its own checks and make final judgements on fitness and propriety regardless of provider assessments. The condition includes non-exhaustive lists of suggested checks and supporting policies that providers may implement."
+    },
+    {
+      "condition_id": "E9",
+      "title": "Fit and proper persons",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.1",
+          "text": "Where a provider has not undertaken a check for a relevant individual, its application for registration will be refused.",
+          "threshold": "Must undertake checks for all relevant individuals",
+          "risk_indicators": [
+            "No evidence of background checks being conducted for key personnel",
+            "Gaps in documentation showing checks for board members or senior staff",
+            "Failure to maintain records of when checks were completed",
+            "New appointments made without proper vetting procedures"
+          ]
+        },
+        {
+          "ref": "E9.2",
+          "text": "Where a provider's policies and processes for such checks are not robust, its application for registration will be refused.",
+          "threshold": "Must have robust policies and processes for conducting checks",
+          "risk_indicators": [
+            "Vague or incomplete policies for personnel vetting",
+            "No clear procedures defining what checks are required",
+            "Inconsistent application of checking procedures across different roles",
+            "Policies that do not meet regulatory standards or best practice"
+          ]
+        },
+        {
+          "ref": "E9.3",
+          "text": "Where a provider has not undertaken a check in accordance with its policies and processes, its application for registration will be refused.",
+          "threshold": "Must follow own policies and processes when conducting checks",
+          "risk_indicators": [
+            "Evidence of checks being conducted differently than stated policy",
+            "Shortcuts taken in the checking process for certain individuals",
+            "Documentation showing non-compliance with own procedures",
+            "Inconsistent standards applied across different personnel checks"
+          ]
+        }
+      ],
+      "notes": "This condition relates to the requirement for providers to conduct appropriate checks on relevant individuals as part of demonstrating they employ fit and proper persons. The OfS may refuse registration where checks are not undertaken, policies are inadequate, or procedures are not followed."
+    },
+    {
+      "condition_id": "E9.10",
+      "title": "Definition of 'relevant persons' with significant overarching responsibility",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E9.10.1",
+          "text": "The definition of 'relevant persons' includes an 'individual who would have significant overarching responsibility for ensuring that the provider complies with the ongoing conditions of registration (if registered)'.",
+          "threshold": "Clear identification of individuals with significant overarching responsibility for compliance with ongoing conditions of registration",
+          "risk_indicators": [
+            "No designated individual identified with overarching compliance responsibility",
+            "Compliance responsibilities distributed across operational teams without senior oversight",
+            "Unclear accountability structures for condition compliance",
+            "Executive leaders or compliance officers not formally designated for compliance oversight"
+          ]
+        },
+        {
+          "ref": "E9.10.2",
+          "text": "The term 'significant overarching responsibility' refers specifically to those in senior roles with ultimate accountability for ensuring compliance across the organisation. This is likely to be executive leaders or nominated compliance officer(s) and while more than one individual may meet these criteria in large providers, it should not extend to the broader staff base or operational teams.",
+          "threshold": "Senior roles with ultimate accountability for compliance across the organisation must be identified, limited to executive leaders or nominated compliance officers",
+          "risk_indicators": [
+            "Compliance responsibility assigned to junior or operational staff without senior authority",
+            "No clear executive-level accountability for compliance",
+            "Significant overarching responsibility extended inappropriately to broader staff base",
+            "Lack of nominated compliance officers in senior positions"
+          ]
+        }
+      ],
+      "notes": "The OfS recognises that multiple individuals may be responsible for day-to-day compliance, but 'significant overarching responsibility' specifically refers to senior roles with ultimate accountability. In large providers, more than one individual may meet these criteria, but it should not extend to broader staff or operational teams."
+    }
+  ]
+}

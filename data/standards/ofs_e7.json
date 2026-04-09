@@ -1,0 +1,336 @@
+{
+  "body": "OfS",
+  "document": "Conditions of Registration",
+  "version_date": "",
+  "market": "UK",
+  "level": "HE",
+  "source_pdf": "ofs-condition-e7.pdf",
+  "condition_count": 8,
+  "conditions": [
+    {
+      "condition_id": "E7",
+      "title": "Condition E7",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.1",
+          "text": "\"business objectives and targets\" means measurable objectives and targets that the provider plans to use to monitor its overall performance, including (but not limited to): i. the provider's financial targets; ii. the numbers of students it aims to recruit to its higher education courses; iii. where the provider is currently providing higher education courses, any aims to expand the provider's current provision (including to new subject areas, levels of study or modes of course delivery); iv. any aims to obtain authorisations, accreditations or licences from other persons or organisations, including the Office for Students, the Secretary of State, and professional statutory and regulatory bodies; v. any aims to form partnerships with other persons or organisations, including other higher education providers (whether or not registered with the Office for Students) and/or awarding bodies",
+          "threshold": "Establish measurable business objectives and targets covering financial, student recruitment, expansion, authorisation, and partnership goals",
+          "risk_indicators": [
+            "Absence of clearly defined and measurable business objectives",
+            "Financial targets that are unrealistic or inconsistent with institutional capacity",
+            "Student recruitment targets that significantly exceed historical performance without adequate justification",
+            "Expansion plans without corresponding resource allocation or feasibility analysis"
+          ]
+        },
+        {
+          "ref": "E7.2",
+          "text": "\"business plan\" means a business plan as required under Part 2 of this",
+          "threshold": "Maintain a business plan as specified in Part 2 requirements",
+          "risk_indicators": [
+            "Failure to produce or update required business plan documentation",
+            "Business plan that lacks detail required under Part 2 specifications",
+            "Significant deviation from approved business plan without proper notification",
+            "Business plan that does not align with stated business objectives and targets"
+          ]
+        }
+      ],
+      "notes": "This condition provides definitions for key terms related to business planning requirements. The document appears to be incomplete as the definition for 'business plan' references Part 2 but is cut off."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Set of governing documents",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.1",
+          "text": "The provider must submit a set of governing documents including conflicts of interest policy, decision making documents, governing body documents, and risk and audit documents as defined in this condition.",
+          "threshold": "Complete set of governance documents demonstrating clear management and governance structures",
+          "risk_indicators": [
+            "Missing or incomplete governing documents submitted to OfS",
+            "Governance documents that lack clarity on decision-making responsibilities",
+            "Absence of conflicts of interest policy or inadequate conflict management procedures",
+            "Governing body documents that fail to specify roles, responsibilities, or meeting arrangements"
+          ]
+        },
+        {
+          "ref": "E7.2",
+          "text": "Documents must be appropriate to the provider's management and governance structures and demonstrate compliance with relevant requirements.",
+          "threshold": "Documents must be comprehensive, clearly drafted, coherent, and demonstrate sound understanding of sector context and risks",
+          "risk_indicators": [
+            "Governance documents with material inconsistencies or contradictions",
+            "Poor drafting quality affecting comprehensibility of governance arrangements",
+            "Documents that fail to demonstrate understanding of higher education sector context",
+            "Inadequate strategies for managing relevant risks to compliance and student interests"
+          ]
+        }
+      ],
+      "notes": "The range of documents required depends on the provider's size, complexity and legal form. Some providers may combine elements in single documents while others submit separate documents. Where governing documents will change upon registration, providers should submit intended post-registration versions. Risk and audit functions will vary between providers based on their specific circumstances."
+    },
+    {
+      "condition_id": "E7.3",
+      "title": "Governance documents and arrangements",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.3.1",
+          "text": "The provider must have clear and appropriate governance arrangements set out in documentation that enables effective governance of the provider in practice.",
+          "threshold": "Documentation must be easily understandable, written in plain English, and contain no contradictions or inconsistencies",
+          "risk_indicators": [
+            "Governance documents contain contradictory provisions or are inconsistent with other submitted documentation",
+            "Documentation is written in complex legal language that is not easily understandable",
+            "Governance arrangements do not reflect the size, complexity, or business model of the provider",
+            "Missing or incomplete governance documentation required for effective oversight"
+          ]
+        },
+        {
+          "ref": "E7.3.a",
+          "text": "The governing body must have appropriate size that will enable the effective governance of the provider in practice.",
+          "threshold": "Governing body size must be suited to provider's scale and complexity, avoiding exceptionally small or large composition",
+          "risk_indicators": [
+            "Governing body has exceptionally small membership relative to provider size and complexity",
+            "Governing body has exceptionally large membership that impedes effective decision-making",
+            "Provider cannot demonstrate how governing body size enables effective oversight",
+            "Governing body size is inappropriate for the range and complexity of courses offered"
+          ]
+        },
+        {
+          "ref": "E7.3.b",
+          "text": "The governing body must include appropriate expertise and skills, including a range of suitable knowledge and experience to manage the provider effectively.",
+          "threshold": "Governing body must possess relevant expertise including risk management, regulatory knowledge, financial management, academic experience, and student representation capabilities",
+          "risk_indicators": [
+            "Governing body lacks members with relevant financial management experience",
+            "Absence of members with knowledge of regulatory and legal requirements",
+            "No representation of academic expertise specific to the provider's needs",
+            "Lack of members able to represent student perspectives and interests"
+          ]
+        },
+        {
+          "ref": "E7.3.c",
+          "text": "Where the provider is seeking registration in the Approved (fee cap) category, the governing body must have at least one independent member with no material relationship with the provider that could create a conflict of interest.",
+          "threshold": "Independent member must have no material relationships including employment, customer/supplier relationships, or familial/business affiliations that could influence decisions",
+          "risk_indicators": [
+            "Independent member has current or recent employment relationship with the provider",
+            "Independent member has financial or commercial relationships as customer or supplier",
+            "Independent member has familial connections that could influence decision-making",
+            "Independent member has business affiliations that create potential conflicts of interest"
+          ]
+        }
+      ],
+      "notes": "Appropriate arrangements must reflect the size, complexity, context and business plan of the provider. Small providers with simple business models may have simpler governance arrangements than large, complex providers. Material relationships include but are not limited to employee, customer or supplier relationships, or familial or business affiliations."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Governing body documents",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.3.a.ii",
+          "text": "The relevant governing documents include clear and appropriate mechanisms that make sure the members of the governing body have appropriate expertise and skills",
+          "threshold": "Governing documents must contain mechanisms ensuring governing body members possess appropriate expertise and skills for the provider's size and complexity",
+          "risk_indicators": [
+            "Governing body lacks diverse mix of expertise and skills for operational complexity",
+            "No regular effectiveness reviews of governing body members",
+            "Appointment procedures fail to assess or ensure sufficient skills and expertise",
+            "Senior management roles on governing body have unclear areas of responsibility"
+          ]
+        },
+        {
+          "ref": "E7.3.b",
+          "text": "The provider's governing documents provide clear and appropriate arrangements for decision making within the provider (in order to enable the effective governance of the provider in practice), including by imposing delegated decision making responsibilities on persons suitable to hold those responsibilities and providing for appropriate governing body oversight in relation to delegated decision making",
+          "threshold": "Clear decision-making arrangements with suitable delegation and appropriate governing body oversight must be documented",
+          "risk_indicators": [
+            "Decision-making authority delegated to individuals lacking necessary seniority or expertise",
+            "Governing body fails to retain ultimate responsibility for major decisions",
+            "Unclear or inadequate reporting mechanisms for delegated decisions",
+            "No processes to review effectiveness of delegated decision-making arrangements"
+          ]
+        },
+        {
+          "ref": "E7.3.c",
+          "text": "Documents which describe how a provider will discharge its risk and audit functions",
+          "threshold": "Clear documentation of how risk and audit functions will be discharged in practice",
+          "risk_indicators": [
+            "Unclear assignment of risk and audit responsibilities to individuals or committees",
+            "Risk management framework lacks key components like risk registers or reporting mechanisms",
+            "No clear processes for appointing or supporting external auditors",
+            "Absence of internal audit arrangements or cyclical review programmes"
+          ]
+        },
+        {
+          "ref": "E7.3.d",
+          "text": "Documents which govern the constitution and operation of any committee with responsibility for any risk and audit functions",
+          "threshold": "Committee documents must clearly set out constitution, operation, and how risk and audit functions will be effectively delivered",
+          "risk_indicators": [
+            "Risk and audit committee lacks clear terms of reference or operational procedures",
+            "No documented mechanisms for governing body oversight of risk and audit functions",
+            "Committee composition lacks suitable expertise for risk and audit responsibilities",
+            "Unclear processes for addressing audit deficiencies or recommendations"
+          ]
+        }
+      ],
+      "notes": "Risk and audit functions are defined broadly to include financial statement auditing, internal controls auditing, and other internal audit programmes. For Approved (fee cap) category applications, independent member appointment is expected before completion of application period. Documents should cover risk management frameworks, audit activities, financial reporting scrutiny, and internal controls oversight."
+    },
+    {
+      "condition_id": "E7",
+      "title": "Parse error — review manually",
+      "category": "Unknown",
+      "criteria": [],
+      "notes": "Condition E7.5b and "
+    },
+    {
+      "condition_id": "E7.6",
+      "title": "Ability to deliver the business plan in practice",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.6.1",
+          "text": "The OfS will assess whether a provider can deliver its business plan in practice. This includes evaluation of the provider's ability to meet all relevant ongoing conditions of registration. The OfS will assess the provider's capacity and the resources available to implement its plans relating to compliance with ongoing conditions and consider whether information provided elsewhere the registration application supports or undermines those plans.",
+          "threshold": "Provider must demonstrate ability to deliver business plan and meet all ongoing conditions of registration",
+          "risk_indicators": [
+            "Business plan lacks robust processes for collating and validating student data",
+            "Financial forecasts do not account for mandatory subscription requirements",
+            "Governing body chair demonstrates insufficient understanding of regulatory responsibilities",
+            "Governing documents are inadequate for meeting ongoing conditions of registration"
+          ]
+        },
+        {
+          "ref": "E7.6.2",
+          "text": "The OfS's assessment of a provider's ability to deliver its business plan in practice, will consider the provider's capacity and resources. This includes assessing the provider's financial resources. The OfS will pay particular attention to whether the provider can afford any proposed activity in its business plan or governing documents which is necessary to ensure compliance with ongoing conditions of registration or to manage significant risks.",
+          "threshold": "Provider must have sufficient financial resources and capacity to deliver business plan and ensure regulatory compliance",
+          "risk_indicators": [
+            "Cannot provide audited financial statements to OfS specifications",
+            "Has identified significant investment needs but lacks financial resources to deliver them",
+            "Has not identified or appointed required independent external auditor",
+            "Management and governance arrangements insufficient to deliver plans"
+          ]
+        },
+        {
+          "ref": "E7.6.3",
+          "text": "When assessing whether a provider can deliver its business plan in practice, a provider's past performance may be relevant. This may include (but is not limited to): The provider's track record in delivering higher education, particularly any evidence in relation to quality, preventing fraud and protecting public money; The provider's previous financial performance; Published or final judgements from relevant regulatory or statutory bodies, within the last five years, placing more weight on more recent judgements within that period.",
+          "threshold": "Provider's past performance must support ability to deliver future plans",
+          "risk_indicators": [
+            "Historical poor performance or adverse judgements from regulatory bodies within last five years",
+            "Financial or student number forecasts unrealistic compared with historical performance",
+            "Poor track record in delivering high quality courses as subcontractor",
+            "Failed to provide complete, accurate data in timely fashion to Student Loans Company or lead partner"
+          ]
+        },
+        {
+          "ref": "E7.6.4",
+          "text": "The OfS will also consider other matters it considers relevant to whether a provider can deliver its business plan. This will include considering whether the provider can realistically deliver its plan in practice, regardless of its capacity and resources. For example, the OfS would consider that a provider could not deliver a plan that contains opposing or contradictory aims.",
+          "threshold": "Business plan must be realistic and deliverable without contradictory aims",
+          "risk_indicators": [
+            "Business plan contains opposing or contradictory aims",
+            "Plan is unrealistic regardless of available capacity and resources",
+            "Extensive OfS engagement required before receiving required documentation",
+            "Evidence suggests provider cannot realistically deliver proposed activities"
+          ]
+        }
+      ],
+      "notes": "Assessment does not represent judgement about commercial success, meeting plan targets, or OfS endorsement of approach. Decision only means provider meets registration requirements and OfS has not identified evidence it cannot deliver plan in practice. Particular attention paid to providers in subcontractual arrangements and their historical performance in managing regulatory compliance activities."
+    },
+    {
+      "condition_id": "E7.7",
+      "title": "A provider would be unlikely to satisfy this requirement if its business plan",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "E7.7.1",
+          "text": "Demonstrated little or no consideration of the characteristics or aims of the students it intended to recruit, particularly by failure to properly consider the potential support needs of the specific students it intends to recruit.",
+          "threshold": "Business plan must demonstrate proper consideration of student characteristics, aims, and support needs",
+          "risk_indicators": [
+            "Generic or template-based student recruitment strategies without tailored support considerations",
+            "Absence of specific provisions for different student demographics in planning documents",
+            "Business plan focuses on student numbers without addressing diverse learning needs",
+            "No evidence of market research into target student populations' specific requirements"
+          ]
+        },
+        {
+          "ref": "E7.7.2",
+          "text": "Made little or no reference to students in describing its mission or overarching objectives.",
+          "threshold": "Mission and objectives must meaningfully reference students",
+          "risk_indicators": [
+            "Mission statements that prioritize commercial goals over student outcomes",
+            "Strategic objectives focused primarily on market position rather than student experience",
+            "Absence of student-centered language in core institutional documents",
+            "Organizational goals that treat students as revenue sources rather than beneficiaries"
+          ]
+        },
+        {
+          "ref": "E7.7.3",
+          "text": "Focused primarily on commercial or financial targets, with few or no objectives or targets related to its students, their academic experience or outcomes.",
+          "threshold": "Business plan must include meaningful student-focused objectives alongside commercial targets",
+          "risk_indicators": [
+            "KPIs and targets overwhelmingly focused on financial metrics rather than student outcomes",
+            "Business planning documents with minimal reference to student satisfaction or academic achievement",
+            "Resource allocation decisions driven purely by profit margins without student impact assessment",
+            "Performance frameworks that lack student experience or outcome measures"
+          ]
+        },
+        {
+          "ref": "E7.7.4",
+          "text": "Failed to sufficiently prioritise the mitigation of risks of regulatory non-compliance which may have a negative impact on students, or other risks to students, in contrast to a high prioritisation of the mitigation of commercial risks.",
+          "threshold": "Risk management must prioritize student-related risks alongside commercial risks",
+          "risk_indicators": [
+            "Risk registers that extensively detail commercial risks but minimally address student impact risks",
+            "Investment in commercial risk mitigation significantly exceeds investment in student protection measures",
+            "Governance structures that escalate commercial risks but not student-related compliance risks",
+            "Business continuity plans that protect commercial interests but inadequately address student continuation"
+          ]
+        },
+        {
+          "ref": "E7.7.5",
+          "text": "Set out targets, including commercial targets, or ways of operating that were likely to create conflict with the interests of students, without considering how that conflict would be managed. This might include, but not be limited to: Plans for rapid growth which do not set out how this is going to be done in a way that ensures that all students continue to have a high-quality student experience. Plans to generate significant surpluses to be issued as dividends or shared as profits which do not recognise the risks to value for money for students or consider how to manage those conflicting interests. Plans which project minimal ongoing investment in resources and services in order to meet financial targets, without recognising risks of potential negative impacts on the student academic experience.",
+          "threshold": "Commercial targets must not conflict with student interests, or conflicts must be explicitly managed",
+          "risk_indicators": [
+            "Growth projections that exceed capacity without corresponding infrastructure investment plans",
+            "Dividend or profit distribution plans that reduce funds available for student services",
+            "Cost reduction strategies targeting student-facing resources or academic support",
+            "Revenue targets that incentivize quantity over quality in student recruitment or retention"
+          ]
+        }
+      ],
+      "notes": "This condition focuses on ensuring that business plans do not subordinate student interests to commercial objectives. It requires providers to demonstrate that their planning considers student characteristics, includes student-focused objectives, appropriately manages risks to students, and addresses potential conflicts between commercial goals and student interests. The condition provides specific examples of problematic approaches including inadequate growth planning, profit distribution that compromises value for money, and minimal investment in student services."
+    },
+    {
+      "condition_id": "E7.8",
+      "title": "Descriptions of the nature of a provider's higher education provision",
+      "category": "Governance",
+      "criteria": [
+        {
+          "ref": "E7.8.1",
+          "text": "A provider needs to provide a description of the courses it plans to offer.",
+          "threshold": "Description of planned course offerings provided",
+          "risk_indicators": [
+            "Business plan lacks clear course descriptions or vague program details",
+            "Missing information about planned academic offerings",
+            "Inadequate detail about course content or structure"
+          ]
+        },
+        {
+          "ref": "E7.8.2",
+          "text": "In addition to a description of its planned provision, where relevant a provider should provide a description of its current courses or the courses it offered in the past. A summary description of the nature of courses offered in the most recent years of delivery, rather than a full history of all the higher education courses it has ever offered, is sufficient.",
+          "threshold": "Summary description of current/recent course delivery provided where relevant",
+          "risk_indicators": [
+            "Failure to describe current course portfolio when applicable",
+            "Missing context about historical course delivery patterns",
+            "Incomplete picture of provider's teaching experience"
+          ]
+        },
+        {
+          "ref": "E7.8.3",
+          "text": "The business plan should provide an overarching description of the provider's provision rather than an exhaustive account. This description should be detailed enough to enable a sound understanding of the provider's business model, its current and/or planned course offering and student population. It should demonstrate that the provider has a comprehensive plan for how it intends to operate. It should also show that the provider understands the higher education sector and allow the OfS to identify any substantial risks the provider is likely to face.",
+          "threshold": "Comprehensive overarching description enabling understanding of business model, provision, and sector awareness",
+          "risk_indicators": [
+            "Business plan lacks coherent overview of provider's educational model",
+            "Insufficient detail to understand operational approach or target students",
+            "Limited evidence of sector understanding or risk awareness",
+            "Inability to identify substantial risks from business plan description"
+          ]
+        }
+      ],
+      "notes": "This condition covers requirements for business plan descriptions including: comprehensive course range descriptions (subject areas, scale, levels, delivery methods, partnerships); student cohort characteristics and target market understanding; competitor analysis and market positioning; business objectives and performance targets; strategies for achieving goals including recruitment, growth, financial targets, and academic outcomes. The OfS expects comprehensive information that demonstrates operational planning and sector understanding."
+    }
+  ]
+}

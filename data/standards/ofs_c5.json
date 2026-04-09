@@ -1,0 +1,528 @@
+{
+  "body": "OfS",
+  "document": "Conditions of Registration",
+  "version_date": "",
+  "market": "UK",
+  "level": "HE",
+  "source_pdf": "ofs-condition-c5.pdf",
+  "condition_count": 13,
+  "conditions": [
+    {
+      "condition_id": "C5",
+      "title": "Treating students fairly",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.3",
+          "text": "The provider must, if registered, treat each student fairly in relation to any activities that are connected with the provision of higher education and/or ancillary services.",
+          "threshold": "Fair treatment of all students in all activities connected to higher education and ancillary services provision",
+          "risk_indicators": [
+            "Student complaints or legal actions alleging unfair treatment or discrimination",
+            "Contractual terms or policies that disproportionately disadvantage certain student groups",
+            "Marketing materials or communications that contain misleading or deceptive information",
+            "Failure to address consumer protection violations or regulatory enforcement actions"
+          ]
+        },
+        {
+          "ref": "C5.4",
+          "text": "The provider will be deemed not to satisfy C5.3 if, in the reasonable opinion of the OfS, its actions or omissions (including proposed or likely actions or omissions) fall within one or more of the following categories: a. they fall within one or more of the descriptions provided for in the OfS prohibited behaviours list; or b. they give rise to a likelihood of detriment or actual detriment to the student (unless the OfS considers that the detriment would be reasonable in all the relevant circumstances).",
+          "threshold": "Actions must not be on prohibited behaviours list or cause unreasonable detriment to students",
+          "risk_indicators": [
+            "Practices matching descriptions in OfS prohibited behaviours list",
+            "Evidence of student detriment from provider policies or practices",
+            "Terms and conditions that create unreasonable burden or disadvantage for students",
+            "Complaints demonstrating pattern of unfair treatment across multiple students"
+          ]
+        },
+        {
+          "ref": "C5.5",
+          "text": "The provider will be deemed not to satisfy C5.3 if it has been subject to adverse findings under one or more of the following forms of wrongdoing in a context that directly or indirectly relates to the provision of education and/or ancillary services, unless it can demonstrate that it has addressed any issues related to any such adverse findings to the satisfaction of the OfS: a. non-compliance with consumer protection law, as found by a court of England and Wales or competent authority; b. the offence provided for in section 214(1) of the Education Reform Act 1988 (unrecognised degrees); c. the offence provided for in section 76(6) of the Companies Act 2006 (failure to comply with a Secretary of State direction to change a company name); or d. the offence provided for in section 1198 of the Companies Act 2006 (name giving misleading indication of activities).",
+          "threshold": "Must have addressed any adverse legal findings related to education provision to OfS satisfaction",
+          "risk_indicators": [
+            "Court findings of consumer protection law violations in education context",
+            "Prosecutions under Education Reform Act 1988 for unrecognised degrees",
+            "Company name violations under Companies Act 2006 requirements",
+            "Outstanding legal findings that have not been remedied to OfS satisfaction"
+          ]
+        },
+        {
+          "ref": "C5.7",
+          "text": "In the course of the provider's application for registration with the OfS (and the OfS's consideration of that application), the mere removal of a term, provision or any form of information from key documents or from any information about the provider will be insufficient to demonstrate that the provider, if registered, will treat its students fairly in accordance with C5.3, unless it can demonstrate that it has addressed any underlying issues related to that term, provision or form of information to the satisfaction of the OfS.",
+          "threshold": "Must demonstrate substantive resolution of unfair treatment issues, not just removal of problematic terms",
+          "risk_indicators": [
+            "Recent removal of terms from student contracts or policies without evidence of systemic change",
+            "Pattern of reactive changes to documentation only when challenged",
+            "Lack of evidence of cultural or procedural changes to prevent recurrence of unfair practices",
+            "Inadequate explanation of how underlying fairness issues have been addressed"
+          ]
+        }
+      ],
+      "notes": "Scope includes provider relationships with students, higher education provision, ancillary services, and arrangements to attract or communicate with students including advertising and marketing. References to provision include offering provision. OfS will consider enforcement undertakings and outstanding enforcement applications when determining compliance."
+    },
+    {
+      "condition_id": "C5",
+      "title": "Consumer protection and student contracts",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.1",
+          "text": "The registered provider must comply with all applicable consumer protection law in its dealings with students in relation to higher education courses and, where applicable, ancillary services.",
+          "threshold": "Full compliance with consumer protection law in all student dealings",
+          "risk_indicators": [
+            "Student complaints alleging unfair contract terms or misleading information",
+            "Enforcement action or warnings from Trading Standards or CMA",
+            "Patterns of student refund disputes or contractual breaches",
+            "Failure to provide clear, accessible terms and conditions"
+          ]
+        },
+        {
+          "ref": "C5.2",
+          "text": "The registered provider must have and comply with fair and transparent procedures for handling complaints from students.",
+          "threshold": "Fair, transparent complaints procedures that are followed consistently",
+          "risk_indicators": [
+            "High volume of unresolved student complaints or escalations to OIA",
+            "Complaints procedures that are unclear, inaccessible or not widely publicized",
+            "Evidence of bias or unfairness in complaint handling processes",
+            "Failure to respond to complaints within published timeframes"
+          ]
+        },
+        {
+          "ref": "C5.3",
+          "text": "The registered provider must not engage in conduct that could be reasonably regarded as harassment of students or former students.",
+          "threshold": "No conduct that could reasonably be regarded as harassment",
+          "risk_indicators": [
+            "Reports of aggressive debt collection practices against students",
+            "Excessive or persistent contact with students who have raised complaints",
+            "Intimidatory behavior towards student representatives or whistleblowers",
+            "Use of legal threats to discourage legitimate complaints or criticism"
+          ]
+        },
+        {
+          "ref": "C5.4",
+          "text": "The registered provider must not engage in the prohibited behaviors set out in the OfS prohibited behaviours list.",
+          "threshold": "No engagement in any OfS prohibited behaviors",
+          "risk_indicators": [
+            "Evidence of behaviors listed in the OfS prohibited behaviours document",
+            "Patterns of conduct that could constitute unfair commercial practices",
+            "Misleading marketing or recruitment practices",
+            "Failure to honor contractual commitments to students"
+          ]
+        }
+      ],
+      "notes": "This condition includes detailed definitions for ancillary services, consumer protection law (covering Consumer Rights Act 2015, Consumer Contracts Regulations 2013, and other relevant legislation), competent authority, enforcement body, former student, prospective student, and key documents. The OfS prohibited behaviours list is a separate document that forms part of this condition. Applies to all providers seeking registration as an initial condition under section 5 of HERA."
+    },
+    {
+      "condition_id": "C5.1",
+      "title": "Condition C5.1",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.1.1",
+          "text": "Where this condition refers to a 'former student' who has an ongoing complaint against the provider, the OfS would consider whether the student raised their complaint within time limits specified by the provider and whether the time limit set was reasonable.",
+          "threshold": "Ensure former students with ongoing complaints raised them within reasonable time limits",
+          "risk_indicators": [
+            "Former students reporting unreasonably short complaint time limits",
+            "High number of complaints rejected solely on time limit grounds",
+            "Inconsistent application of time limits across different complaint types",
+            "Lack of clear communication about complaint deadlines to students"
+          ]
+        },
+        {
+          "ref": "C5.1.2",
+          "text": "'Ancillary services' includes (but is not limited to) library services, disability support packages, scholarships, accommodation and sports facilities, where there is a contract between a higher education provider and a student. This applies even where a contract or draft contract exists but is not yet in use. For example, this may be the case where services are newly introduced and not yet being delivered, or where students have not yet signed the relevant contract. This is because C5.2d. states that the provision of ancillary services includes the offering of those services and C5.2e states that reference to key documents (including contracts) includes any draft or proposed versions.",
+          "threshold": "Ensure all ancillary services under contract with students comply with condition requirements",
+          "risk_indicators": [
+            "Draft contracts for ancillary services lacking proper consumer protection terms",
+            "Misleading information about availability of ancillary services not yet operational",
+            "Student complaints about promised ancillary services not being delivered",
+            "Inadequate disclosure of terms and conditions for ancillary services"
+          ]
+        },
+        {
+          "ref": "C5.1.3",
+          "text": "Where ancillary services are offered by a third party and the contract for services is between a student and that third party, this falls outside the scope of the condition. Where a provider works with recruitment agents or other entities similarly working on its behalf, it will be held accountable for their behaviour in relation to the 'fake reviews' provision in the OfS prohibited behaviours list. The OfS expects a provider to undertake appropriate due diligence on all third parties and on all third parties' arrangements, and remains responsible for any contracts it enters into with any third parties.",
+          "threshold": "Conduct appropriate due diligence on third parties and remain accountable for their behavior regarding prohibited practices",
+          "risk_indicators": [
+            "Evidence of fake reviews or misleading information from recruitment agents",
+            "Inadequate due diligence processes for third party contractors",
+            "Third parties acting on provider's behalf engaging in prohibited behaviors",
+            "Lack of oversight or monitoring of third party activities"
+          ]
+        },
+        {
+          "ref": "C5.1.4",
+          "text": "In cases where two (or more) providers share ancillary services (for example, where one provider delivers services to another provider's students), these fall within the scope of the condition for whichever provider holds a contract with the student for these services. The same expectations in relation to appropriate due diligence apply in these shared arrangements.",
+          "threshold": "Ensure shared ancillary service arrangements include proper due diligence and clear contractual responsibility",
+          "risk_indicators": [
+            "Unclear contractual responsibility in shared service arrangements",
+            "Student confusion about which provider to contact for shared service issues",
+            "Inadequate quality assurance of shared ancillary services",
+            "Disputes between providers affecting service delivery to students"
+          ]
+        },
+        {
+          "ref": "C5.1.5",
+          "text": "Higher education provided 'in any manner or form' includes any higher education course. This includes courses at any level and with any volume of learning, and it applies whether or not a course is recognised for OfS funding purposes, or any other purpose. This means, for example, that postgraduate research courses, the study of modules or courses leading to microcredentials, and apprenticeships, all fall within the scope of this condition. It also includes courses provided face-to-face, by distance learning, or a combination of delivery approaches.",
+          "threshold": "Apply condition requirements to all higher education provision regardless of format, level, or recognition status",
+          "risk_indicators": [
+            "Different compliance standards applied to different course types or delivery methods",
+            "Microcredential or apprenticeship programs lacking proper consumer protections",
+            "Distance learning courses with inadequate information disclosure",
+            "Inconsistent application of condition requirements across all provision types"
+          ]
+        },
+        {
+          "ref": "C5.1.6",
+          "text": "Higher education provided 'by, or on behalf of, a provider' includes courses where students are, or will be, in any of the following categories: • taught by the provider seeking registration • registered with the provider seeking registration • studying for an award of the provider seeking registration (including where these services are provided on that provider's behalf).",
+          "threshold": "Ensure condition compliance for all students taught by, registered with, or studying for awards of the provider",
+          "risk_indicators": [
+            "Different information standards for students in different registration categories",
+            "Confusion among students about which provider is responsible for their consumer rights",
+            "Inadequate consumer protection for students studying for provider's awards through partnerships",
+            "Inconsistent complaint procedures across different student categories"
+          ]
+        },
+        {
+          "ref": "C5.1.7",
+          "text": "The condition applies to all higher education provided through all forms of partnership arrangements. This includes instances where there is shared contractual responsibility for a student; this may be the case in a subcontractual partnership. In practice, this may result in more than one provider being responsible for compliance with this condition in relation to the same student. The OfS will assess a provider based on the arrangements it intends to have in place if it is registered. This includes whether it intends only to teach students registered by another provider (for example, through a subcontractual arrangement) or to teach students who it will also register (for example, through a validation arrangement).",
+          "threshold": "Ensure condition compliance across all partnership arrangements and clearly define shared responsibilities",
+          "risk_indicators": [
+            "Unclear responsibility allocation in partnership arrangements causing student detriment",
+            "Students receiving conflicting information from different partners",
+            "Gaps in consumer protection due to shared contractual arrangements",
+            "Inadequate coordination between partners on condition compliance"
+          ]
+        },
+        {
+          "ref": "C5.1.8",
+          "text": "'Information about the provider' includes anything individuals may rely on in their decision making about whether (or what) to study at the provider: for example, emails or other forms of communication; presentations delivered at open days; any written material used to inform communications (such as scripts for recruitment phone calls).",
+          "threshold": "Ensure all information that prospective students may rely on for decision-making is accurate and compliant",
+          "risk_indicators": [
+            "Misleading information in recruitment materials or communications",
+            "Inconsistent information provided across different communication channels",
+            "Scripts or materials used by recruitment staff containing inaccurate claims",
+            "Open day presentations making promises that cannot be delivered"
+          ]
+        },
+        {
+          "ref": "C5.1.9",
+          "text": "Arrangements the provider 'plans to make' and 'proposed information' include the situation where a provider applying to register is not yet operating or not yet delivering higher education.",
+          "threshold": "Ensure compliance with condition requirements even for planned or proposed arrangements and information",
+          "risk_indicators": [
+            "Proposed arrangements lacking adequate consumer protection measures",
+            "Planned information disclosure processes that are inadequate or incomplete",
+            "Unrealistic promises about future provision in pre-operational phase",
+            "Insufficient planning for condition compliance before commencing operations"
+          ]
+        }
+      ],
+      "notes": "This appears to be explanatory notes for Condition C5.1, providing definitions and clarifications for key terms and scope. The condition relates to consumer protection requirements for higher education providers, covering aspects such as complaint procedures, ancillary services, third party arrangements, partnership responsibilities, and information provision across all forms of higher education delivery."
+    },
+    {
+      "condition_id": "C5.2",
+      "title": "Consumer protection compliance",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.2.1",
+          "text": "The condition applies to relationships between a provider and its students, whether the latter pay for higher education or ancillary services directly or indirectly (for example, through Student Loans Company funding). This includes circumstances where a third party pays (for example, an employer or other sponsor).",
+          "threshold": "Compliance with consumer protection requirements across all payment arrangements",
+          "risk_indicators": [
+            "Inconsistent application of consumer protection policies across different payment types",
+            "Complaints from students or sponsors about unfair treatment based on funding source",
+            "Lack of clear policies covering third-party payment arrangements"
+          ]
+        },
+        {
+          "ref": "C5.2.2",
+          "text": "This condition applies to a provider's relationships with students studying for the purpose of their business, trade or profession. This includes, for example, apprentices or other students who are studying as part of employer-sponsored programmes.",
+          "threshold": "Consumer protection compliance for all professional and vocational students",
+          "risk_indicators": [
+            "Different standards of consumer protection for apprentices versus other students",
+            "Employer-sponsored students receiving inadequate consumer protection information",
+            "Unclear responsibilities between employer, provider, and student in dispute resolution"
+          ]
+        },
+        {
+          "ref": "C5.2.3",
+          "text": "Higher education and ancillary services are considered 'services' regardless of whether fees are charged and whether it is provided on a 'for profit' or a 'not for profit' basis.",
+          "threshold": "Consumer protection applied universally regardless of fee structure or organizational status",
+          "risk_indicators": [
+            "Different consumer protection standards for free versus fee-paying services",
+            "Inconsistent application of consumer law based on provider's profit status",
+            "Students unaware that free services are still subject to consumer protection requirements"
+          ]
+        },
+        {
+          "ref": "C5.2.4",
+          "text": "The condition applies wherever higher education and ancillary services are offered. This therefore relates to the provider's arrangements to attract, encourage and communicate with students, and includes instances where a provider is not yet delivering such services.",
+          "threshold": "Consumer protection compliance from marketing through to service delivery",
+          "risk_indicators": [
+            "Misleading marketing materials or pre-enrollment communications",
+            "Lack of consumer protection oversight for recruitment and marketing activities",
+            "Inconsistent consumer protection standards across different delivery locations or methods"
+          ]
+        }
+      ],
+      "notes": "This condition establishes the broad scope of consumer protection requirements, covering all student relationships regardless of payment method, study purpose, fee structure, or delivery stage. It emphasizes that consumer protection applies from initial marketing contact through to service delivery, across all locations and arrangements."
+    },
+    {
+      "condition_id": "C5.3",
+      "title": "Condition C5.3",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.3.1",
+          "text": "The overarching obligation of the condition is that a provider must treat its students fairly.",
+          "threshold": "Must treat all students fairly in all activities",
+          "risk_indicators": [
+            "Student complaints about discriminatory treatment or unfair processes",
+            "Inconsistent application of policies across different student groups",
+            "Lack of clear appeals procedures or student grievance mechanisms",
+            "Evidence of bias in academic assessment or student support services"
+          ]
+        },
+        {
+          "ref": "C5.3.2",
+          "text": "The OfS will consider any of the provider's activities that are connected with providing higher education or ancillary services.",
+          "threshold": "Fair treatment must extend to all higher education and ancillary services",
+          "risk_indicators": [
+            "Unfair practices in accommodation services or student facilities",
+            "Discriminatory treatment in careers services or student support",
+            "Inconsistent charging or access policies for additional services",
+            "Complaints about unfair treatment in non-academic student services"
+          ]
+        }
+      ],
+      "notes": "Unfair treatment is defined in the condition and is separate from the protections offered by consumer protection law. The OfS expects any higher education provider seeking registration to ensure it understands and complies with its legal obligations."
+    },
+    {
+      "condition_id": "C5.4",
+      "title": "Fair treatment of students - prohibited behaviours and detriment tests",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.4a",
+          "text": "The OfS will deem that a provider does not treat students fairly where its actions (or its failure to act) fall within the descriptions in a specified list of behaviours (the OfS prohibited behaviours list)",
+          "threshold": "Provider must avoid all behaviours listed in the OfS prohibited behaviours list",
+          "risk_indicators": [
+            "Provider displays or presents inaccurate or false information to students",
+            "Provider's actions match descriptions in the OfS prohibited behaviours list",
+            "Evidence of unfair terms and conditions in contracts, even if not currently in use",
+            "Provider's communications or documentation contain misleading statements about courses or services"
+          ]
+        },
+        {
+          "ref": "C5.4b",
+          "text": "The OfS will deem that a provider does not treat students fairly where its actions (or its failure to act) give rise to actual or likely detriment to students",
+          "threshold": "Provider must not cause actual or likely detriment to current, prospective or former students",
+          "risk_indicators": [
+            "Student complaints indicating financial, academic or personal harm",
+            "Ambiguous, unclear or silent contract terms that could disadvantage students",
+            "Website evidence contradicting contractual obligations to students",
+            "Patterns of student withdrawals or transfers citing unfair treatment"
+          ]
+        }
+      ],
+      "notes": "The tests at C5.4a and C5.4b are separate and distinct. Prohibited behaviour triggers non-compliance regardless of whether detriment occurs. 'Proposed' actions include unfair terms in unused contracts. 'Likely' relates to circumstances where evidence indicates potential unfair treatment despite no express proposal. The OfS prohibited behaviours list is published separately and forms part of initial registration requirements."
+    },
+    {
+      "condition_id": "C5",
+      "title": "Student Protection",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.1",
+          "text": "The registered provider must have adequate and effective arrangements to protect the interests of all students and ensure they are treated fairly.",
+          "threshold": "Adequate and effective student protection arrangements demonstrated",
+          "risk_indicators": [
+            "Absence of comprehensive student protection plans",
+            "Multiple student complaints about unfair treatment unresolved",
+            "Failure to communicate clearly about course changes or closures",
+            "Inadequate financial protection for student fees"
+          ]
+        },
+        {
+          "ref": "C5.2",
+          "text": "The provider must not engage in conduct that could reasonably be regarded as representing poor value for students, bearing in mind the need to protect the academic experience and interests of students.",
+          "threshold": "No conduct representing poor value for students",
+          "risk_indicators": [
+            "Significant reduction in teaching hours without fee adjustment",
+            "Deterioration in facilities or resources without mitigation",
+            "Cancellation of advertised course features or modules",
+            "Staff-to-student ratios falling below sector norms"
+          ]
+        },
+        {
+          "ref": "C5.3",
+          "text": "The provider must take all reasonable steps to mitigate for students any detriment, including curtailment of courses, or cessation of the provider's activities.",
+          "threshold": "All reasonable steps taken to mitigate student detriment",
+          "risk_indicators": [
+            "Lack of contingency plans for course continuation",
+            "Failure to arrange teach-out provisions",
+            "Inadequate notice periods for course changes",
+            "No alternative study arrangements offered to affected students"
+          ]
+        }
+      ],
+      "notes": "This condition includes provisions informed by consumer protection law but may have different effects in the higher education context. 'Detriment' means any harm, damage or loss experienced by students (current, prospective and former). The OfS considers whether detriment and related actions would be reasonable in circumstances, taking into account necessity, provider control, and steps taken to limit detriment. Factors include emergency situations, provider control over circumstances, and measures to limit student detriment."
+    },
+    {
+      "condition_id": "C5.5",
+      "title": "Student Protection - Fair Treatment Following Findings of Wrongdoing",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.5.1",
+          "text": "The OfS's starting presumption is that a provider does not treat students fairly if it has been subject to findings of non-compliance with consumer protection law, or other wrongdoing as specified in C5.5. The OfS will consider findings made by UK courts or other competent authorities as defined in the condition.",
+          "threshold": "No findings of non-compliance with consumer protection law or other specified wrongdoing by UK courts or competent authorities",
+          "risk_indicators": [
+            "Court judgments against the provider for consumer protection law breaches",
+            "Findings by Trading Standards or other competent authorities regarding unfair trading practices",
+            "Regulatory action by sector-specific bodies for non-compliance with consumer protection requirements",
+            "Multiple student complaints to consumer protection agencies resulting in formal findings"
+          ]
+        },
+        {
+          "ref": "C5.5.2",
+          "text": "Where there are findings of wrongdoing, the OfS will consider evidence submitted by the provider to reach a judgement. The OfS will consider the following non-exhaustive factors: the recency of the findings; whether the findings relate to matters that were repeated or sustained; whether the findings include a view about the deliberateness of the provider's actions or inaction; how the provider has engaged with the issue since the finding was made; the steps it has taken to address the issue and ensure it does not happen again in future.",
+          "threshold": "Demonstrate satisfactory engagement with findings and implementation of adequate remedial measures",
+          "risk_indicators": [
+            "Recent or repeated findings of wrongdoing without evidence of remediation",
+            "Failure to engage constructively with authorities following adverse findings",
+            "Absence of documented corrective action plans or preventive measures",
+            "Evidence of deliberate non-compliance or sustained patterns of wrongdoing"
+          ]
+        }
+      ],
+      "notes": "The Protection from Harassment Act 1997 may be relevant to cases where a provider aggressively pursues academic sanctions for non-payment of non-tuition fee debts. Section 214(1) of the Education Reform Act 1988 relates to offering unrecognised degrees. Companies Act 2006 provisions relate to misleading company names including claiming to be a 'university' without permission. The OfS will consider findings relating to any form of education provision, including further education and ancillary services, not just higher education."
+    },
+    {
+      "condition_id": "C5.6",
+      "title": "Undertakings or applications for enforcement orders",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.6.1",
+          "text": "The existence of undertakings or applications for enforcement orders that relate to the provision of education and/or ancillary services will not automatically lead to a conclusion that the provider does not treat students fairly, as there is no presumption of wrongdoing.",
+          "threshold": "Provider must provide information and evidence to demonstrate that issues leading to undertakings or enforcement order applications are not of concern",
+          "risk_indicators": [
+            "Multiple or repeated undertakings with enforcement bodies",
+            "Failure to provide adequate information or evidence to address enforcement concerns",
+            "Ongoing issues identified in undertakings that remain unresolved",
+            "Pattern of consumer protection issues across education and ancillary services"
+          ]
+        }
+      ],
+      "notes": "The OfS will consider information submitted by the provider alongside other reasonably available evidence to reach a judgement. The context extends beyond higher education to include further education provision. Enforcement bodies include the Competition and Markets Authority (CMA) and Trading Standards. This condition relates specifically to applications for enforcement orders by enforcement bodies, not to enforcement orders issued by a court (which are covered under C5.5)."
+    },
+    {
+      "condition_id": "C5.7",
+      "title": "Student contracts and terms",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.7.1",
+          "text": "During the application process, if there are terms or information of concern to the OfS in any of the provider's documents, simply removing these will not be sufficient, unless the provider can demonstrate that it has addressed any underlying issues associated with these terms.",
+          "threshold": "Demonstrate that underlying issues have been addressed beyond mere removal of concerning terms",
+          "risk_indicators": [
+            "Provider removes concerning terms without demonstrating understanding of why they were problematic",
+            "Similar unfair terms or statements appear elsewhere in provider documentation or website",
+            "Provider fails to replace removed terms with more suitable alternatives",
+            "No evidence of systemic changes to address root causes of unfair terms"
+          ]
+        },
+        {
+          "ref": "C5.7.2",
+          "text": "The OfS will assess the documents the provider submits with its application and will also consider any information published by the provider on its website, including information about courses, fees, ancillary services, affiliation with other bodies, and materials to attract or communicate with students.",
+          "threshold": "All submitted documents and published information must treat students fairly and be consistent",
+          "risk_indicators": [
+            "Inconsistencies between application documents and website information",
+            "Misleading advertising or marketing materials",
+            "Unclear or inaccurate information about fees, courses, or services",
+            "Third-party complaints or notifications about unfair treatment"
+          ]
+        },
+        {
+          "ref": "C5.7.3",
+          "text": "Providers in partnerships share a responsibility to treat students fairly, including ensuring through their own due diligence processes that the other partner also treats them fairly. Any provider applying for registration must ensure that any information it publishes is clear, accurate and consistent with that shared by its partner.",
+          "threshold": "Demonstrate due diligence in partnership arrangements and ensure consistent, fair treatment across all partners",
+          "risk_indicators": [
+            "Inconsistent information between delivery provider and lead provider documentation",
+            "Lack of clear due diligence processes for partner arrangements",
+            "Disputes or unclear allocation of responsibilities between partners",
+            "Evidence that partner organizations engage in unfair student treatment"
+          ]
+        }
+      ],
+      "notes": "The OfS will consider the consequences of term removal, whether removal addresses underlying issues, and whether other related concerns remain. Assessment may include information from third parties, OIA, CMA, or Trading Standards. In all circumstances, the test is whether the provider will treat students fairly if registered. Particular attention is paid to subcontractual arrangements where delivery providers must submit lead provider documents and work to address any concerning provisions."
+    },
+    {
+      "condition_id": "C1",
+      "title": "Parse error — review manually",
+      "category": "Unknown",
+      "criteria": [],
+      "notes": "condition C1 is likely to result in a judgement that initial "
+    },
+    {
+      "condition_id": "C5",
+      "title": "Consumer Protection",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.1",
+          "text": "The provider must comply with consumer protection law and treat students fairly",
+          "threshold": "Full compliance with consumer protection law and fair treatment of students",
+          "risk_indicators": [
+            "Referrals to National Trading Standards",
+            "Student complaints about misleading information or unfair practices",
+            "Evidence of non-compliance with consumer protection regulations",
+            "Pattern of unresolved disputes with students over financial or contractual matters"
+          ]
+        }
+      ],
+      "notes": "Regulatory interventions such as referrals to National Trading Standards will be considered in the OfS's assessment of compliance. This condition relates to ensuring providers meet their obligations under consumer protection law and maintain fair dealings with students."
+    },
+    {
+      "condition_id": "C5",
+      "title": "Fair treatment of students",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "C5.1",
+          "text": "Where the OfS considers this initial condition satisfied, but identifies an increased risk of not treating students fairly, it may impose one or more specific ongoing conditions of registration, and will also consider whether additional monitoring requirements are appropriate.",
+          "threshold": "Ongoing compliance monitoring when increased risk identified",
+          "risk_indicators": [
+            "Provider changes student registration arrangements after initial approval",
+            "Subcontractual partnership arrangements modify student treatment provisions",
+            "Consumer protection law compliance issues emerge post-registration",
+            "OIA or other regulatory bodies raise concerns about student treatment"
+          ]
+        },
+        {
+          "ref": "C5.2",
+          "text": "For example, where a provider does not intend to register any students when it seeks registration (because students will register with a lead provider in a subcontractual partnership), the OfS may require the provider to submit a reportable event if this position changes once it is registered.",
+          "threshold": "Notification required when student registration arrangements change",
+          "risk_indicators": [
+            "Provider begins direct student registration without notification",
+            "Changes to lead provider arrangements not reported",
+            "Subcontractual partnership modifications affecting student registration",
+            "New contractual documents introduced without OfS submission"
+          ]
+        },
+        {
+          "ref": "C5.3",
+          "text": "This may include requiring the provider to submit the contractual and other documents it intends to use in its relationships with students.",
+          "threshold": "Submit all student-facing contractual documents as required",
+          "risk_indicators": [
+            "Contractual documents not submitted when requested",
+            "Student-facing documents modified without OfS notification",
+            "Terms and conditions changes implemented without approval",
+            "Documentation gaps in student relationship materials"
+          ]
+        }
+      ],
+      "notes": "Any assessment that the OfS makes about whether a provider has satisfied this condition is not a judgement about whether the provider is complying with consumer protection law, and should not be seen as such. Providers will still need to seek their own legal advice to ensure compliance with the law. The OfS's assessment is also separate from the assessment of any other body (for example the OIA) and any judgement such a body may independently take about a provider and its documents."
+    }
+  ]
+}
