@@ -1,0 +1,241 @@
+{
+  "body": "QAA",
+  "document": "UK Quality Code for Higher Education 2024",
+  "version_date": "2024-06-27",
+  "market": "UK",
+  "level": "HE",
+  "condition_count": 12,
+  "conditions": [
+    {
+      "condition_id": "P1",
+      "title": "Taking a strategic approach to managing quality and standards",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "P1.1",
+          "text": "Providers demonstrate they have a strategic approach to securing academic standards and assuring and enhancing quality that is embedded across the organisation.",
+          "threshold": "Evidence of institution-wide quality strategy with clear ownership and governance",
+          "risk_indicators": [
+            "No documented quality strategy or framework",
+            "Quality function not represented at senior leadership level",
+            "Quality strategy not referenced in board papers or annual review",
+            "Disconnect between quality processes and institutional strategy"
+          ]
+        }
+      ],
+      "notes": "Strategic theme. Foundational principle — all other principles depend on this being in place."
+    },
+    {
+      "condition_id": "P2",
+      "title": "Engaging students as partners",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "P2.1",
+          "text": "Providers take deliberate steps to engage students as active partners in assuring and enhancing the quality of the student learning experience. Engagement happens individually and collectively to influence all levels of study and decision making.",
+          "threshold": "Demonstrable student engagement in quality processes at programme, departmental and institutional level",
+          "risk_indicators": [
+            "Low NSS student voice scores (below 60%)",
+            "Student governor absent from board meetings",
+            "No student representation on academic committees",
+            "Student feedback not demonstrably acted upon or closed the loop"
+          ]
+        }
+      ],
+      "notes": "Strategic theme. Links directly to NSS student voice questions and OfS B2."
+    },
+    {
+      "condition_id": "P3",
+      "title": "Resourcing delivery of a high-quality learning experience",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "P3.1",
+          "text": "Providers plan, secure and maintain resources relating to learning, technology, facilities and staffing to enable the delivery and enhancement of an accessible, innovative and high-quality learning experience for students that aligns with the provider's strategy and the composition of the student body.",
+          "threshold": "Adequate staffing, library, IT and physical resources proportionate to student numbers and programme portfolio",
+          "risk_indicators": [
+            "Staff:student ratio significantly above sector median",
+            "High staff vacancy rate or turnover",
+            "NSS learning resources scores below 70%",
+            "Library or IT investment declining year on year",
+            "Capital expenditure below depreciation"
+          ]
+        }
+      ],
+      "notes": "Evaluating quality theme. Links to OfS B2 resources and support condition."
+    },
+    {
+      "condition_id": "P4",
+      "title": "Using data to inform and evaluate quality",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "P4.1",
+          "text": "Providers collect, analyse and utilise qualitative and quantitative data at provider, departmental, programme and module levels. These analyses inform decision-making with the aim of enhancing practices and processes relating to teaching, learning and the wider student experience.",
+          "threshold": "Data infrastructure in place; outcomes data used systematically in quality review processes",
+          "risk_indicators": [
+            "Annual programme reviews not data-driven",
+            "No benchmarking against sector or subject-level data",
+            "Inconsistent data collection across programmes or campuses",
+            "Data not disaggregated by protected characteristics"
+          ]
+        }
+      ],
+      "notes": "Evaluating quality theme. Underpins all quality monitoring activity."
+    },
+    {
+      "condition_id": "P5",
+      "title": "Monitoring, evaluating and enhancing provision",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "P5.1",
+          "text": "Providers regularly monitor and review their provision to secure academic standards and enhance quality. Deliberate steps are taken to engage and involve students, staff and external expertise in monitoring and evaluation activity.",
+          "threshold": "Annual programme review completed for all programmes; periodic review conducted on cycle not exceeding 5 years",
+          "risk_indicators": [
+            "Periodic review overdue (more than 5 years since last review)",
+            "Annual programme reviews not completed for all programmes",
+            "External examiner concerns not addressed in review cycle",
+            "Enhancement actions from previous reviews not implemented"
+          ]
+        }
+      ],
+      "notes": "Evaluating quality theme. Directly links to OfS B1 academic experience condition."
+    },
+    {
+      "condition_id": "P6",
+      "title": "Engaging in external review and accreditation",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "P6.1",
+          "text": "Providers engage with external reviews to give assurance about the effectiveness of their approach to managing quality and standards. Reviews may be undertaken by representative organisations, agencies or professional, statutory and regulatory bodies (PSRBs).",
+          "threshold": "Active engagement with QAA review, OfS monitoring, and relevant PSRB accreditations",
+          "risk_indicators": [
+            "PSRB accreditation lapsed or under review",
+            "Previous QAA review findings not addressed",
+            "No engagement with relevant subject or professional body reviews",
+            "TEF submission not made or rating declined"
+          ]
+        }
+      ],
+      "notes": "Evaluating quality theme. Links to OfS B6 TEF participation and B5 sector-recognised standards."
+    },
+    {
+      "condition_id": "P7",
+      "title": "Designing, developing, approving and modifying programmes",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "P7.1",
+          "text": "Providers design, develop, approve and modify programmes and modules to ensure the quality of provision and the academic standards of awards are consistent with the relevant Qualifications Framework. Providers ensure their provision and level of qualifications are comparable to those offered across the UK.",
+          "threshold": "All programmes approved through documented process; qualifications aligned to FHEQ; curriculum mapping completed",
+          "risk_indicators": [
+            "Programme approval process not documented or applied consistently",
+            "Awards not mapped to FHEQ level descriptors",
+            "Curriculum not reviewed against subject benchmark statements",
+            "Significant programme modifications not subject to approval process"
+          ]
+        }
+      ],
+      "notes": "Implementing quality theme. Links to OfS B4 assessment and awards condition."
+    },
+    {
+      "condition_id": "P8",
+      "title": "Operating partnerships with other organisations",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "P8.1",
+          "text": "Providers and their partners agree proportionate arrangements for effective governance to secure the academic standards and enhance the quality of programmes and modules that are delivered in partnership with others. Organisations agree and communicate mutual and specific responsibilities.",
+          "threshold": "Formal partnership agreements in place; oversight mechanisms documented; partner performance monitored",
+          "risk_indicators": [
+            "Franchise or validation arrangements without formal agreements",
+            "Partner institutions not subject to same quality oversight as direct delivery",
+            "Subcontractor arrangements not disclosed to OfS",
+            "Student outcomes at partner sites diverging significantly from main campus"
+          ]
+        }
+      ],
+      "notes": "Implementing quality theme. Links directly to OfS E10 subcontracting condition."
+    },
+    {
+      "condition_id": "P9",
+      "title": "Recruiting, selecting and admitting students",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "P9.1",
+          "text": "Providers operate recruitment, selection and admissions processes that are transparent, fair and inclusive. Providers maintain and publish accurate, relevant and accessible information about their provision, enabling students to make informed choices.",
+          "threshold": "Admissions policy published; entry requirements clearly stated; information accurate and up to date",
+          "risk_indicators": [
+            "Admissions policy not published or outdated",
+            "Course information inaccurate or misleading",
+            "Entry requirements inconsistently applied",
+            "High conversion drop-off suggesting expectation mismatch"
+          ]
+        }
+      ],
+      "notes": "Implementing quality theme. Links to OfS consumer protection conditions C1, C5."
+    },
+    {
+      "condition_id": "P10",
+      "title": "Supporting students to achieve their potential",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "P10.1",
+          "text": "Providers facilitate a framework of support for students that enables them to have a high-quality learning experience and achieve their potential as they progress in their studies. The support structure scaffolds the academic, personal and professional learning journey.",
+          "threshold": "Academic, pastoral and careers support available and accessible to all students; support needs of diverse student body met",
+          "risk_indicators": [
+            "NSS academic support scores below sector median",
+            "Continuation rates significantly below sector benchmark",
+            "Attainment gaps between student groups not addressed",
+            "Mental health and wellbeing support inadequate or inaccessible"
+          ]
+        }
+      ],
+      "notes": "Implementing quality theme. Links to OfS B2 and student outcomes conditions."
+    },
+    {
+      "condition_id": "P11",
+      "title": "Teaching, learning and assessment",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "P11.1",
+          "text": "Providers facilitate a collaborative and inclusive approach that enables students to have a high-quality learning experience and to progress through their studies. Assessment employs a variety of methods, embodying the values of academic integrity, producing outcomes that are comparable across the UK and recognised globally.",
+          "threshold": "Assessment strategy documented; marking criteria published; external examining in place; academic integrity policy enforced",
+          "risk_indicators": [
+            "External examiner conditions raised and unresolved",
+            "NSS assessment and feedback scores below 65%",
+            "Grade inflation identified by external examiner",
+            "Academic misconduct policy outdated or inconsistently applied",
+            "Significant variation in standards across campuses or modes of delivery"
+          ]
+        }
+      ],
+      "notes": "Implementing quality theme. Links to OfS B1, B4 and sector-recognised standards."
+    },
+    {
+      "condition_id": "P12",
+      "title": "Operating concerns, complaints and appeals processes",
+      "category": "Student",
+      "criteria": [
+        {
+          "ref": "P12.1",
+          "text": "Providers operate processes for complaints and appeals that are robust, fair, transparent and accessible, and clearly articulated to staff and students. Policies and processes for concerns, complaints and appeals are regularly reviewed and the outcomes are used to support the enhancement of provision.",
+          "threshold": "Complaints policy published; OIA scheme membership maintained; complaint volumes and outcomes reported to governance",
+          "risk_indicators": [
+            "High volume of complaints escalated to OIA",
+            "OIA upholding rate above sector average",
+            "Complaints policy not published or outdated",
+            "Complaint themes not feeding into quality improvement",
+            "Student Protection Plan not reflecting complaint risks"
+          ]
+        }
+      ],
+      "notes": "Implementing quality theme. Links to OfS C conditions on consumer protection and student protection."
+    }
+  ]
+}
