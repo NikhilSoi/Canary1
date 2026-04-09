@@ -1,77 +1,890 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2685.4">
-  <style type="text/css">
-    body {background-color: #f6f5f1}
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Helvetica Neue'; color: #ffffff; -webkit-text-stroke: #ffffff; min-height: 17.0px}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 20.0px 'Helvetica Neue'; color: #ffffff; -webkit-text-stroke: #ffffff}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #4fc194; -webkit-text-stroke: #4fc194}
-    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #ffffff; -webkit-text-stroke: #ffffff; background-color: #1e8f62; min-height: 16.0px}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #ffffff; -webkit-text-stroke: #ffffff}
-    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf; background-color: #ea8083; min-height: 16.0px}
-    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf; background-color: #082821}
-    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf; background-color: #e98e1f; min-height: 16.0px}
-    p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf; background-color: #87bb47; min-height: 16.0px}
-    p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf}
-    p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf; background-color: #125c44; min-height: 16.0px}
-    p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #4fc194; -webkit-text-stroke: #4fc194; background-color: #082821}
-    p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #90dcbf; -webkit-text-stroke: #90dcbf; background-color: #ffffff; background-color: rgba(255, 255, 255, 0.078)}
-    p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #4c4c48; -webkit-text-stroke: #4c4c48}
-    p.p17 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 13.0px 'Helvetica Neue'; color: #343432; -webkit-text-stroke: #343432}
-    p.p18 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 13.0px 'Helvetica Neue'; color: #ffffff; -webkit-text-stroke: #ffffff; background-color: #125c44}
-    p.p19 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; color: #141413; -webkit-text-stroke: #141413}
-    p.p20 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #343432; -webkit-text-stroke: #343432}
-    p.p21 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Helvetica Neue'; color: #141413; -webkit-text-stroke: #141413; background-color: #f6f5f1; min-height: 17.0px}
-    p.p22 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 14.0px 'Helvetica Neue'; color: #21211f; -webkit-text-stroke: #21211f}
-    p.p23 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Helvetica Neue'; color: #4c4c48; -webkit-text-stroke: #4c4c48}
-    span.s1 {font-kerning: none}
-    span.s2 {font-kerning: none; background-color: #082821}
-    span.s3 {font-kerning: none; background-color: rgba(255, 255, 255, 0.078)}
-    span.s4 {font-kerning: none; background-color: #ffffff}
-    span.s5 {font-kerning: none; background-color: #f6f5f1}
-    span.s6 {text-decoration: underline ; font-kerning: none; color: #125c44; background-color: #f6f5f1; -webkit-text-stroke: 0px #125c44}
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Canary — Academic Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap');
+</style>
+<style>
+:root {
+  --teal-900: #04342C;
+  --teal-800: #085041;
+  --teal-700: #0F6E56;
+  --teal-500: #1D9E75;
+  --teal-200: #5DCAA5;
+  --teal-100: #9FE1CB;
+  --teal-50:  #E1F5EE;
+  --gray-900: #1a1a18;
+  --gray-800: #2C2C2A;
+  --gray-700: #444441;
+  --gray-500: #5F5E5A;
+  --gray-300: #B4B2A9;
+  --gray-100: #D3D1C7;
+  --gray-50:  #F1EFE8;
+  --red-bg: #FCEBEB; --red-text: #791F1F; --red-border: #F09595;
+  --amber-bg: #FAEEDA; --amber-text: #633806; --amber-border: #EF9F27;
+  --green-bg: #EAF3DE; --green-text: #27500A; --green-border: #97C459;
+  --white: #ffffff;
+  --surface: #f8f7f4;
+  --border: rgba(0,0,0,0.1);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--surface);
+  color: var(--gray-900);
+  min-height: 100vh;
+  font-size: 14px;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  min-height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.sidebar {
+  background: var(--teal-900);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  width: 240px;
+  min-width: 240px;
+  max-width: 240px;
+  overflow: hidden;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  flex-shrink: 0;
+}
+
+.sidebar-header {
+  padding: 28px 24px 24px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.logo-row { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
+
+.logo-icon {
+  width: 32px; height: 32px;
+  background: var(--teal-700);
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+
+.logo-icon svg { width: 18px; height: 18px; }
+
+.logo-name {
+  font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+  font-size: 20px;
+  color: white;
+  letter-spacing: -0.3px;
+}
+
+.logo-tagline {
+  font-size: 11px;
+  color: var(--teal-100);
+  padding-left: 42px;
+}
+
+.nav { padding: 16px 0; flex: 1; overflow-y: auto; }
+
+.nav-section-label {
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--teal-200);
+  padding: 8px 24px 4px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 24px;
+  font-size: 13px;
+  color: var(--teal-100);
+  cursor: pointer;
+  transition: background 0.15s;
+  border-left: 2px solid transparent;
+}
+
+.nav-item:hover { background: rgba(255,255,255,0.05); }
+.nav-item.active {
+  background: rgba(255,255,255,0.08);
+  color: white;
+  border-left-color: var(--teal-200);
+  font-weight: 500;
+}
+
+.nav-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background: var(--teal-700);
+}
+.nav-dot.red { background: #F09595; }
+.nav-dot.amber { background: #EF9F27; }
+.nav-dot.green { background: #97C459; }
+.nav-dot.new { background: var(--teal-500); }
+
+.sidebar-footer {
+  padding: 16px 24px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  font-size: 11px;
+  color: var(--teal-200);
+}
+
+.standards-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.pill {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 20px;
+  padding: 3px 8px;
+  font-size: 10px;
+  color: var(--teal-100);
+}
+
+.main { display: flex; flex-direction: column; min-height: 100vh; overflow: auto; min-width: 0; }
+
+.topbar {
+  background: white;
+  border-bottom: 1px solid var(--border);
+  padding: 16px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.topbar-left h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--gray-900);
+  letter-spacing: -0.2px;
+}
+
+.topbar-left p {
+  font-size: 12px;
+  color: var(--gray-500);
+  margin-top: 2px;
+}
+
+.topbar-right { display: flex; align-items: center; gap: 10px; }
+
+.btn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-family: 'DM Sans', sans-serif;
+  cursor: pointer;
+  transition: all 0.15s;
+  font-weight: 500;
+}
+
+.btn-ghost {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--gray-700);
+}
+.btn-ghost:hover { background: var(--gray-50); }
+
+.btn-primary {
+  background: var(--teal-700);
+  border: 1px solid var(--teal-700);
+  color: white;
+}
+.btn-primary:hover { background: var(--teal-800); }
+.btn-primary:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.content { padding: 32px; flex: 1; }
+
+.panel {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.panel-header {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.panel-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--gray-900);
+}
+
+.panel-meta { font-size: 12px; color: var(--gray-500); }
+
+.panel-body { padding: 20px; }
+
+.inst-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 20px;
+}
+
+.inst-field label { font-size: 12px; font-weight: 500; color: var(--gray-700); }
+
+.inst-field input {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: 'DM Sans', sans-serif;
+  color: var(--gray-900);
+  background: var(--surface);
+  transition: border-color 0.15s;
+  outline: none;
+  width: 100%;
+  max-width: 480px;
+}
+
+.inst-field input:focus { border-color: var(--teal-500); background: white; }
+
+.drop-zone {
+  border: 1.5px dashed var(--gray-300);
+  border-radius: 10px;
+  padding: 36px 24px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+  background: var(--surface);
+}
+
+.drop-zone:hover, .drop-zone.dragging {
+  border-color: var(--teal-500);
+  background: var(--teal-50);
+}
+
+.drop-icon {
+  width: 40px; height: 40px;
+  margin: 0 auto 12px;
+  opacity: 0.35;
+}
+
+.drop-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-800);
+  margin-bottom: 4px;
+}
+
+.drop-sub { font-size: 12px; color: var(--gray-500); line-height: 1.5; }
+
+.drop-link { color: var(--teal-700); text-decoration: underline; cursor: pointer; }
+
+.file-list { margin-top: 16px; display: flex; flex-direction: column; gap: 6px; }
+
+.file-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.file-icon {
+  width: 32px; height: 32px;
+  border-radius: 6px;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.file-icon.pdf { background: #FCEBEB; color: #A32D2D; }
+.file-icon.xlsx { background: #EAF3DE; color: #27500A; }
+.file-icon.docx { background: #E6F1FB; color: #0C447C; }
+.file-icon.csv { background: var(--teal-50); color: var(--teal-800); }
+
+.file-name { font-size: 13px; color: var(--gray-800); flex: 1; }
+.file-size { font-size: 11px; color: var(--gray-500); }
+.file-remove {
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--gray-500);
+  font-size: 16px;
+  display: flex; align-items: center; justify-content: center;
+  transition: background 0.15s;
+}
+.file-remove:hover { background: var(--gray-100); }
+
+.run-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+}
+
+.run-hint { font-size: 12px; color: var(--gray-500); }
+
+.loading-overlay {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.loading-overlay.visible { display: flex; }
+
+.spinner {
+  width: 36px; height: 36px;
+  border: 2px solid var(--teal-100);
+  border-top-color: var(--teal-700);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-bottom: 16px;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.loading-title {
+  font-family: 'DM Serif Display', serif;
+  font-size: 18px;
+  color: var(--gray-900);
+  margin-bottom: 6px;
+}
+
+.loading-step { font-size: 13px; color: var(--gray-500); }
+
+.results-header {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.metric-card {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 20px;
+}
+
+.metric-label { font-size: 11px; color: var(--gray-500); margin-bottom: 6px; font-weight: 500; letter-spacing: 0.03em; text-transform: uppercase; }
+.metric-val { font-family: 'DM Serif Display', serif; font-size: 36px; font-weight: 400; }
+.metric-val.red { color: #A32D2D; }
+.metric-val.amber { color: #854F0B; }
+.metric-val.green { color: #3B6D11; }
+
+.flags-list { display: flex; flex-direction: column; gap: 8px; }
+
+.flag-card {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+
+.flag-card:hover { border-color: var(--gray-300); }
+.flag-card.open { border-color: var(--gray-800); }
+
+.flag-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  padding: 16px 20px;
+}
+
+.flag-indicator {
+  width: 4px;
+  align-self: stretch;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.flag-indicator.red { background: #E24B4A; }
+.flag-indicator.amber { background: #EF9F27; }
+.flag-indicator.green { background: #639922; }
+
+.flag-main { flex: 1; }
+
+.flag-cond {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--gray-500);
+  margin-bottom: 4px;
+  letter-spacing: 0.02em;
+}
+
+.flag-finding {
+  font-size: 14px;
+  color: var(--gray-900);
+  line-height: 1.5;
+}
+
+.risk-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+
+.risk-badge.red { background: var(--red-bg); color: var(--red-text); }
+.risk-badge.amber { background: var(--amber-bg); color: var(--amber-text); }
+.risk-badge.green { background: var(--green-bg); color: var(--green-text); }
+
+.flag-body {
+  display: none;
+  padding: 0 20px 16px 38px;
+  border-top: 1px solid var(--border);
+  margin-top: 0;
+}
+
+.flag-card.open .flag-body { display: block; padding-top: 16px; }
+
+.flag-row {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.flag-row-label { color: var(--gray-500); font-weight: 500; padding-top: 1px; }
+.flag-row-val { color: var(--gray-800); line-height: 1.5; }
+
+.citation {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 11px;
+  color: var(--gray-500);
+  font-style: italic;
+  margin-top: 8px;
+}
+
+.error-box {
+  background: var(--red-bg);
+  border: 1px solid var(--red-border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  font-size: 13px;
+  color: var(--red-text);
+  display: none;
+}
+
+.hidden { display: none !important; }
+
+input[type="file"] { display: none; }
+
+.export-btn {
+  font-size: 12px;
+  color: var(--teal-700);
+  background: none;
+  border: 1px solid var(--teal-200);
+  border-radius: 6px;
+  padding: 5px 12px;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  transition: background 0.15s;
+}
+.export-btn:hover { background: var(--teal-50); }
+</style>
 </head>
 <body>
-<p class="p1"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"></span><br></p>
-<p class="p2"><span class="s2">Canary</span></p>
-<p class="p3"><span class="s2">Academic intelligence platform</span></p>
-<p class="p4"><span class="s2">ASSESSMENTS</span></p>
-<p class="p5"><span class="s1"></span><br></p>
-<p class="p6"><span class="s3">New assessment</span></p>
-<p class="p4"><span class="s2">RECENT</span></p>
-<p class="p7"><span class="s1"></span><br></p>
-<p class="p8"><span class="s1">Hult London — Apr 2025</span></p>
-<p class="p9"><span class="s1"></span><br></p>
-<p class="p8"><span class="s1">BPP University — Mar 2025</span></p>
-<p class="p10"><span class="s1"></span><br></p>
-<p class="p11"><span class="s2">LSE — Feb 2025</span></p>
-<p class="p4"><span class="s2">STANDARDS</span></p>
-<p class="p12"><span class="s1"></span><br></p>
-<p class="p8"><span class="s1">OfS conditions</span></p>
-<p class="p12"><span class="s1"></span><br></p>
-<p class="p11"><span class="s2">QAA quality code</span></p>
-<p class="p13"><span class="s1">Active standards</span></p>
-<p class="p14"><span class="s1">OfS 2024</span></p>
-<p class="p14"><span class="s1">QAA</span></p>
-<h1 style="margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #141413; -webkit-text-stroke: #141413"><span class="s4">New assessment</span></h1>
-<p class="p16"><span class="s4">Upload institutional documents to run a citation-first risk assessment</span></p>
-<p class="p17"><span class="s4">Clear</span></p>
-<p class="p18"><span class="s1">Run assessment</span></p>
-<p class="p19"><span class="s4">Institution</span></p>
-<p class="p20"><span class="s4">Institution name</span></p>
-<p class="p21"><span class="s1"></span><br></p>
-<p class="p22"><span class="s5">Drop documents here or </span><span class="s6">browse</span></p>
-<p class="p23"><span class="s5">APR · NSS results · External examiner reports</span></p>
-<p class="p23"><span class="s5">Board minutes · Financial statements · Access &amp; participation plan</span></p>
-<p class="p16"><span class="s5">Add institution name and at least one document to continue</span></p>
-<p class="p18"><span class="s1">Run Canary assessment</span></p>
+
+<div class="app">
+
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <div class="logo-row">
+        <div class="logo-icon">
+          <svg viewBox="0 0 18 18" fill="none">
+            <path d="M9 2L11.5 7H16.5L12.5 10.5L14 15.5L9 12.5L4 15.5L5.5 10.5L1.5 7H6.5L9 2Z" fill="#9FE1CB"/>
+          </svg>
+        </div>
+        <span class="logo-name">Canary</span>
+      </div>
+      <div class="logo-tagline">Academic intelligence platform</div>
+    </div>
+
+    <nav class="nav">
+      <div class="nav-section-label">Assessments</div>
+      <div class="nav-item active">
+        <div class="nav-dot new"></div>
+        New assessment
+      </div>
+      <div class="nav-section-label" style="margin-top:8px">Recent</div>
+      <div class="nav-item">
+        <div class="nav-dot red"></div>
+        Hult London — Apr 2025
+      </div>
+      <div class="nav-item">
+        <div class="nav-dot amber"></div>
+        BPP University — Mar 2025
+      </div>
+      <div class="nav-item">
+        <div class="nav-dot green"></div>
+        LSE — Feb 2025
+      </div>
+
+      <div class="nav-section-label" style="margin-top:8px">Standards</div>
+      <div class="nav-item">
+        <div class="nav-dot"></div>
+        OfS conditions
+      </div>
+      <div class="nav-item">
+        <div class="nav-dot"></div>
+        QAA quality code
+      </div>
+    </nav>
+
+    <div class="sidebar-footer">
+      Active standards
+      <div class="standards-pills">
+        <span class="pill">OfS 2024</span>
+        <span class="pill">QAA</span>
+      </div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="topbar">
+      <div class="topbar-left">
+        <h1>New assessment</h1>
+        <p>Upload institutional documents to run a citation-first risk assessment</p>
+      </div>
+      <div class="topbar-right">
+        <button class="btn btn-ghost" onclick="resetApp()">Clear</button>
+        <button class="btn btn-primary" id="run-btn" onclick="runAssessment()" disabled>
+          Run assessment
+        </button>
+      </div>
+    </div>
+
+    <div class="content">
+
+      <div id="upload-view">
+        <div class="panel">
+          <div class="panel-header">
+            <span class="panel-title">Institution</span>
+          </div>
+          <div class="panel-body">
+            <div class="inst-field">
+              <label>Institution name</label>
+              <input type="text" id="inst-name" placeholder="e.g. Hult International Business School"
+                oninput="checkReady()">
+            </div>
+
+            <div class="drop-zone" id="drop-zone"
+              onclick="document.getElementById('file-input').click()"
+              ondragover="handleDragOver(event)"
+              ondragleave="handleDragLeave(event)"
+              ondrop="handleDrop(event)">
+              <svg class="drop-icon" viewBox="0 0 40 40" fill="none">
+                <rect x="4" y="10" width="32" height="26" rx="4" stroke="currentColor" stroke-width="1.5"/>
+                <path d="M20 30V18M20 18L15 23M20 18L25 23" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M13 10V8a3 3 0 013-3h8a3 3 0 013 3v2" stroke="currentColor" stroke-width="1.5"/>
+              </svg>
+              <div class="drop-title">Drop documents here or <span class="drop-link">browse</span></div>
+              <div class="drop-sub">APR · NSS results · External examiner reports<br>Board minutes · Financial statements · Access &amp; participation plan</div>
+              <input type="file" id="file-input" multiple accept=".pdf,.xlsx,.csv,.docx,.odt,.txt"
+                onchange="handleFiles(this.files)">
+            </div>
+
+            <div class="file-list" id="file-list"></div>
+          </div>
+          <div class="run-bar">
+            <span class="run-hint" id="run-hint">Add institution name and at least one document to continue</span>
+            <button class="btn btn-primary" id="run-btn-2" onclick="runAssessment()" disabled>
+              Run Canary assessment
+            </button>
+          </div>
+        </div>
+
+        <div class="error-box" id="error-box"></div>
+      </div>
+
+      <div class="loading-overlay" id="loading-view">
+        <div class="spinner"></div>
+        <div class="loading-title">Canary is assessing</div>
+        <div class="loading-step" id="loading-step">Extracting text from documents…</div>
+      </div>
+
+      <div id="results-view" class="hidden">
+        <div class="results-header" id="metrics-row"></div>
+        <div class="panel">
+          <div class="panel-header">
+            <span class="panel-title" id="results-title">Risk flags</span>
+            <button class="export-btn" onclick="exportJSON()">Export JSON</button>
+          </div>
+          <div class="panel-body">
+            <div class="flags-list" id="flags-list"></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mammoth@1.6.0/mammoth.browser.min.js"></script>
+<script>
+const API = 'https://canary1-production.up.railway.app';
+let uploadedFiles = [];
+let lastResult = null;
+
+if (typeof pdfjsLib !== 'undefined') {
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+}
+
+function handleDragOver(e) {
+  e.preventDefault();
+  document.getElementById('drop-zone').classList.add('dragging');
+}
+
+function handleDragLeave(e) {
+  document.getElementById('drop-zone').classList.remove('dragging');
+}
+
+function handleDrop(e) {
+  e.preventDefault();
+  document.getElementById('drop-zone').classList.remove('dragging');
+  handleFiles(e.dataTransfer.files);
+}
+
+function handleFiles(files) {
+  Array.from(files).forEach(file => {
+    if (!uploadedFiles.find(f => f.name === file.name)) {
+      uploadedFiles.push(file);
+    }
+  });
+  renderFileList();
+  checkReady();
+}
+
+function renderFileList() {
+  const list = document.getElementById('file-list');
+  list.innerHTML = uploadedFiles.map((f, i) => {
+    const ext = f.name.split('.').pop().toLowerCase();
+    const size = f.size < 1024*1024
+      ? Math.round(f.size/1024) + ' KB'
+      : (f.size/1024/1024).toFixed(1) + ' MB';
+    return `
+      <div class="file-item">
+        <div class="file-icon ${ext}">${ext.toUpperCase()}</div>
+        <span class="file-name">${f.name}</span>
+        <span class="file-size">${size}</span>
+        <button class="file-remove" onclick="removeFile(${i})" title="Remove">×</button>
+      </div>`;
+  }).join('');
+}
+
+function removeFile(i) {
+  uploadedFiles.splice(i, 1);
+  renderFileList();
+  checkReady();
+}
+
+function checkReady() {
+  const name = document.getElementById('inst-name').value.trim();
+  const ready = name.length > 0 && uploadedFiles.length > 0;
+  document.getElementById('run-btn').disabled = !ready;
+  document.getElementById('run-btn-2').disabled = !ready;
+  document.getElementById('run-hint').textContent = ready
+    ? `${uploadedFiles.length} document${uploadedFiles.length > 1 ? 's' : ''} ready · assessing against OfS Conditions of Registration 2024`
+    : 'Add institution name and at least one document to continue';
+}
+
+async function extractText(file) {
+  const ext = file.name.split('.').pop().toLowerCase();
+  if (ext === 'pdf' && typeof pdfjsLib !== 'undefined') {
+    const buf = await file.arrayBuffer();
+    const pdf = await pdfjsLib.getDocument({ data: buf }).promise;
+    let text = '';
+    for (let i = 1; i <= Math.min(pdf.numPages, 30); i++) {
+      const page = await pdf.getPage(i);
+      const content = await page.getTextContent();
+      text += content.items.map(s => s.str).join(' ') + '\n';
+    }
+    return text.slice(0, 6000);
+  }
+  if ((ext === 'docx' || ext === 'odt') && typeof mammoth !== 'undefined') {
+    const buf = await file.arrayBuffer();
+    const result = await mammoth.extractRawText({ arrayBuffer: buf });
+    return result.value.slice(0, 6000);
+  }
+  return new Promise((res, rej) => {
+    const reader = new FileReader();
+    reader.onload = e => res(e.target.result.slice(0, 6000));
+    reader.onerror = rej;
+    reader.readAsText(file);
+  });
+}
+
+function setLoadingStep(text) {
+  document.getElementById('loading-step').textContent = text;
+}
+
+async function runAssessment() {
+  const name = document.getElementById('inst-name').value.trim();
+  if (!name || uploadedFiles.length === 0) return;
+
+  document.getElementById('error-box').style.display = 'none';
+  document.getElementById('upload-view').style.display = 'none';
+  document.getElementById('results-view').classList.add('hidden');
+  document.getElementById('loading-view').classList.add('visible');
+
+  try {
+    setLoadingStep('Extracting text from documents…');
+    const evidence = {};
+    for (const file of uploadedFiles) {
+      setLoadingStep(`Reading ${file.name}…`);
+      try {
+        evidence[file.name] = await extractText(file);
+      } catch(e) {
+        evidence[file.name] = `[Could not extract text from ${file.name}]`;
+      }
+    }
+
+    setLoadingStep('Sending to Canary assessment engine…');
+    const response = await fetch(`${API}/assess`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ institution_name: name, evidence })
+    });
+
+    if (!response.ok) {
+      const err = await response.json();
+      throw new Error(err.detail || `Server error ${response.status}`);
+    }
+
+    setLoadingStep('Building risk report…');
+    const result = await response.json();
+    lastResult = result;
+
+    document.getElementById('loading-view').classList.remove('visible');
+    renderResults(result);
+
+  } catch(e) {
+    document.getElementById('loading-view').classList.remove('visible');
+    document.getElementById('upload-view').style.display = 'block';
+    const box = document.getElementById('error-box');
+    box.style.display = 'block';
+    if (e.message.includes('fetch') || e.message.includes('Failed')) {
+      box.textContent = 'Cannot reach Canary API at localhost:8000. Make sure canary_api.py is running: python3 canary_api.py';
+    } else {
+      box.textContent = 'Error: ' + e.message;
+    }
+  }
+}
+
+function renderResults(result) {
+  const flags = result.flags || [];
+  const counts = result.flag_count || { red: 0, amber: 0, green: 0 };
+
+  document.getElementById('results-title').textContent =
+    `${result.institution} · ${flags.length} flags · OfS ${result.standards_version || '2024'}`;
+
+  document.getElementById('metrics-row').innerHTML = `
+    <div class="metric-card">
+      <div class="metric-label">Breach risk</div>
+      <div class="metric-val red">${counts.red || 0}</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">Watch</div>
+      <div class="metric-val amber">${counts.amber || 0}</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">Compliant</div>
+      <div class="metric-val green">${counts.green || 0}</div>
+    </div>`;
+
+  const order = { red: 0, amber: 1, green: 2 };
+  const sorted = [...flags].sort((a, b) =>
+    (order[a.risk_level] ?? 1) - (order[b.risk_level] ?? 1));
+
+  document.getElementById('flags-list').innerHTML = sorted.map((f, i) => {
+    const level = (f.risk_level || 'amber').toLowerCase();
+    const label = level.charAt(0).toUpperCase() + level.slice(1);
+    return `
+      <div class="flag-card" onclick="this.classList.toggle('open')">
+        <div class="flag-top">
+          <div class="flag-indicator ${level}"></div>
+          <div class="flag-main">
+            <div class="flag-cond">${f.condition_id || '—'} · ${f.condition_title || ''}</div>
+            <div class="flag-finding">${f.finding || f.recommendation || '—'}</div>
+          </div>
+          <span class="risk-badge ${level}">${label}</span>
+        </div>
+        <div class="flag-body">
+          ${f.evidence_cited ? `
+          <div class="flag-row">
+            <span class="flag-row-label">Evidence</span>
+            <span class="flag-row-val">${f.evidence_cited}</span>
+          </div>` : ''}
+          ${f.recommendation ? `
+          <div class="flag-row">
+            <span class="flag-row-label">Action</span>
+            <span class="flag-row-val">${f.recommendation}</span>
+          </div>` : ''}
+          <div class="citation">Standard: OfS Conditions of Registration ${result.standards_version || '2024'} · ${f.condition_id}</div>
+        </div>
+      </div>`;
+  }).join('');
+
+  document.getElementById('results-view').classList.remove('hidden');
+}
+
+function exportJSON() {
+  if (!lastResult) return;
+  const blob = new Blob([JSON.stringify(lastResult, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `canary-${lastResult.institution.replace(/\s+/g,'-').toLowerCase()}.json`;
+  a.click();
+}
+
+function resetApp() {
+  uploadedFiles = [];
+  lastResult = null;
+  document.getElementById('inst-name').value = '';
+  document.getElementById('file-list').innerHTML = '';
+  document.getElementById('upload-view').style.display = 'block';
+  document.getElementById('results-view').classList.add('hidden');
+  document.getElementById('loading-view').classList.remove('visible');
+  document.getElementById('error-box').style.display = 'none';
+  checkReady();
+}
+</script>
 </body>
 </html>
