@@ -90,7 +90,7 @@ def load_standards() -> dict:
 
 SYSTEM_PROMPT = """You are Canary, a regulatory risk assessment agent for UK higher education.
 
-You assess institutions against OfS (Office for Students) Conditions of Registration.
+You assess institutions against UK regulatory standards including OfS Conditions of Registration and QAA Quality Code principles.
 
 RULES:
 - Every flag MUST cite a specific condition ID (e.g. B1, B3) and a specific criterion
@@ -133,7 +133,7 @@ def build_prompt(standards: dict, institution: InstitutionData) -> str:
         })
 
     return f"""
-REGULATORY STANDARDS (OfS Conditions of Registration):
+REGULATORY STANDARDS (OfS Conditions of Registration + QAA Quality Code 2024):
 {json.dumps(conditions_summary, indent=2)}
 
 INSTITUTION: {institution.institution_name}
