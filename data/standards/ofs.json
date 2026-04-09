@@ -1,0 +1,1223 @@
+{
+  "body": "OfS",
+  "document": "Conditions of Registration",
+  "version_date": "",
+  "market": "UK",
+  "level": "HE",
+  "source_pdf": "ofs-conditions.pdf",
+  "condition_count": 6,
+  "conditions": [
+    {
+      "condition_id": "B1",
+      "title": "Academic experience",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "B1.2",
+          "text": "Without prejudice to the principles and requirements provided for by any other condition of registration and the scope of B1.1, the provider must ensure that the students registered on each higher education course receive a high quality academic experience.",
+          "threshold": "Students receive a high quality academic experience on each course",
+          "risk_indicators": [
+            "Student complaints about course quality or academic delivery",
+            "External examiner reports highlighting concerns about academic standards",
+            "Poor student satisfaction scores in academic experience metrics",
+            "High dropout rates or academic appeals"
+          ]
+        },
+        {
+          "ref": "B1.3",
+          "text": "For the purposes of this condition, a high quality academic experience includes but is not limited to ensuring all of the following: a. each higher education course is up-to-date; b. each higher education course provides educational challenge; c. each higher education course is coherent; d. each higher education course is effectively delivered; and e. each higher education course, as appropriate to the subject matter of the course, requires students to develop relevant skills.",
+          "threshold": "Courses are up-to-date, challenging, coherent, effectively delivered, and develop relevant skills",
+          "risk_indicators": [
+            "Curriculum not updated for several years or lacking current industry relevance",
+            "Student feedback indicating courses are too easy or lack intellectual challenge",
+            "Disjointed course structure with poor module sequencing or unclear learning progression",
+            "Skills assessments showing graduates lack competencies expected by employers"
+          ]
+        },
+        {
+          "ref": "B1.4",
+          "text": "Insofar as relevant skills includes technical proficiency in the English language, the provider is not required to comply with B1.3.e to the extent that it is able to demonstrate to the OfS, on the balance of probabilities, that its English language proficiency requirements, or failure to have English language proficiency requirements, for one or more students, are strictly necessary as a matter of law because compliance with B1.3.e in respect of that student, or those students: i. would amount to a form of discrimination for the purposes of the Equality Act 2010; and ii. cannot be objectively justified for the purposes of relevant provisions of that Act; and iii. does not fall within an exception or exclusion provided for under or by virtue of that Act, including but not limited to provisions of the Act that relate to competence standards.",
+          "threshold": "Demonstrate legal necessity for any exemption from English language proficiency requirements under Equality Act 2010",
+          "risk_indicators": [
+            "Blanket exemptions from English language requirements without proper legal justification",
+            "Students struggling academically due to language barriers without appropriate support",
+            "Failure to document legal basis for exemptions from English proficiency requirements",
+            "Discrimination complaints related to language requirements or exemptions"
+          ]
+        },
+        {
+          "ref": "B1.1",
+          "text": "\"appropriately informed\" will be assessed by reference to: i. the time period within which any of the developments described in the definition of up-to-date have been in existence; ii. the importance of any of the developments described in the definition of up-to-date to the subject matter of the higher education course; and iii. the time period by which it is planned that such developments described in the definition of up-to-date will be brought into the higher education course content.",
+          "threshold": "Course content must be informed by developments according to their recency, importance to the subject, and planned integration timeline",
+          "risk_indicators": [
+            "Course content references outdated practices or research significantly behind current developments",
+            "No clear timeline or process for integrating recent developments into curriculum",
+            "Critical industry or professional developments not reflected in course materials",
+            "Extended delays between relevant developments and their incorporation into teaching"
+          ]
+        },
+        {
+          "ref": "B1.2",
+          "text": "\"coherent\" means a higher education course which ensures: i. there is an appropriate balance between breadth and depth of content; ii. subjects and skills are taught in an appropriate order and, where necessary, build on each other throughout the course; and iii. key concepts are introduced at the appropriate point in the course content.",
+          "threshold": "Course structure must demonstrate logical progression with balanced breadth/depth and appropriate sequencing of concepts",
+          "risk_indicators": [
+            "Students struggling with concepts due to missing prerequisite knowledge",
+            "Curriculum mapping reveals gaps or inappropriate sequencing of topics",
+            "Unbalanced course content that is either too superficial across all areas or excessively narrow",
+            "Key foundational concepts introduced too late or advanced concepts presented without proper preparation"
+          ]
+        },
+        {
+          "ref": "B1.3",
+          "text": "\"educational challenge\" means a challenge that is no less than the minimum level of rigour and difficulty reasonably expected of the higher education course, in the context of the subject matter and level of the course.",
+          "threshold": "Course must provide appropriate level of academic rigour and difficulty for its subject and level",
+          "risk_indicators": [
+            "Assessment tasks consistently completed with minimal effort or preparation",
+            "Grade inflation patterns suggesting insufficient academic challenge",
+            "Employer or professional body feedback indicating graduates lack expected competency levels",
+            "Comparative analysis showing significantly lower difficulty than equivalent courses elsewhere"
+          ]
+        },
+        {
+          "ref": "B1.4",
+          "text": "\"effectively delivered\", in relation to a higher education course, means the manner in which it is taught, supervised and assessed (both in person and remotely) including, but not limited to, ensuring: i. an appropriate balance between delivery methods, for example lectures, seminars, group work or practical study, as relevant to the content of the course; and ii. an appropriate balance between directed and independent study or research, as relevant to the level of the course.",
+          "threshold": "Teaching delivery must use appropriate mix of methods and balance directed/independent learning for the course level",
+          "risk_indicators": [
+            "Over-reliance on single delivery method inappropriate for course content or level",
+            "Student feedback indicating poor balance between contact time and independent study",
+            "Learning outcomes not achieved due to inappropriate delivery methods",
+            "Supervision arrangements inadequate for supporting student progress and achievement"
+          ]
+        },
+        {
+          "ref": "B1.1.1",
+          "text": "The reference to higher education provided \"in any manner or form\" includes any higher education course (whether or not that course is recognised for OfS funding purposes, or any other purpose), at any level, and with any volume of learning. This means, for example, that postgraduate research courses, the study of modules or courses leading to microcredentials, and apprenticeships are included within the scope of this condition. It also includes courses provided face-to-face, by distance learning, or a combination of delivery approaches.",
+          "threshold": "All forms of higher education provision must be covered regardless of format, level, or delivery method",
+          "risk_indicators": [
+            "Institution excludes certain course types from quality assurance processes",
+            "Different standards applied to online versus face-to-face delivery",
+            "Microcredentials or apprenticeships treated as outside regulatory scope",
+            "Postgraduate research provision managed separately from institutional oversight"
+          ]
+        },
+        {
+          "ref": "B1.1.2",
+          "text": "This condition applies to any higher education provided \"by, or on behalf of, a provider\". This includes higher education provided to all of the students who are registered with a registered provider, taught by a registered provider or studying for an award of a registered provider (or where these services are provided on a registered provider's behalf). This includes UK-based and non-UK-based students, and courses delivered through partnership arrangements both within the UK and internationally.",
+          "threshold": "Responsibility extends to all students and courses connected to the provider, including international partnerships",
+          "risk_indicators": [
+            "Overseas partnership arrangements lack adequate oversight",
+            "Different quality standards applied to international versus domestic students",
+            "Partnership agreements unclear about regulatory responsibilities",
+            "Students studying remotely from abroad receive diminished support"
+          ]
+        },
+        {
+          "ref": "B1.1.3",
+          "text": "The reference to \"including, but not limited to, circumstances where a provider is responsible only for granting awards for students registered with another provider\" means that a provider is required to comply with the provisions of this condition where it is the awarding body for a course, whether or not that provider has any other role in the design or delivery of that course.",
+          "threshold": "Awarding bodies must ensure compliance even when only responsible for granting awards",
+          "risk_indicators": [
+            "Limited oversight of courses where provider only awards but doesn't deliver",
+            "Inadequate quality assurance of partner-delivered programmes",
+            "Unclear accountability arrangements with teaching partners",
+            "Awards granted without sufficient evidence of learning outcomes achievement"
+          ]
+        },
+        {
+          "ref": "B1.1.4",
+          "text": "Where a provider is not the awarding body for a course, this condition applies to a course the provider itself delivers, or which is delivered on its behalf, regardless of the identity of the awarding body, whether or not that awarding body is registered with the OfS, or the nature of any partnership agreement. For the avoidance of doubt, this means for example, that a provider delivering, or allowing another provider to deliver, courses leading to a qualification awarded by Pearson is responsible for compliance with this condition in relation to those courses. Similarly, a provider delivering, or allowing another provider to deliver, courses leading to a qualification awarded by another higher education provider, whether that awarding provider is located in England or elsewhere, is responsible for compliance with this condition in relation to those courses.",
+          "threshold": "Teaching providers must ensure compliance regardless of who awards the qualification",
+          "risk_indicators": [
+            "Courses delivered under external awarding arrangements lack internal quality oversight",
+            "Different compliance standards applied based on awarding body identity",
+            "Teaching delivery not aligned with institutional quality frameworks",
+            "Responsibility boundaries unclear in multi-provider arrangements"
+          ]
+        },
+        {
+          "ref": "B1.1.5",
+          "text": "In practice, these provisions may result in more than one registered provider being responsible for compliance with this condition in relation to the same course.",
+          "threshold": "Multiple providers may share responsibility for the same course compliance",
+          "risk_indicators": [
+            "Unclear division of responsibilities between multiple providers",
+            "Gaps in oversight due to shared responsibility assumptions",
+            "Conflicting quality assurance requirements from different responsible providers",
+            "Students receive inconsistent experience due to multiple provider involvement"
+          ]
+        },
+        {
+          "ref": "B1.3.1",
+          "text": "The subject matter of this condition includes matters that relate to the curriculum and pedagogy for higher education courses. The OfS would expect to draw on expert academic judgement, including from subject experts, before reaching a view that the condition was not satisfied in relation to such matters.",
+          "threshold": "Curriculum and pedagogy matters must meet standards as assessed through expert academic judgement",
+          "risk_indicators": [
+            "Curriculum content or structure that significantly deviates from sector norms without justification",
+            "Pedagogical approaches that are demonstrably ineffective or inappropriate for the subject level",
+            "External examiner reports consistently raising concerns about curriculum design or teaching methods",
+            "Student feedback indicating systematic issues with course content or delivery methods"
+          ]
+        },
+        {
+          "ref": "B1.1",
+          "text": "The course content, including topics and reading lists, must be informed by research and scholarship and reflect professional developments, including the adoption of the latest professional or industry standards.",
+          "threshold": "Course content is current and representative of rigorous academic thinking",
+          "risk_indicators": [
+            "Course content or reading lists have not been updated for multiple years",
+            "Course materials do not reflect current professional or industry standards",
+            "Content does not incorporate recent research developments in the field",
+            "Professional, statutory or regulatory body requirements are not met"
+          ]
+        },
+        {
+          "ref": "B1.2",
+          "text": "The pedagogy of a course must be representative of current thinking and practices, including appropriate pedagogy for digital delivery where courses are delivered wholly or in part online.",
+          "threshold": "Teaching methods are current and appropriate to delivery mode",
+          "risk_indicators": [
+            "Online courses use inappropriate or outdated digital pedagogy",
+            "Teaching methods do not reflect current educational practices",
+            "Pedagogy has not evolved with technological or methodological advances",
+            "Delivery methods are misaligned with course content or student needs"
+          ]
+        },
+        {
+          "ref": "B1.3",
+          "text": "Courses must provide appropriate educational challenge, with sufficient rigour and difficulty appropriate to the level and stage of study.",
+          "threshold": "Educational challenge is appropriate to qualification level",
+          "risk_indicators": [
+            "Integrated masters final year lacks sufficient rigour compared to earlier stages",
+            "Foundation years do not adequately prepare students for subsequent study",
+            "Research questions provide limited scope for original ideas",
+            "Challenge level is inappropriate for the qualification being awarded"
+          ]
+        },
+        {
+          "ref": "B1.4",
+          "text": "Course content must be coherent, with appropriate breadth and depth, logical sequencing of learning, and module choices that enable coherent pathways.",
+          "threshold": "Course structure supports coherent learning progression",
+          "risk_indicators": [
+            "Course content is too narrow or too broad for the qualification",
+            "Students lack security in foundational topics before advanced study",
+            "Practical components are disconnected from related theory",
+            "Module choices do not result in coherent learning experiences"
+          ]
+        },
+        {
+          "ref": "B1.5",
+          "text": "Courses must be effectively delivered through appropriate range of learning activities, effective delivery methods, supportive research environments, and integrated assessment.",
+          "threshold": "Delivery methods effectively support student learning",
+          "risk_indicators": [
+            "Over-reliance on large-scale lectures without small group teaching",
+            "Insufficient opportunities for direct engagement with teaching staff",
+            "Inadequate supervision or research environment support",
+            "Assessment is poorly integrated or feedback is insufficient or untimely"
+          ]
+        },
+        {
+          "ref": "B1.6",
+          "text": "Courses must enable students to develop and demonstrate relevant intellectual and professional skills consistent with the subject and level of study.",
+          "threshold": "Students develop skills appropriate to their field and qualification level",
+          "risk_indicators": [
+            "Courses do not develop essential intellectual skills like critical evaluation",
+            "Professional courses lack required skills for relevant career paths",
+            "Skills development is not aligned with PSRB requirements where applicable",
+            "Skills teaching is poorly timed or inadequately integrated"
+          ]
+        },
+        {
+          "ref": "B1.4.1",
+          "text": "In order to successfully rely on the exception in B1.4, the nature of the evidence a provider would need to put forward would go beyond articulating potential legal concerns or matters to which it has had regard in its decision-making and would require compelling evidence and reasoning on matters of law.",
+          "threshold": "Compelling evidence and reasoning on matters of law must be provided",
+          "risk_indicators": [
+            "Provider citing B1.4 exception without providing legal evidence or reasoning",
+            "General statements about legal concerns without specific legal analysis",
+            "Failure to provide compelling evidence when claiming Equality Act conflicts",
+            "Vague references to legal considerations without substantive legal reasoning"
+          ]
+        },
+        {
+          "ref": "B1.4.2",
+          "text": "As the exception in B1.4 only applies 'to the extent' that a provider can demonstrate a conflict with the Equality Act 2010, it would not be sufficient for a provider to put forward evidence and reasoning about its requirements (or absence of requirements) in general terms; rather, a provider would need to address the particular requirements (or absence of requirements) which it is seeking to justify under the exception, and the particular courses to which these relate.",
+          "threshold": "Specific evidence required for particular requirements and courses, not general terms",
+          "risk_indicators": [
+            "Provider making broad claims about Equality Act conflicts without course-specific evidence",
+            "General policy statements without reference to specific requirements or courses",
+            "Failure to identify particular requirements being justified under the exception",
+            "Non-specific reasoning that doesn't address individual course contexts"
+          ]
+        },
+        {
+          "ref": "B1.4.3",
+          "text": "The OfS expects that potential conflicts between requirements relating to English language proficiency and the Equality Act 2010 will only arise in rare cases, and therefore that this exception is likely to be invoked only in limited circumstances, for example in relation to students with particular learning disabilities.",
+          "threshold": "Exception should only be invoked in rare, limited circumstances with specific justification",
+          "risk_indicators": [
+            "Frequent or routine invocation of B1.4 exception across multiple courses",
+            "Use of exception for general English language policy rather than specific disability accommodations",
+            "Broad application of exception beyond rare cases involving particular learning disabilities",
+            "Pattern of using exception as standard practice rather than exceptional circumstances"
+          ]
+        }
+      ],
+      "notes": "This condition applies to the quality of higher education provided in any manner or form by, or on behalf of, a provider (including circumstances where a provider is responsible only for granting awards for students registered with another provider). The condition includes specific provisions regarding English language proficiency requirements and exemptions under the Equality Act 2010."
+    },
+    {
+      "condition_id": "B2",
+      "title": "Resources, support and student engagement",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "B2.1",
+          "text": "This condition applies to the quality of higher education provided in any manner or form by, or on behalf of, a provider (including, but not limited to, circumstances where a provider is responsible only for granting awards for students registered with another provider).",
+          "threshold": "Universal application to all forms of higher education provision",
+          "risk_indicators": [
+            "Provider attempting to exclude certain types of provision from quality requirements",
+            "Inconsistent application of resources and support across different delivery modes",
+            "Quality standards varying between direct provision and partnership arrangements"
+          ]
+        },
+        {
+          "ref": "B2.2a",
+          "text": "each cohort of students registered on each higher education course receives resources and support which are sufficient for the purpose of ensuring: i. a high quality academic experience for those students; and ii. those students succeed in and beyond higher education",
+          "threshold": "Sufficient resources and support for high quality experience and student success across all cohorts",
+          "risk_indicators": [
+            "Student complaints about inadequate library, IT, or learning resources",
+            "Declining student satisfaction scores in resource-related areas",
+            "Significant disparities in resource allocation between different student cohorts",
+            "Poor graduate outcomes or employment rates indicating insufficient preparation"
+          ]
+        },
+        {
+          "ref": "B2.2b",
+          "text": "effective engagement with each cohort of students which is sufficient for the purpose of ensuring: i. a high quality academic experience for those students; and ii. those students succeed in and beyond higher education",
+          "threshold": "Effective student engagement sufficient for quality experience and success outcomes",
+          "risk_indicators": [
+            "Low student attendance or participation rates in learning activities",
+            "Minimal or ineffective student feedback mechanisms",
+            "Poor student-staff ratios affecting meaningful engagement opportunities",
+            "High dropout rates or academic failure rates indicating insufficient engagement"
+          ]
+        },
+        {
+          "ref": "B2.3",
+          "text": "For the purposes of this condition, \"all reasonable steps\" is to be interpreted in a manner which (without prejudice to other relevant considerations): a. focuses and places significant weight on: i. the particular academic needs of each cohort of students based on prior academic attainment and capability; and ii. the principle that the greater the academic needs of the cohort of students, the number and nature of the steps needed to be taken are likely to be more significant; b. places less weight, as compared to the factor described in B2.3a., on the provider's financial constraints; and c. disregards case law relating to the interpretation of contractual obligations.",
+          "threshold": "Reasonable steps prioritizing student academic needs over financial constraints",
+          "risk_indicators": [
+            "Provider using financial constraints as primary justification for inadequate support",
+            "Uniform support provision without consideration of varying student academic needs",
+            "Evidence of reduced support for cohorts with greater academic needs",
+            "Reliance on contractual minimums rather than student-centered provision"
+          ]
+        },
+        {
+          "ref": "B2.1",
+          "text": "academic misconduct means any action or attempted action that may result in a student obtaining an unfair academic advantage in relation to an assessment, including but not limited to plagiarism, unauthorised collaboration and the possession of unauthorised materials during an assessment.",
+          "threshold": "Clear definition and understanding of academic misconduct established",
+          "risk_indicators": [
+            "High rates of academic misconduct cases reported",
+            "Unclear or inconsistent academic integrity policies",
+            "Students report confusion about what constitutes academic misconduct",
+            "Weak detection systems for plagiarism and unauthorised collaboration"
+          ]
+        },
+        {
+          "ref": "B2.2",
+          "text": "appropriately qualified means staff have and maintain: i. expert knowledge of the subject they design and/or deliver; ii. teaching qualifications or training, and teaching experience, appropriate for the content and level of the relevant higher education course; and iii. the required knowledge and skills as to the effective delivery of their higher education course.",
+          "threshold": "All teaching staff meet qualification requirements and maintain expertise",
+          "risk_indicators": [
+            "Staff teaching outside their area of expertise",
+            "High proportion of staff without relevant teaching qualifications",
+            "Lack of professional development opportunities for staff",
+            "Student feedback indicating poor teaching quality"
+          ]
+        },
+        {
+          "ref": "B2.3",
+          "text": "sufficient in number will be assessed by reference to the principle that the larger the cohort size of students, the greater the number of staff and amount of staff time should be available to students, and means, in the context of the staff team: i. there is sufficient financial resource to recruit and retain sufficient staff; ii. the provider allocates appropriate financial resource to ensuring staff are equipped to teach courses; iii. higher education courses have an adequate number of staff, and amount of staff time; and iv. the impact on students of changes in staffing is minimal.",
+          "threshold": "Adequate staffing levels maintained proportionate to student cohort size",
+          "risk_indicators": [
+            "High student-to-staff ratios compared to sector benchmarks",
+            "Frequent staff turnover or recruitment difficulties",
+            "Students reporting limited access to teaching staff",
+            "Courses experiencing significant staffing disruptions"
+          ]
+        },
+        {
+          "ref": "B2.4",
+          "text": "resources includes but is not limited to: i. the staff team that designs and delivers a higher education course being collectively sufficient in number, appropriately qualified and deployed effectively to deliver in practice; and ii. physical and digital learning resources that are adequate and deployed effectively to meet the needs of the cohort of students.",
+          "threshold": "Adequate physical, digital and human resources deployed effectively",
+          "risk_indicators": [
+            "Student complaints about inadequate learning facilities or equipment",
+            "Outdated or insufficient digital learning platforms",
+            "Library and laboratory resources below sector standards",
+            "Poor utilisation of available resources"
+          ]
+        },
+        {
+          "ref": "B2.1.1",
+          "text": "The reference to higher education provided \"in any manner or form\" includes any higher education course (whether or not that course is recognised for OfS funding purposes, or any other purpose), at any level, and with any volume of learning. This means, for example, that postgraduate research courses, the study of modules or courses leading to microcredentials, and apprenticeships are included within the scope of this condition. It also includes courses provided face-to-face, by distance learning, or a combination of delivery approaches.",
+          "threshold": "All higher education provision regardless of format, level, or delivery method must be covered",
+          "risk_indicators": [
+            "Exclusion of certain course types from quality assurance processes",
+            "Different standards applied to distance learning vs face-to-face provision",
+            "Microcredentials or apprenticeships not subject to institutional oversight",
+            "Failure to monitor quality across all delivery modes"
+          ]
+        },
+        {
+          "ref": "B2.1.2",
+          "text": "This condition applies to any higher education provided \"by, or on behalf of, a provider\". This includes higher education provided to all of the students who are registered with a registered provider, taught by a registered provider or studying for an award of a registered provider (or where these services are provided on a registered provider's behalf). This includes UK-based and non-UK-based students, and courses delivered through partnership arrangements both within the UK and internationally.",
+          "threshold": "All students and partnership arrangements must be covered regardless of location or delivery method",
+          "risk_indicators": [
+            "Inconsistent quality standards between UK and international partnerships",
+            "Different treatment of overseas students in quality processes",
+            "Partnership agreements lacking adequate quality oversight clauses",
+            "Failure to monitor third-party delivery arrangements"
+          ]
+        },
+        {
+          "ref": "B2.1.3",
+          "text": "The reference to \"including, but not limited to, circumstances where a provider is responsible only for granting awards for students registered with another provider\" means that a provider is required to comply with the provisions of this condition where it is the awarding body for a course, whether or not that provider has any other role in the design or delivery of that course.",
+          "threshold": "Awarding bodies must ensure compliance even when not involved in course design or delivery",
+          "risk_indicators": [
+            "Inadequate oversight of courses where provider is awarding body only",
+            "Lack of quality assurance processes for externally delivered programmes",
+            "Insufficient monitoring of teaching providers delivering awards",
+            "Weak governance arrangements for award-only relationships"
+          ]
+        },
+        {
+          "ref": "B2.1.4",
+          "text": "Where a provider is not the awarding body for a course, this condition applies to a course the provider itself delivers, or which is delivered on its behalf, regardless of the identity of the awarding body, whether or not that awarding body is registered with the OfS, or the nature of any partnership agreement.",
+          "threshold": "Teaching providers must ensure compliance regardless of awarding body identity or registration status",
+          "risk_indicators": [
+            "Lower quality standards applied to courses with external awards",
+            "Inadequate quality processes for non-OfS registered awarding bodies",
+            "Assumption that external awarding body responsibility removes provider obligations",
+            "Weak quality assurance for commercially awarded qualifications"
+          ]
+        },
+        {
+          "ref": "B2.1",
+          "text": "The provider must ensure that each cohort of students is provided with an appropriately qualified and sufficient staff team for their course.",
+          "threshold": "Staff team must have appropriate qualifications, sufficient numbers, and collective expertise for the course",
+          "risk_indicators": [
+            "Staff team comprised solely of inexperienced teachers",
+            "Staff team with narrow collective expertise that doesn't cover the full range of student options",
+            "Over-reliance on visiting teachers to deliver large or significant elements of courses",
+            "Research supervision provided by staff who do not conduct research at the forefront of relevant disciplines"
+          ]
+        },
+        {
+          "ref": "B2.2",
+          "text": "The provider must ensure that each cohort of students is provided with sufficient physical and digital learning resources for the purpose of ensuring a high quality academic experience and success in and beyond higher education.",
+          "threshold": "Adequate physical facilities, laboratory resources, digital infrastructure, hardware, software, and internet access must be provided",
+          "risk_indicators": [
+            "Students lack reliable access to required hardware or software",
+            "Technical infrastructure failures that are not promptly repaired",
+            "Inadequate laboratory, studio, or technical resources for subject requirements",
+            "Poor internet connectivity that disadvantages students relative to their peers"
+          ]
+        },
+        {
+          "ref": "B2.3",
+          "text": "The provider must ensure that each cohort of students receives support that is sufficient to underpin success in and beyond higher education, including in relation to their physical and digital learning and teaching, and relating to avoiding academic misconduct.",
+          "threshold": "Comprehensive academic support, digital learning support, and academic misconduct prevention must be provided",
+          "risk_indicators": [
+            "Absence of academic support to help students with course content or address knowledge gaps",
+            "Lack of support to help students make effective use of digital learning resources",
+            "Insufficient guidance on essay planning, referencing, and consequences of academic misconduct",
+            "Inadequate careers support and guidance for future study or employment decisions"
+          ]
+        },
+        {
+          "ref": "B2.4",
+          "text": "The provider must ensure that students are engaged, individually and collectively, in the quality of their educational experience.",
+          "threshold": "Students must have meaningful opportunities to contribute to academic governance and provide feedback on their courses",
+          "risk_indicators": [
+            "Absence of student membership or effective contribution to academic governance committees",
+            "Students not given range of opportunities to provide individual or collective feedback",
+            "No student representation on learning and teaching committees or course-level committees",
+            "Course changes made in response to feedback that compromise academic rigour"
+          ]
+        }
+      ],
+      "notes": "The condition emphasizes that 'all reasonable steps' should prioritize student academic needs based on prior attainment and capability, with financial constraints given less weight. The document appears to continue with definitions in B2.4 but the text is cut off."
+    },
+    {
+      "condition_id": "B4",
+      "title": "Assessment and awards",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "B4.1",
+          "text": "This condition applies to the quality of higher education provided in any manner or form by, or on behalf of, a provider (including, but not limited to, circumstances where a provider is responsible only for granting awards for students registered with another provider).",
+          "threshold": "Condition applies to all forms of higher education provision",
+          "risk_indicators": [
+            "Provider claims exemption from assessment requirements for certain provision types",
+            "Unclear governance arrangements for awards granted on behalf of other providers",
+            "Different assessment standards applied across different modes of delivery"
+          ]
+        },
+        {
+          "ref": "B4.2a",
+          "text": "students are assessed effectively",
+          "threshold": "All students receive effective assessment",
+          "risk_indicators": [
+            "High rates of student complaints about assessment processes",
+            "Inconsistent assessment practices across courses or departments",
+            "Evidence of assessment methods not aligned with learning outcomes",
+            "Poor external examiner feedback on assessment design"
+          ]
+        },
+        {
+          "ref": "B4.2b",
+          "text": "each assessment is valid and reliable",
+          "threshold": "All assessments demonstrate validity and reliability",
+          "risk_indicators": [
+            "Significant variations in marking between assessors for similar work",
+            "Assessment methods that do not measure intended learning outcomes",
+            "Lack of moderation or quality assurance processes for assessments",
+            "External examiner concerns about assessment validity"
+          ]
+        },
+        {
+          "ref": "B4.2c",
+          "text": "academic regulations are designed to ensure that relevant awards are credible",
+          "threshold": "Academic regulations ensure award credibility",
+          "risk_indicators": [
+            "Academic regulations that are outdated or not aligned with sector standards",
+            "Inconsistent application of academic regulations across the institution",
+            "External concerns about the credibility of awards granted",
+            "Lack of clear academic standards in regulations"
+          ]
+        },
+        {
+          "ref": "B4.2d",
+          "text": "subject to paragraph B4.3, in respect of each higher education course, academic regulations are designed to ensure the effective assessment of technical proficiency in the English language in a manner which appropriately reflects the level and content of the applicable higher education course",
+          "threshold": "English language proficiency effectively assessed for all courses (subject to exemptions)",
+          "risk_indicators": [
+            "Graduates demonstrating inadequate English language skills for their qualification level",
+            "Absence of English language assessment requirements in academic regulations",
+            "English language assessment not calibrated to course level and content",
+            "Student complaints about language barriers affecting academic progression"
+          ]
+        },
+        {
+          "ref": "B4.2e",
+          "text": "relevant awards granted to students are credible at the point of being granted and when compared to those granted previously",
+          "threshold": "Awards maintain credibility both currently and historically",
+          "risk_indicators": [
+            "Significant unexplained variations in award outcomes over time",
+            "External examiner concerns about standards drift",
+            "Employer or sector feedback questioning award credibility",
+            "Statistical anomalies in degree classification distributions compared to sector norms"
+          ]
+        },
+        {
+          "ref": "B4.1",
+          "text": "\"academic misconduct\" means any action or attempted action that may result in a student obtaining an unfair academic advantage in relation to an assessment, including but not limited to plagiarism, unauthorised collaboration and the possession of unauthorised materials during an assessment.",
+          "threshold": "Clear definition and prevention of academic misconduct",
+          "risk_indicators": [
+            "High rates of plagiarism detection in student submissions",
+            "Inadequate procedures for detecting unauthorized collaboration",
+            "Possession of unauthorized materials during assessments not properly monitored",
+            "Lack of clear academic misconduct policies communicated to students"
+          ]
+        },
+        {
+          "ref": "B4.2",
+          "text": "\"academic regulations\" means regulations adopted by the provider, which govern its higher education courses, including but not limited to: i. the assessment of students' work; ii. student discipline relating to academic matters; iii. the requirements for relevant awards; and iv. the method used to determine classifications, including but not limited to: A. the requirements for an award; and B. the algorithms used to calculate the classification of awards.",
+          "threshold": "Comprehensive academic regulations covering assessment, discipline, awards and classifications",
+          "risk_indicators": [
+            "Absence of clear academic regulations or policies",
+            "Inconsistent application of assessment criteria across courses",
+            "Unclear or missing award requirements documentation",
+            "Opaque or undocumented classification calculation methods"
+          ]
+        },
+        {
+          "ref": "B4.3",
+          "text": "\"assessed effectively\" means assessed in a challenging and appropriately comprehensive way, by reference to the subject matter of the higher education course, and includes but is not limited to: i. providing stretch and rigour consistent with the level of the course; ii. testing relevant skills; and iii. assessments being designed in a way that minimises the opportunities for academic misconduct and facilitates the detection of such misconduct where it does occur.",
+          "threshold": "Assessments must be challenging, comprehensive, and designed to prevent and detect misconduct",
+          "risk_indicators": [
+            "Assessments lacking appropriate academic rigor for course level",
+            "Limited variety in assessment methods testing only basic knowledge",
+            "Assessment designs that create easy opportunities for misconduct",
+            "Failure to detect obvious cases of academic misconduct"
+          ]
+        },
+        {
+          "ref": "B4.4",
+          "text": "\"credible\" means that, in the reasonable opinion of the OfS, relevant awards reflect students' knowledge and skills, and for this purpose the OfS may take into account factors which include, but are not limited to: i. the number of relevant awards granted, and the classifications attached to them, and the way in which this number and/or the classifications change over time and compare with other providers; ii. whether students are assessed effectively and whether assessments are valid and reliable; iii. any actions the provider has taken that would result in an increased number of relevant awards, and/or changes in the classifications attached to them, whether or not the achievement of students has increased, for example, changes to assessment practices or academic regulations; and iv. the provider's explanation and evidence in support of the reasons for any changes in the classifications over time or differences with other providers.",
+          "threshold": "Awards must credibly reflect student knowledge and skills as evidenced by comparative data and assessment practices",
+          "risk_indicators": [
+            "Sudden unexplained increases in award numbers or grade classifications",
+            "Significant divergence from sector norms without justification",
+            "Changes to assessment practices that inflate outcomes without improved student achievement",
+            "Inability to provide credible evidence for grade distribution changes"
+          ]
+        },
+        {
+          "ref": "B4.1.1",
+          "text": "Higher education provided \"in any manner or form\" includes any higher education course (whether or not that course is recognised for OfS funding purposes, or any other purpose), at any level, and with any volume of learning. This means, for example, that postgraduate research courses, the study of modules or courses leading to microcredentials, and apprenticeships are included within the scope of this condition. It also includes courses provided face-to-face, by distance learning, or a combination of delivery approaches.",
+          "threshold": "All forms of higher education provision must be included within scope regardless of format, level, or recognition status",
+          "risk_indicators": [
+            "Provider excludes certain course types from quality assurance processes",
+            "Different standards applied to online versus face-to-face delivery",
+            "Microcredentials or apprenticeships treated as outside regulatory scope",
+            "Inadequate oversight of non-traditional delivery methods"
+          ]
+        },
+        {
+          "ref": "B4.1.2",
+          "text": "This condition applies to any higher education provided \"by, or on behalf of, a provider\". This includes higher education provided to all of the students who are registered with a registered provider, taught by a registered provider or studying for an award of a registered provider (or where these services are provided on a registered provider's behalf). This includes UK-based and non-UK-based students, and courses delivered through partnership arrangements both within the UK and internationally.",
+          "threshold": "All higher education provision delivered by or on behalf of the provider must comply, including all students and partnership arrangements",
+          "risk_indicators": [
+            "International partnerships operating under different quality standards",
+            "Third-party delivery arrangements lacking proper oversight",
+            "Different treatment of UK versus international students",
+            "Partnership agreements that dilute provider responsibility"
+          ]
+        },
+        {
+          "ref": "B4.1.3",
+          "text": "The reference to \"including, but not limited to, circumstances where a provider is responsible only for granting awards for students registered with another provider\" means that a provider is required to comply with the provisions of this condition where it is the awarding body for a course, whether or not that provider has any other role in the design or delivery of that course.",
+          "threshold": "Awarding body responsibility applies even when provider has no other involvement in course design or delivery",
+          "risk_indicators": [
+            "Awarding body lacks knowledge of course content or delivery standards",
+            "Minimal due diligence on teaching providers",
+            "Awards granted without proper quality verification",
+            "Unclear accountability between awarding and teaching bodies"
+          ]
+        },
+        {
+          "ref": "B4.1.4",
+          "text": "Where a provider is not the awarding body for a course, this condition applies to a course the provider itself delivers, or which is delivered on its behalf, regardless of the identity of the awarding body, whether or not that awarding body is registered with the OfS, or the nature of any partnership agreement.",
+          "threshold": "Teaching providers must comply regardless of awarding body identity or registration status",
+          "risk_indicators": [
+            "Provider assumes external awarding body ensures compliance",
+            "Lack of internal quality processes for externally awarded courses",
+            "Different standards for courses with different awarding bodies",
+            "Inadequate monitoring of courses delivered on provider's behalf"
+          ]
+        },
+        {
+          "ref": "B4.1",
+          "text": "Academic misconduct includes presenting work for assessment that is not the work of the student being assessed and includes but is not limited to the use of services offered by an essay mill.",
+          "threshold": "Prevention and detection of academic misconduct including essay mill usage",
+          "risk_indicators": [
+            "Students submitting work that is not their own",
+            "Evidence of essay mill usage by students",
+            "Lack of plagiarism detection systems or procedures",
+            "Absence of academic misconduct policies or enforcement"
+          ]
+        },
+        {
+          "ref": "B4.2",
+          "text": "Students must be assessed effectively, including through differentiated assessment criteria, comprehensive subject coverage, compliant apprenticeship assessments, PSRB requirement adherence, timely feedback provision, and prevention of academic misconduct.",
+          "threshold": "Effective assessment practices across all aspects of course delivery",
+          "risk_indicators": [
+            "Same assessment criteria applied to students at different academic levels",
+            "Limited range of subject matter or skills being assessed",
+            "Apprenticeship assessments not meeting EPA requirements",
+            "Feedback not provided before final assessments or returned too late for learning"
+          ]
+        },
+        {
+          "ref": "B4.3",
+          "text": "Assessments must be valid and reliable, testing what they are designed to assess and producing consistent results for equivalent achievement levels.",
+          "threshold": "Valid and reliable assessment design and implementation",
+          "risk_indicators": [
+            "Assessments focusing only on end-of-course material in long courses",
+            "Different marks awarded for equivalent levels of achievement",
+            "Assessment methods not aligned with stated learning outcomes",
+            "Inconsistent marking standards across similar assessments"
+          ]
+        },
+        {
+          "ref": "B4.4",
+          "text": "Qualifications must be credible, with any increases in degree classifications or awards properly evidenced and justified, and research degrees awarded based on individual contribution to knowledge.",
+          "threshold": "Credible qualifications with justified award patterns and standards",
+          "risk_indicators": [
+            "Unexplained increases in first class or 2:1 degree proportions",
+            "Changes to degree classification algorithms without evidence of maintained standards",
+            "Research degrees awarded based on group contribution rather than individual knowledge",
+            "Lack of pre-emptive evidence and evaluation of changes to academic regulations"
+          ]
+        },
+        {
+          "ref": "B4.1",
+          "text": "A provider must ensure that students who are awarded qualifications have the English language proficiency necessary for the qualification that they are to be awarded.",
+          "threshold": "Students must demonstrate English language proficiency appropriate to their qualification level",
+          "risk_indicators": [
+            "Students graduating without adequate English language skills for their qualification level",
+            "Assessment methods that do not effectively test English language competency",
+            "High numbers of students struggling with English language requirements during their studies",
+            "External examiner concerns about graduates' English language proficiency"
+          ]
+        },
+        {
+          "ref": "B4.2",
+          "text": "A provider must only award qualifications to students who have demonstrated the English language proficiency necessary for the qualification through appropriate assessment.",
+          "threshold": "Appropriate assessment methods must verify English language proficiency before qualification award",
+          "risk_indicators": [
+            "Lack of robust English language assessment procedures",
+            "Qualifications awarded to students who have not undergone appropriate English proficiency testing",
+            "Assessment methods that fail to adequately measure English language competency",
+            "Inconsistent application of English language requirements across different courses"
+          ]
+        },
+        {
+          "ref": "B4.3",
+          "text": "The requirements in B4.1 and B4.2 do not apply to the extent that a provider can demonstrate that compliance with them would conflict with the Equality Act 2010.",
+          "threshold": "Compelling evidence and legal reasoning must demonstrate actual conflict with Equality Act 2010",
+          "risk_indicators": [
+            "Over-broad application of Equality Act exceptions without specific legal justification",
+            "General claims about equality concerns rather than particular course-specific conflicts",
+            "Inability to provide compelling evidence of legal conflict with Equality Act 2010",
+            "Use of exception beyond what is strictly necessary to avoid discrimination"
+          ]
+        },
+        {
+          "ref": "B4.1",
+          "text": "The provider must ensure that all of the work of an individual student can be identified from the records.",
+          "threshold": "Complete identification of individual student work from institutional records",
+          "risk_indicators": [
+            "Incomplete or missing assessment records for individual students",
+            "Unable to trace specific pieces of work back to individual students",
+            "Assessment recording systems lack unique student identifiers",
+            "Anonymous or pooled assessment records that cannot be disaggregated by student"
+          ]
+        },
+        {
+          "ref": "B4.2",
+          "text": "Where students' personal data cannot be anonymised, the provider must retain this data for five years after the end date of a course.",
+          "threshold": "Five-year retention period for non-anonymised student personal data post-course completion",
+          "risk_indicators": [
+            "Student records deleted before five-year retention period expires",
+            "Data retention policies shorter than required five-year minimum",
+            "Missing or incomplete student data from courses completed within past five years",
+            "No systematic process for tracking data retention timelines"
+          ]
+        }
+      ],
+      "notes": "This condition includes exemptions for courses assessing non-English languages and circumstances where English language assessment requirements would constitute unlawful discrimination under the Equality Act 2010. The document appears to contain definitions section B4.4 which is cut off in the provided text."
+    },
+    {
+      "condition_id": "B5",
+      "title": "Sector-recognised standards",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "B5.1",
+          "text": "This condition relates to the standards applied to higher education provided in any manner or form by, or on behalf of, a provider (including, but not limited to, circumstances where a provider is responsible only for granting awards for students registered with another provider).",
+          "threshold": "Apply condition to all higher education provision regardless of delivery method or awarding arrangements",
+          "risk_indicators": [
+            "Provider unclear about scope of condition across different delivery modes",
+            "Inconsistent application of standards between directly delivered and partnership provision",
+            "Confusion about responsibilities when acting as awarding body only"
+          ]
+        },
+        {
+          "ref": "B5.2",
+          "text": "Without prejudice to the principles and requirements provided for by any other condition of registration and the scope of B5.1, the provider must ensure that, in respect of any relevant awards granted to students who complete a higher education course provided by, or on behalf of, the provider (whether or not the provider is the awarding body): a. any standards set appropriately reflect any applicable sector-recognised standards; and b. awards are only granted to students whose knowledge and skills appropriately reflect any applicable sector-recognised standards.",
+          "threshold": "Ensure all awards reflect applicable sector-recognised standards in both standard-setting and student achievement",
+          "risk_indicators": [
+            "Awards granted to students who have not met sector-recognised standards",
+            "Course standards that do not align with relevant sector-recognised benchmarks",
+            "Inconsistent application of sector standards across different programmes",
+            "External examiner or professional body concerns about standard alignment"
+          ]
+        },
+        {
+          "ref": "B5.1",
+          "text": "\"higher education course\" is to be interpreted: i. in accordance with the Higher Education and Research Act 2017; and ii. so as to include, for the avoidance of doubt: A. a course of study; B. a programme of research; C. any further education course that forms an integrated part of a higher education course; and D. any module that forms part of a higher education course, whether or not that module is delivered as an integrated part of the course.",
+          "threshold": "Proper interpretation and application of higher education course definition in accordance with HERA 2017",
+          "risk_indicators": [
+            "Misclassification of courses as higher education when they do not meet statutory definition",
+            "Failure to include integrated further education components in higher education course delivery",
+            "Inconsistent application of course definitions across different programmes",
+            "Regulatory non-compliance due to incorrect course categorisation"
+          ]
+        },
+        {
+          "ref": "B5.2",
+          "text": "\"relevant award\" means: i. a research award; ii. a taught award; and/or iii. any other type of award or qualification in respect of a higher education course, including an award of credit granted in respect of a module that may form part of a larger higher education course, whether or not granted pursuant to an authorisation given by or under the Higher Education and Research Act 2017, another Act of Parliament or Royal Charter.",
+          "threshold": "Correct identification and treatment of all types of relevant awards including research, taught, and other qualifications",
+          "risk_indicators": [
+            "Awards granted that do not align with the statutory definition of relevant awards",
+            "Failure to recognise modular credit awards as relevant awards",
+            "Inconsistent treatment of awards across different authorisation frameworks",
+            "Awarding qualifications outside the scope of relevant award definitions"
+          ]
+        },
+        {
+          "ref": "B5.3",
+          "text": "\"research award\" and \"taught award\" have the meanings given in section 42(3) of the Higher Education and Research Act 2017.",
+          "threshold": "Adherence to statutory definitions of research and taught awards as specified in HERA 2017",
+          "risk_indicators": [
+            "Misclassification of awards as research or taught contrary to statutory definitions",
+            "Failure to apply section 42(3) HERA definitions consistently",
+            "Awards that do not meet the statutory criteria for their designated category",
+            "Regulatory discrepancies in award classification and reporting"
+          ]
+        },
+        {
+          "ref": "B5.4",
+          "text": "\"sector-recognised standards\" means the standards contained in the document of that title published by the OfS from time to time.",
+          "threshold": "Application of current sector-recognised standards as published and updated by OfS",
+          "risk_indicators": [
+            "Use of outdated versions of sector-recognised standards",
+            "Failure to implement updated standards published by OfS",
+            "Non-alignment with current OfS sector-recognised standards documentation",
+            "Inconsistent application of sector standards across institutional activities"
+          ]
+        },
+        {
+          "ref": "B5.1.1",
+          "text": "The reference to higher education provided \"in any manner or form\" includes any higher education course (whether or not that course is recognised for OfS funding purposes, or any other purpose), at any level, and with any volume of learning.",
+          "threshold": "All higher education courses regardless of recognition, level, or volume must comply",
+          "risk_indicators": [
+            "Provider excludes certain course types or levels from quality assurance processes",
+            "Different standards applied to microcredentials, apprenticeships, or postgraduate research",
+            "Inconsistent oversight of face-to-face versus distance learning provision",
+            "Provider claims certain courses are outside regulatory scope"
+          ]
+        },
+        {
+          "ref": "B5.1.2",
+          "text": "This condition applies to any higher education provided \"by, or on behalf of, a provider\". This includes higher education provided to all of the students who are registered with a registered provider, taught by a registered provider or studying for an award of a registered provider (or where these services are provided on a registered provider's behalf).",
+          "threshold": "Compliance required for all students and courses regardless of location or delivery arrangement",
+          "risk_indicators": [
+            "Different quality standards applied to UK versus international students",
+            "Partnership arrangements lack adequate oversight or monitoring",
+            "Provider disclaims responsibility for courses delivered by partners",
+            "Inconsistent application of policies across different student populations"
+          ]
+        },
+        {
+          "ref": "B5.1.3",
+          "text": "The reference to \"including, but not limited to, circumstances where a provider is responsible only for granting awards for students registered with another provider\" means that a provider is required to comply with the provisions of this condition where it is the awarding body for a course, whether or not that provider has any other role in the design or delivery of that course.",
+          "threshold": "Awarding bodies must ensure compliance even when not involved in course design or delivery",
+          "risk_indicators": [
+            "Awarding body lacks oversight of courses for which it grants awards",
+            "Minimal due diligence on teaching providers using the awarding body's qualifications",
+            "Weak validation or approval processes for externally delivered courses",
+            "Provider claims no responsibility for quality of courses it does not directly deliver"
+          ]
+        },
+        {
+          "ref": "B5.1.4",
+          "text": "Where a provider is not the awarding body for a course, this condition applies to a course the provider itself delivers, or which is delivered on its behalf, regardless of the identity of the awarding body, whether or not that awarding body is registered with the OfS, or the nature of any partnership agreement.",
+          "threshold": "Teaching providers must ensure compliance for all courses delivered, regardless of awarding body",
+          "risk_indicators": [
+            "Provider assumes external awarding body ensures all compliance requirements",
+            "Different quality assurance applied to courses with non-OfS registered awarding bodies",
+            "Lack of oversight for courses leading to qualifications from commercial awarding bodies",
+            "Partnership agreements that disclaim quality responsibilities"
+          ]
+        },
+        {
+          "ref": "B5.2.1",
+          "text": "\"Relevant award\" includes, but is not limited to, the awards made by a provider in relation to an apprenticeship.",
+          "threshold": "Provider must understand scope of relevant awards including apprenticeship awards",
+          "risk_indicators": [
+            "Provider excludes apprenticeship awards from quality assurance processes",
+            "Inconsistent treatment of different award types",
+            "Unclear definition of what constitutes a 'relevant award'"
+          ]
+        },
+        {
+          "ref": "B5.2.2",
+          "text": "Where monitoring activity produces intelligence or evidence that suggests there may be compliance concerns for an individual provider, the OfS may adopt one or more of the following approaches in any order: a. Engage with a provider to ensure it is aware of the issues. b. Gather further information it considers relevant to the scope of the potential concerns, from a provider or from elsewhere on a voluntary basis, to facilitate an assessment of whether there is, or has been, a breach of one or more conditions. c. Use its investigatory powers where that is considered appropriate for any reason.",
+          "threshold": "Provider must cooperate with OfS monitoring and investigation processes",
+          "risk_indicators": [
+            "Non-response or delayed response to OfS engagement",
+            "Refusal to provide requested information voluntarily",
+            "Obstructive behaviour during investigations",
+            "Failure to acknowledge or address identified issues"
+          ]
+        },
+        {
+          "ref": "B5.2.3",
+          "text": "A provider is therefore expected to retain appropriate records of students' assessed work for such regulatory purposes for a period of five years after the end date of a course. Where possible, a provider is expected to retain records of student assessments in an anonymised form by removing students' personal data from the records. However, in doing so, it should ensure that removal of students' personal data would not limit the OfS's ability to assess the provider's compliance.",
+          "threshold": "Provider must retain student assessment records for five years post-course completion in accessible form for regulatory review",
+          "risk_indicators": [
+            "Systematic deletion of student work before five-year retention period",
+            "Inability to produce assessment records when requested",
+            "Over-anonymisation that prevents effective compliance assessment",
+            "Poor record-keeping systems that compromise accessibility"
+          ]
+        },
+        {
+          "ref": "B5.1",
+          "text": "The provider must retain records of students' assessed work, including by ensuring that all of the work of an individual student can be identified from the records.",
+          "threshold": "Complete retention of identifiable assessed work records for all students",
+          "risk_indicators": [
+            "Missing or incomplete assessment records for individual students",
+            "Inability to identify specific student work from retained records",
+            "Systematic gaps in assessment documentation",
+            "Records that cannot be linked to individual student identities"
+          ]
+        },
+        {
+          "ref": "B5.2",
+          "text": "Where students' personal data cannot be anonymised, the provider must retain this data for five years after the end date of a course.",
+          "threshold": "Five-year retention period for non-anonymised student personal data post-course completion",
+          "risk_indicators": [
+            "Deletion of student records before the five-year minimum period",
+            "Incomplete data retention policies or procedures",
+            "Evidence of premature data destruction",
+            "Inability to produce records within the required retention timeframe"
+          ]
+        },
+        {
+          "ref": "B5.1",
+          "text": "the standards to be set for a provider's courses appropriately reflect sector-recognised standards",
+          "threshold": "Standards for courses must appropriately reflect sector-recognised standards",
+          "risk_indicators": [
+            "Course standards significantly below comparable sector benchmarks",
+            "Absence of reference to sector-recognised frameworks in course design",
+            "External examiner reports highlighting standards concerns",
+            "Graduation outcomes inconsistent with sector norms"
+          ]
+        },
+        {
+          "ref": "B5.2",
+          "text": "the awards to be granted for those courses will only be granted to students with knowledge and skills which also appropriately reflect sector-recognised standards",
+          "threshold": "Awards only granted to students demonstrating knowledge and skills reflecting sector-recognised standards",
+          "risk_indicators": [
+            "High pass rates without corresponding sector-level competencies",
+            "Graduate employer feedback indicating skills gaps",
+            "Assessment practices not aligned with sector standards",
+            "Lack of evidence of graduate achievement of learning outcomes"
+          ]
+        }
+      ],
+      "notes": "Condition applies to all higher education provision including partnership arrangements. Provider must ensure sector-recognised standards are reflected in both the setting of standards and the granting of awards. Document appears to be incomplete as definitions section (B5.3) is cut off."
+    },
+    {
+      "condition_id": "B7",
+      "title": "Quality",
+      "category": "Quality",
+      "criteria": [
+        {
+          "ref": "B7.1",
+          "text": "This condition applies to the quality of higher education to be provided in any manner or form by, or on behalf of, a provider (including, but not limited to, circumstances where a provider would be responsible only for granting awards for students registered with another provider).",
+          "threshold": "Condition applies to all forms of higher education provision",
+          "risk_indicators": [
+            "Provider unclear about scope of their higher education provision",
+            "Inconsistent quality standards across different delivery modes",
+            "Lack of oversight of education delivered on behalf of the provider",
+            "Confusion about responsibility for award-granting partnerships"
+          ]
+        },
+        {
+          "ref": "B7.2",
+          "text": "Without prejudice to the principles and requirements provided for by any other condition of registration and the scope of B7.1, the provider must: a. have credible plans that would enable the provider, if registered, to comply with conditions B1, B2 and B4 from the date of registration; and b. have the capacity and resources necessary to deliver, in practice, those plans.",
+          "threshold": "Credible compliance plans for conditions B1, B2, B4 plus adequate capacity and resources to deliver them",
+          "risk_indicators": [
+            "Vague or unrealistic compliance plans lacking specific detail",
+            "Insufficient staffing or expertise to meet quality requirements",
+            "Inadequate financial resources allocated to quality assurance",
+            "Plans that cannot be implemented by registration date"
+          ]
+        },
+        {
+          "ref": "B7.1",
+          "text": "\"capacity and resources\" includes, but is not limited to: the financial resources of the provider; the number, expertise, and experience of the staff employed, and to be employed, by the provider; the physical and digital learning resources deployed, and to be deployed, by the provider and the provider's management and governance arrangements.",
+          "threshold": "Demonstrate adequate financial resources, staffing expertise, learning resources, and management arrangements",
+          "risk_indicators": [
+            "Financial statements showing declining reserves or cash flow problems",
+            "High staff turnover or recruitment difficulties in key academic positions",
+            "Outdated or insufficient physical/digital learning infrastructure",
+            "Weak management structures or governance failures"
+          ]
+        },
+        {
+          "ref": "B7.2",
+          "text": "\"credible\" includes, but is not limited to, evidence of the provider's past performance delivering higher education.",
+          "threshold": "Provide evidence of successful track record in higher education delivery",
+          "risk_indicators": [
+            "Limited or no previous experience in higher education provision",
+            "Poor performance indicators from previous educational activities",
+            "Lack of documented evidence of successful program delivery",
+            "Negative feedback from students or external quality assessments"
+          ]
+        },
+        {
+          "ref": "B7.1.1",
+          "text": "This condition applies to the courses that the provider plans to provide when it is registered.",
+          "threshold": "Must apply to all planned courses upon registration",
+          "risk_indicators": [
+            "Provider fails to identify or list all courses they plan to offer",
+            "Missing coverage of certain course types in compliance documentation",
+            "Unclear scope of courses covered by quality assurance processes"
+          ]
+        },
+        {
+          "ref": "B7.1.2",
+          "text": "The reference to higher education provided \"in any manner or form\" includes any higher education course (whether or not that course is recognised for OfS funding purposes, or any other purpose), at any level, and with any volume of learning. This means, for example, that postgraduate research courses, the study of modules or courses leading to microcredentials, and apprenticeships are included within the scope of this condition. It also includes courses provided face-to-face, by distance learning, or a combination of delivery approaches.",
+          "threshold": "Must cover all forms of higher education delivery regardless of format, level, or recognition status",
+          "risk_indicators": [
+            "Quality processes exclude certain delivery modes like distance learning",
+            "Different standards applied to micro-credentials or apprenticeships",
+            "Inadequate oversight of blended or online course components",
+            "Missing policies for non-traditional course formats"
+          ]
+        },
+        {
+          "ref": "B7.1.3",
+          "text": "This condition applies to any higher education provided \"by, or on behalf of, a provider\". This includes higher education provided to all of the students who are registered with a registered provider, taught by a registered provider or studying for an award of a registered provider (or where these services are provided on a registered provider's behalf). This includes UK-based and non-UK-based students, and courses delivered through partnership arrangements both within the UK and internationally.",
+          "threshold": "Must ensure compliance extends to all educational provision including partnerships and international delivery",
+          "risk_indicators": [
+            "Inadequate quality oversight of partnership arrangements",
+            "Different standards for international vs domestic provision",
+            "Poor monitoring of courses delivered on provider's behalf",
+            "Gaps in student support for non-UK based learners"
+          ]
+        },
+        {
+          "ref": "B7.1.4",
+          "text": "The reference to \"including, but not limited to, circumstances where a provider would be responsible only for granting awards for students registered with another provider\" means that a provider is required to comply with the provisions of this condition where it would be the awarding body for a course, whether or not that provider would have any other role in the design or delivery of that course.",
+          "threshold": "Must maintain compliance responsibility when acting solely as awarding body",
+          "risk_indicators": [
+            "Insufficient due diligence on courses for which awards are granted",
+            "Lack of quality assurance processes for award-only arrangements",
+            "Missing oversight of academic standards where not involved in delivery",
+            "Inadequate verification of student achievement in award-only cases"
+          ]
+        },
+        {
+          "ref": "B7.2.1",
+          "text": "The OfS is likely to draw on evidence submitted by a provider as part of its application for registration to make a judgement about whether the provider has \"credible\" plans in accordance with this requirement. For example, evidence submitted about the policies and processes a provider proposes to have in place to ensure compliance with ongoing conditions B1, B2 and B4, and evidence of how the provider intends to assess its own compliance with those conditions, is likely to be relevant.",
+          "threshold": "Provider must submit credible evidence of policies, processes and compliance assessment methods for ongoing conditions",
+          "risk_indicators": [
+            "Vague or incomplete policy documentation submitted during registration",
+            "Lack of specific compliance monitoring procedures outlined in application",
+            "Absence of clear assessment frameworks for ongoing condition compliance",
+            "Generic rather than tailored compliance plans that don't address provider's specific context"
+          ]
+        },
+        {
+          "ref": "B7.2.2",
+          "text": "Where a provider seeking registration has previously delivered, or is currently delivering, higher education courses, the \"plans\" required under this condition may include evidence relating to the provider's experience of delivery of those courses. The OfS will have regard to that evidence in determining whether the condition is satisfied.",
+          "threshold": "Provider must provide evidence of previous or current higher education course delivery experience where applicable",
+          "risk_indicators": [
+            "Poor student outcomes or quality issues in previously delivered courses",
+            "Inability to demonstrate successful track record of course delivery",
+            "Significant gaps or inconsistencies in delivery experience evidence",
+            "Previous regulatory concerns or interventions at other institutions involving key staff"
+          ]
+        },
+        {
+          "ref": "B7.2.3",
+          "text": "Where a registered provider is seeking registration in a different category of registration, this requires the OfS to deregister the provider and make a new registration decision by deciding whether each of the initial conditions is satisfied. In these circumstances \"date of registration\" means the date of the new registration.",
+          "threshold": "Provider changing registration category must satisfy all initial conditions as if applying for new registration",
+          "risk_indicators": [
+            "Previous compliance issues in current registration category that may affect new category application",
+            "Inadequate preparation for requirements specific to the new registration category",
+            "Failure to demonstrate capacity to meet enhanced obligations of higher registration categories",
+            "Timing issues that create regulatory gaps during transition between categories"
+          ]
+        },
+        {
+          "ref": "B7.3.1",
+          "text": "The OfS is likely to draw on evidence submitted by a provider as part of its application for registration to make a judgement about whether the provider has the \"capacity and resources\" necessary to deliver, in practice, its plans. For example, evidence submitted in relation to a provider's financial viability and sustainability, or its management and governance arrangements are likely to be relevant.",
+          "threshold": "Demonstrate capacity and resources necessary to deliver plans in practice through application evidence",
+          "risk_indicators": [
+            "Insufficient financial resources relative to planned activities",
+            "Weak management and governance structures for proposed scale of operations",
+            "Gap between ambitious plans and available capacity to deliver",
+            "Lack of evidence of sustainable resource planning"
+          ]
+        },
+        {
+          "ref": "B7.3.2",
+          "text": "The OfS will assess compliance with this initial condition for all providers seeking registration. It may commission the designated quality body to conduct an assessment of quality to provide information to the OfS to inform the OfS's decision about whether the condition is satisfied. An assessment by the designated quality body will involve the submission of specified information to the designated quality body and will normally involve a visit to the provider and interviews with relevant staff and students.",
+          "threshold": "Successfully complete OfS compliance assessment process including potential designated quality body assessment",
+          "risk_indicators": [
+            "Failure to provide required information to designated quality body",
+            "Poor performance during site visits or staff/student interviews",
+            "Inability to demonstrate quality arrangements in practice",
+            "Significant concerns raised during assessment visits"
+          ]
+        },
+        {
+          "ref": "B7.3.3",
+          "text": "Where a provider, or another legal entity that the OfS considers to be operating substantially the same higher education business, has previously been registered, a history of non-compliance with ongoing conditions B1, B2 or B4 is likely to result in a judgement that initial",
+          "threshold": "Demonstrate compliance history with ongoing conditions B1, B2 or B4 if previously registered",
+          "risk_indicators": [
+            "Previous breaches of conditions B1, B2 or B4 by provider or related entity",
+            "Pattern of non-compliance in previous registration",
+            "Unresolved quality or standards issues from previous registration",
+            "Same management responsible for previous compliance failures"
+          ]
+        },
+        {
+          "ref": "B7.1",
+          "text": "Where the OfS considers this initial condition to be satisfied, but that there is an increased risk of a breach of one or more of the general ongoing conditions for quality (conditions B1, B2 and B4), or a wider regulatory concern, it may impose one or more specific ongoing conditions of registration and will also consider whether additional monitoring requirements are appropriate, for example, a requirement to report additional matters as reportable events, or to have an additional assessment by the OfS, the designated quality body, or other appropriate body.",
+          "threshold": "Initial quality standards must be demonstrated before ongoing registration conditions apply",
+          "risk_indicators": [
+            "Deficiencies identified during initial quality assessment that indicate potential future compliance issues",
+            "Quality management systems that are underdeveloped or lack robust processes",
+            "Evidence of quality concerns in academic delivery or student outcomes during initial assessment",
+            "Insufficient evidence of institutional capacity to maintain ongoing quality standards"
+          ]
+        }
+      ],
+      "notes": "This condition focuses on ensuring providers have credible plans and adequate capacity to meet core quality conditions (B1, B2, B4) from registration. The scope covers all forms of higher education provision including partnership arrangements. Document appears incomplete with definitions section cut off."
+    },
+    {
+      "condition_id": "B8",
+      "title": "Standards",
+      "category": "Standards",
+      "criteria": [
+        {
+          "ref": "B8.1",
+          "text": "This condition relates to the standards to be applied to higher education to be provided in any manner or form by, or on behalf of, a provider (including, but not limited to, circumstances where a provider would be responsible only for granting awards for students registered with another provider).",
+          "threshold": "Define scope of standards application across all forms of higher education provision",
+          "risk_indicators": [
+            "Provider fails to identify all forms of education delivery requiring standards oversight",
+            "Unclear delineation of responsibility for standards in partnership arrangements",
+            "Lack of documented scope for standards application across different provision models"
+          ]
+        },
+        {
+          "ref": "B8.2",
+          "text": "Without prejudice to the principles and requirements provided for by any other condition of registration and the scope of B8.1, the provider must demonstrate, in a credible manner, that any standards to be set and/or applied in respect of any relevant awards granted to students who complete a higher education course provided by, or on behalf of, the provider (if registered), whether or not the provider is the awarding body, appropriately reflect any applicable sector-recognised standards.",
+          "threshold": "Credibly demonstrate that award standards appropriately reflect applicable sector-recognised standards",
+          "risk_indicators": [
+            "Awards granted that do not align with established sector benchmarks or frameworks",
+            "Absence of clear mapping between course standards and sector-recognised standards",
+            "Inadequate evidence or documentation supporting standards alignment claims",
+            "External examiner or quality assurance reports highlighting standards concerns"
+          ]
+        },
+        {
+          "ref": "B8.1",
+          "text": "\"credible\" includes, but is not limited to, evidence of the provider's past performance delivering higher education.",
+          "threshold": "Provider must demonstrate credible evidence including past performance in delivering higher education",
+          "risk_indicators": [
+            "Provider has no documented history of delivering higher education",
+            "Previous higher education delivery resulted in poor outcomes or regulatory breaches",
+            "Evidence of performance in higher education delivery is unsubstantiated or lacking credibility"
+          ]
+        },
+        {
+          "ref": "B8.2",
+          "text": "\"higher education course\" is to be interpreted: i. in accordance with the Higher Education and Research Act 2017; and ii. so as to include, for the avoidance of doubt: A. a course of study; B. a programme of research; C. any further education course that forms an integrated part of a higher education course; and D. any module that forms part of a higher education course, whether or not that module is delivered as an integrated part of the course.",
+          "threshold": "Provider must apply the correct definition of higher education course as specified",
+          "risk_indicators": [
+            "Provider incorrectly categorizes courses as higher education when they do not meet HERA 2017 definitions",
+            "Provider fails to include integrated further education components in higher education course definitions",
+            "Provider misclassifies standalone modules or research programmes"
+          ]
+        },
+        {
+          "ref": "B8.3",
+          "text": "\"relevant award\" means: i. a research award; ii. a taught award; and/or iii. any other type of award or qualification in respect of a higher education course, including an award of credit granted in respect of a module that may form part of a larger higher education course, whether or not granted pursuant to an authorisation given by or under the Higher Education and Research Act 2017, another Act of Parliament or Royal Charter.",
+          "threshold": "Provider must correctly identify and categorize all relevant awards within scope",
+          "risk_indicators": [
+            "Provider fails to recognize module credits as relevant awards",
+            "Provider excludes awards not granted under HERA 2017 from relevant award category",
+            "Provider misclassifies research or taught awards"
+          ]
+        },
+        {
+          "ref": "B8.4",
+          "text": "\"research award\" and \"taught award\" have the meanings given in section 42(3) of the Higher Education and Research Act 2017.",
+          "threshold": "Provider must apply HERA 2017 section 42(3) definitions for research and taught awards",
+          "risk_indicators": [
+            "Provider uses definitions for research and taught awards that contradict HERA 2017 section 42(3)",
+            "Provider fails to distinguish properly between research and taught award categories"
+          ]
+        },
+        {
+          "ref": "B8.5",
+          "text": "\"sector-recognised standards\" means the standards contained in the document of that title published by the OfS from time to time, and which apply as at the date of the provider's application for registration.",
+          "threshold": "Provider must reference current OfS sector-recognised standards as at application date",
+          "risk_indicators": [
+            "Provider references outdated or superseded versions of sector-recognised standards",
+            "Provider fails to identify which version of standards applies to their application",
+            "Provider uses non-OfS standards documents when referencing sector-recognised standards"
+          ]
+        },
+        {
+          "ref": "B8.1.1",
+          "text": "This condition applies to the courses that the provider plans to provide when it is registered.",
+          "threshold": "Provider must ensure condition applies to all planned courses upon registration",
+          "risk_indicators": [
+            "Provider has unclear or incomplete course planning documentation",
+            "Significant changes to course portfolio after registration without proper assessment",
+            "Provider fails to identify which courses fall under this condition's scope"
+          ]
+        },
+        {
+          "ref": "B8.1.2",
+          "text": "The reference to higher education provided \"in any manner or form\" includes any higher education course (whether or not that course is recognised for OfS funding purposes, or any other purpose), at any level, and with any volume of learning.",
+          "threshold": "Provider must apply condition to all forms of higher education delivery including postgraduate research, microcredentials, apprenticeships, face-to-face, distance learning, and combined approaches",
+          "risk_indicators": [
+            "Provider excludes certain course types from quality assurance processes",
+            "Different standards applied to funded versus non-funded courses",
+            "Inconsistent quality measures across different delivery modes",
+            "Provider treats microcredentials or apprenticeships as outside regulatory scope"
+          ]
+        },
+        {
+          "ref": "B8.1.3",
+          "text": "This condition applies to any higher education provided \"by, or on behalf of, a provider\". This includes higher education provided to all of the students who are registered with a registered provider, taught by a registered provider or studying for an award of a registered provider (or where these services are provided on a registered provider's behalf). This includes UK-based and non-UK-based students, and courses delivered through partnership arrangements both within the UK and internationally.",
+          "threshold": "Provider must ensure condition compliance for all students and delivery arrangements including partnerships and international provision",
+          "risk_indicators": [
+            "Weaker oversight of partner-delivered courses compared to directly delivered courses",
+            "Different quality standards applied to international versus domestic provision",
+            "Inadequate monitoring of courses delivered on provider's behalf",
+            "Poor communication of standards to delivery partners"
+          ]
+        },
+        {
+          "ref": "B8.1.4",
+          "text": "The reference to \"including, but not limited to, circumstances where a provider would be responsible only for granting awards for students registered with another provider\" means that a provider is required to comply with the provisions of this condition where it would be the awarding body for a course, whether or not that provider would have any other role in the design or delivery of that course.",
+          "threshold": "Provider acting as awarding body must ensure condition compliance regardless of their role in course design or delivery",
+          "risk_indicators": [
+            "Awarding body lacks adequate oversight of courses it validates but does not deliver",
+            "Insufficient quality assurance processes for award-only arrangements",
+            "Poor communication between awarding body and teaching provider about standards",
+            "Awarding body unable to demonstrate course quality despite granting awards"
+          ]
+        },
+        {
+          "ref": "B8.1",
+          "text": "The provider will deliver courses that appropriately reflect sector-recognised standards",
+          "threshold": "Standards set in courses must appropriately reflect sector-recognised standards as assessed by the designated quality body",
+          "risk_indicators": [
+            "Courses failing to meet sector-recognised academic standards during designated quality body assessment",
+            "Inconsistent or unclear academic standards frameworks across programmes",
+            "Staff unable to articulate how course standards align with sector expectations during interviews",
+            "Assessment methods or learning outcomes that do not reflect appropriate academic level"
+          ]
+        },
+        {
+          "ref": "B8.1",
+          "text": "The provider must satisfy the OfS that condition B8 is satisfied, following assessment by the designated quality body.",
+          "threshold": "OfS determination that condition B8 requirements are met based on designated quality body assessment",
+          "risk_indicators": [
+            "Designated quality body provides negative assessment or identifies significant concerns",
+            "Provider fails to engage adequately with designated quality body review process",
+            "History of non-compliance with ongoing conditions where provider or related entity was previously registered",
+            "OfS receives information suggesting provider cannot meet condition B8 requirements"
+          ]
+        },
+        {
+          "ref": "B8.1",
+          "text": "Where the OfS considers this initial condition to be satisfied, but that there is an increased risk of a breach of the general ongoing condition for standards",
+          "threshold": "Initial condition for standards must be satisfied with no increased risk of breach",
+          "risk_indicators": [
+            "OfS assessment indicates increased risk of standards breach despite initial satisfaction",
+            "Evidence suggests potential future non-compliance with ongoing standards requirements",
+            "Institutional capacity or systems show vulnerabilities in maintaining standards",
+            "Previous performance indicators suggest declining standards trajectory"
+          ]
+        }
+      ],
+      "notes": "Document appears incomplete, ending mid-sentence in definitions section B8.3. Condition covers standards application across all forms of higher education provision, including partnership arrangements where the provider may not be the awarding body."
+    }
+  ]
+}
