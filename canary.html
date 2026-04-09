@@ -857,7 +857,7 @@ function renderResults(result) {
             <span class="flag-row-label">Action</span>
             <span class="flag-row-val">${f.recommendation}</span>
           </div>` : ''}
-          <div class="citation">Standard: OfS Conditions of Registration ${result.standards_version || '2024'} · ${f.condition_id}</div>
+          <div class="citation">Standard: ${f.condition_id.startsWith('P') ? 'QAA Quality Code 2024' : 'OfS Conditions of Registration 2024'} · ${f.condition_id}</div>
         </div>
       </div>`;
   }).join('');
