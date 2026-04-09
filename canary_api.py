@@ -74,11 +74,13 @@ class AssessmentResponse(BaseModel):
 
 def load_standards() -> dict:
     all_conditions = []
-    for f in STANDARDS_DIR.glob("*.json"):
+    files = sorted(STANDARDS_DIR.glob("*.json"))
+    for f in files:
         data = json.load(open(f))
-        all_conditions.extend(data.get("conditions", []))
+        conditions = data.get("conditions", [])
+        all_conditions.extend(conditions[:4])
     return {
-        "body": "OfS",
+        "body": "OfS + QAA",
         "document": "Full UK Regulatory Framework",
         "version_date": "2024",
         "conditions": all_conditions,
