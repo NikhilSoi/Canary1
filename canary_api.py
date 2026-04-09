@@ -128,7 +128,7 @@ def build_prompt(standards: dict, institution: InstitutionData) -> str:
                     "text": cr.get("text", "")[:300],
                     "risk_indicators": cr.get("risk_indicators", [])
                 }
-                for cr in c.get("criteria", [])[:5]
+                for cr in c.get("criteria", [])[:3]
             ]
         })
 
