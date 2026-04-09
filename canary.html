@@ -516,6 +516,14 @@ input[type="file"] { display: none; }
   transition: background 0.15s;
 }
 .export-btn:hover { background: var(--teal-50); }
+.tab-bar { display: flex; gap: 4px; border-bottom: 1px solid var(--border); padding: 0 20px; }
+.tab-btn { padding: 10px 16px; font-size: 13px; font-family: 'DM Sans', sans-serif; background: none; border: none; border-bottom: 2px solid transparent; color: var(--gray-500); cursor: pointer; margin-bottom: -1px; transition: all 0.15s; font-weight: 400; }
+.tab-btn:hover { color: var(--gray-900); }
+.tab-btn.active { color: var(--teal-700); border-bottom-color: var(--teal-700); font-weight: 500; }
+.tab-badge { display: inline-flex; align-items: center; justify-content: center; width: 18px; height: 18px; border-radius: 9px; font-size: 10px; font-weight: 500; margin-left: 6px; background: var(--color-background-secondary); }
+.tab-badge.red { background: var(--red-bg); color: var(--red-text); }
+.tab-pane { display: none; }
+.tab-pane.active { display: block; }
 </style>
 </head>
 <body>
@@ -645,8 +653,15 @@ input[type="file"] { display: none; }
             <span class="panel-title" id="results-title">Risk flags</span>
             <button class="export-btn" onclick="exportJSON()">Export JSON</button>
           </div>
+          <div class="tab-bar">
+            <button class="tab-btn active" onclick="switchTab('all')">All flags <span class="tab-badge" id="badge-all"></span></button>
+            <button class="tab-btn" onclick="switchTab('ofs')">OfS <span class="tab-badge" id="badge-ofs"></span></button>
+            <button class="tab-btn" onclick="switchTab('qaa')">QAA <span class="tab-badge" id="badge-qaa"></span></button>
+          </div>
           <div class="panel-body">
-            <div class="flags-list" id="flags-list"></div>
+            <div class="tab-pane active" id="tab-all"><div class="flags-list" id="flags-all"></div></div>
+            <div class="tab-pane" id="tab-ofs"><div class="flags-list" id="flags-ofs"></div></div>
+            <div class="tab-pane" id="tab-qaa"><div class="flags-list" id="flags-qaa"></div></div>
           </div>
         </div>
       </div>
@@ -808,59 +823,62 @@ async function runAssessment() {
   }
 }
 
+function switchTab(tab) {
+  document.querySelectorAll('.tab-btn').forEach((b,i) => {
+    b.classList.toggle('active', ['all','ofs','qaa'][i] === tab);
+  });
+  document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+  document.getElementById('tab-' + tab).classList.add('active');
+}
+
+function buildFlagHTML(f, standardsVersion) {
+  const level = (f.risk_level || 'amber').toLowerCase();
+  const label = level.charAt(0).toUpperCase() + level.slice(1);
+  const isQAA = (f.condition_id || '').startsWith('P');
+  const citation = isQAA ? 'QAA Quality Code 2024' : 'OfS Conditions of Registration 2024';
+  return `
+    <div class="flag-card" onclick="this.classList.toggle('open')">
+      <div class="flag-top">
+        <div class="flag-indicator ${level}"></div>
+        <div class="flag-main">
+          <div class="flag-cond">${f.condition_id || '—'} · ${f.condition_title || ''}</div>
+          <div class="flag-finding">${f.finding || f.recommendation || '—'}</div>
+        </div>
+        <span class="risk-badge ${level}">${label}</span>
+      </div>
+      <div class="flag-body">
+        ${f.evidence_cited ? `<div class="flag-row"><span class="flag-row-label">Evidence</span><span class="flag-row-val">${f.evidence_cited}</span></div>` : ''}
+        ${f.recommendation ? `<div class="flag-row"><span class="flag-row-label">Action</span><span class="flag-row-val">${f.recommendation}</span></div>` : ''}
+        <div class="citation">Standard: ${citation} · ${f.condition_id}</div>
+      </div>
+    </div>`;
+}
+
 function renderResults(result) {
   const flags = result.flags || [];
   const counts = result.flag_count || { red: 0, amber: 0, green: 0 };
 
+  const ofsFlags = flags.filter(f => !(f.condition_id || '').startsWith('P'));
+  const qaaFlags = flags.filter(f => (f.condition_id || '').startsWith('P'));
+
   document.getElementById('results-title').textContent =
-    `${result.institution} · ${flags.length} flags · OfS ${result.standards_version || '2024'}`;
+    `${result.institution} · ${flags.length} flags`;
 
   document.getElementById('metrics-row').innerHTML = `
-    <div class="metric-card">
-      <div class="metric-label">Breach risk</div>
-      <div class="metric-val red">${counts.red || 0}</div>
-    </div>
-    <div class="metric-card">
-      <div class="metric-label">Watch</div>
-      <div class="metric-val amber">${counts.amber || 0}</div>
-    </div>
-    <div class="metric-card">
-      <div class="metric-label">Compliant</div>
-      <div class="metric-val green">${counts.green || 0}</div>
-    </div>`;
+    <div class="metric-card"><div class="metric-label">Breach risk</div><div class="metric-val red">${counts.red || 0}</div></div>
+    <div class="metric-card"><div class="metric-label">Watch</div><div class="metric-val amber">${counts.amber || 0}</div></div>
+    <div class="metric-card"><div class="metric-label">Compliant</div><div class="metric-val green">${counts.green || 0}</div></div>`;
+
+  document.getElementById('badge-all').textContent = flags.length;
+  document.getElementById('badge-ofs').textContent = ofsFlags.length;
+  document.getElementById('badge-qaa').textContent = qaaFlags.length;
 
   const order = { red: 0, amber: 1, green: 2 };
-  const sorted = [...flags].sort((a, b) =>
-    (order[a.risk_level] ?? 1) - (order[b.risk_level] ?? 1));
+  const sort = arr => [...arr].sort((a,b) => (order[a.risk_level]??1)-(order[b.risk_level]??1));
 
-  document.getElementById('flags-list').innerHTML = sorted.map((f, i) => {
-    const level = (f.risk_level || 'amber').toLowerCase();
-    const label = level.charAt(0).toUpperCase() + level.slice(1);
-    return `
-      <div class="flag-card" onclick="this.classList.toggle('open')">
-        <div class="flag-top">
-          <div class="flag-indicator ${level}"></div>
-          <div class="flag-main">
-            <div class="flag-cond">${f.condition_id || '—'} · ${f.condition_title || ''}</div>
-            <div class="flag-finding">${f.finding || f.recommendation || '—'}</div>
-          </div>
-          <span class="risk-badge ${level}">${label}</span>
-        </div>
-        <div class="flag-body">
-          ${f.evidence_cited ? `
-          <div class="flag-row">
-            <span class="flag-row-label">Evidence</span>
-            <span class="flag-row-val">${f.evidence_cited}</span>
-          </div>` : ''}
-          ${f.recommendation ? `
-          <div class="flag-row">
-            <span class="flag-row-label">Action</span>
-            <span class="flag-row-val">${f.recommendation}</span>
-          </div>` : ''}
-          <div class="citation">Standard: ${f.condition_id.startsWith('P') ? 'QAA Quality Code 2024' : 'OfS Conditions of Registration 2024'} · ${f.condition_id}</div>
-        </div>
-      </div>`;
-  }).join('');
+  document.getElementById('flags-all').innerHTML = sort(flags).map(f => buildFlagHTML(f, result.standards_version)).join('');
+  document.getElementById('flags-ofs').innerHTML = sort(ofsFlags).map(f => buildFlagHTML(f, result.standards_version)).join('') || '<p style="color:var(--gray-500);font-size:13px;padding:12px 0">No OfS flags</p>';
+  document.getElementById('flags-qaa').innerHTML = sort(qaaFlags).map(f => buildFlagHTML(f, result.standards_version)).join('') || '<p style="color:var(--gray-500);font-size:13px;padding:12px 0">No QAA flags</p>';
 
   document.getElementById('results-view').classList.remove('hidden');
 }
