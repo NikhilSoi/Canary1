@@ -1,1 +1,1 @@
-python3 canary_api.py
+web: uvicorn canary_api:app --host 0.0.0.0 --port $PORT
