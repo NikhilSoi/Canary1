@@ -125,10 +125,10 @@ def build_prompt(standards: dict, institution: InstitutionData) -> str:
             "criteria": [
                 {
                     "ref": cr.get("ref", ""),
-                    "text": cr.get("text", "")[:300],
+                    "text": cr.get("text", "")[:150],
                     "risk_indicators": cr.get("risk_indicators", [])
                 }
-                for cr in c.get("criteria", [])[:3]
+                for cr in c.get("criteria", [])[:2]
             ]
         })
 
